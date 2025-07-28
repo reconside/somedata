@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 84,
-    "generatedOn": "2025-07-27T20:54:59.720Z",
+    "generatedOn": "2025-07-28T19:50:26.923Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -14,7 +14,7 @@
   "pets": {
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
-      "value": "15Q - 30Q",
+      "value": "5Q - 8Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -79,7 +79,7 @@
     },
     "Moon Cat": {
       "name": "Moon Cat",
-      "value": "500T - 700T",
+      "value": "400T - 700T",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Popular",
@@ -157,7 +157,7 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "10Q - 12Q",
+      "value": "8Q - 12Q",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -170,7 +170,7 @@
     },
     "Football": {
       "name": "Football",
-      "value": "Unknown",
+      "value": "400T - 500T",
       "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
@@ -183,8 +183,8 @@
     },
     "Maneki-neko": {
       "name": "Maneki-neko",
-      "value": "Unknown",
-      "demand": 2,
+      "value": "100B - 200B",
+      "demand": 1,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -196,7 +196,7 @@
     },
     "Kodama": {
       "name": "Kodama",
-      "value": "Unknown",
+      "value": "400T - 500T",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -209,7 +209,7 @@
     },
     "Raiju": {
       "name": "Raiju",
-      "value": "Unknown",
+      "value": "1Q",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -235,7 +235,7 @@
     },
     "Brontosaurus": {
       "name": "Brontosaurus",
-      "value": "1Q",
+      "value": "700T - 1Q",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -274,7 +274,7 @@
     },
     "Bald Eagle": {
       "name": "Bald Eagle",
-      "value": "400T - 500T",
+      "value": "300T - 500T",
       "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
@@ -352,7 +352,7 @@
     },
     "Flamingo": {
       "name": "Flamingo",
-      "value": "800B - 2T",
+      "value": "1T - 2T",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
