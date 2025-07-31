@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 84,
-    "generatedOn": "2025-07-29T16:49:01.742Z",
+    "generatedOn": "2025-07-31T08:15:25.975Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -14,7 +14,7 @@
   "pets": {
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
-      "value": "5Q - 8Q",
+      "value": "3Q - 4Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -27,7 +27,7 @@
     },
     "Kitsune": {
       "name": "Kitsune",
-      "value": "30Q - 50Q",
+      "value": "25Q - 35Q",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -40,7 +40,7 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "5Q - 8Q",
+      "value": "4Q - 5Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -53,7 +53,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "4Q - 5Q",
+      "value": "3Q - 4Q",
       "demand": 8,
       "huge": "N/A",
       "popularity": "Popular",
@@ -66,7 +66,7 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "4Q - 5Q",
+      "value": "2Q - 4Q",
       "demand": 7,
       "huge": "N/A",
       "popularity": "Popular",
@@ -92,7 +92,7 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "4Q - 7Q",
+      "value": "5Q - 7Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -105,7 +105,7 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "11Q - 14Q",
+      "value": "9Q - 12Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -118,7 +118,7 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "3Q - 5Q",
+      "value": "3Q - 4Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -157,7 +157,7 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "8Q - 12Q",
+      "value": "8Q - 10Q",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -196,7 +196,7 @@
     },
     "Kodama": {
       "name": "Kodama",
-      "value": "400T - 500T",
+      "value": "150T - 300T",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -209,7 +209,7 @@
     },
     "Raiju": {
       "name": "Raiju",
-      "value": "1Q",
+      "value": "900T - 1Q",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -326,7 +326,7 @@
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
-      "value": "6Q - 10Q",
+      "value": "7Q - 9Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Regular",
@@ -1002,7 +1002,7 @@
     },
     "Bunny": {
       "name": "Bunny",
-      "value": "250K",
+      "value": "249K",
       "demand": 1,
       "huge": "600T",
       "popularity": "Regular",
