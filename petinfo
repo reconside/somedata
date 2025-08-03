@@ -2,12 +2,12 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 104,
-    "generatedOn": "2025-08-02T21:57:24.168Z",
+    "generatedOn": "2025-08-03T00:44:04.681Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 74,
-    "unobtainable": 30,
+    "obtainable": 58,
+    "unobtainable": 46,
     "popular": 9,
     "regular": 95
   },
@@ -18,11 +18,11 @@
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": true,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Kitsune": {
@@ -31,11 +31,11 @@
       "demand": 10,
       "huge": "200Q - 600Q",
       "popularity": "Popular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": true,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Spinosaurus": {
@@ -131,7 +131,7 @@
     },
     "Mochi Mouse": {
       "name": "Mochi Mouse",
-      "value": "3Q - 6Q",
+      "value": "2Q - 4Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Regular",
@@ -226,11 +226,11 @@
       "demand": 1,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Kodama": {
@@ -239,11 +239,11 @@
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Corrupted Kodama": {
@@ -252,11 +252,11 @@
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Raiju": {
@@ -265,11 +265,11 @@
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Shiba Inu": {
@@ -278,11 +278,11 @@
       "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Tanuki": {
@@ -291,11 +291,11 @@
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Kappa": {
@@ -304,11 +304,11 @@
       "demand": 7,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Tanchozuru": {
@@ -317,11 +317,11 @@
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Nihonzaru": {
@@ -330,11 +330,11 @@
       "demand": 5,
       "huge": "10Q - 20Q",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Koi": {
@@ -343,11 +343,11 @@
       "demand": 7,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Parasaurolophus": {
@@ -525,11 +525,11 @@
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Fennec Fox": {
@@ -538,11 +538,11 @@
       "demand": 9,
       "huge": "100Q - 200Q",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Meerkat": {
@@ -551,11 +551,11 @@
       "demand": 5,
       "huge": "7Q - 30Q",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Flamingo": {
@@ -1123,11 +1123,11 @@
       "demand": 5,
       "huge": "2Q",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Red Giant Ant": {
