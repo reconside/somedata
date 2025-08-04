@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 104,
-    "generatedOn": "2025-08-03T00:44:04.681Z",
+    "totalPets": 95,
+    "generatedOn": "2025-08-04T05:37:45.179Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
     "obtainable": 58,
-    "unobtainable": 46,
+    "unobtainable": 37,
     "popular": 9,
-    "regular": 95
+    "regular": 86
   },
   "pets": {
     "Corrupted Kitsune": {
@@ -131,8 +131,8 @@
     },
     "Mochi Mouse": {
       "name": "Mochi Mouse",
-      "value": "2Q - 4Q",
-      "demand": 9,
+      "value": "400T - 600T",
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -144,8 +144,8 @@
     },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
-      "value": "20Q - 30Q",
-      "demand": 9,
+      "value": "8Q - 12Q",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -170,8 +170,8 @@
     },
     "Spaghetti Sloth": {
       "name": "Spaghetti Sloth",
-      "value": "Unknown",
-      "demand": 0,
+      "value": "3Q - 5Q",
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -183,8 +183,8 @@
     },
     "Sushi Bear": {
       "name": "Sushi Bear",
-      "value": "Unknown",
-      "demand": 0,
+      "value": "1Q",
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -212,123 +212,6 @@
       "value": "400T - 500T",
       "demand": 4,
       "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Maneki-neko": {
-      "name": "Maneki-neko",
-      "value": "100B - 200B",
-      "demand": 1,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Kodama": {
-      "name": "Kodama",
-      "value": "40T - 50T",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Corrupted Kodama": {
-      "name": "Corrupted Kodama",
-      "value": "400T - 500T",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Raiju": {
-      "name": "Raiju",
-      "value": "500T - 1Q",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Shiba Inu": {
-      "name": "Shiba Inu",
-      "value": "100B - 200B",
-      "demand": 4,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Tanuki": {
-      "name": "Tanuki",
-      "value": "14T - 15T",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Kappa": {
-      "name": "Kappa",
-      "value": "300T - 400T",
-      "demand": 7,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Tanchozuru": {
-      "name": "Tanchozuru",
-      "value": "300T - 400T",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Nihonzaru": {
-      "name": "Nihonzaru",
-      "value": "1T - 2T",
-      "demand": 5,
-      "huge": "10Q - 20Q",
       "popularity": "Regular",
       "availability": "Unobtainable",
       "badges": {
@@ -1367,4 +1250,4 @@
   }
 }
 
-// ✅ SUCCESS: Found 104 pets! Dataset appears complete.
+// ✅ SUCCESS: Found 95 pets! Dataset appears complete.
