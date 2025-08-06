@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 95,
-    "generatedOn": "2025-08-04T05:37:45.179Z",
+    "generatedOn": "2025-08-06T03:32:34.665Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -14,7 +14,7 @@
   "pets": {
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
-      "value": "1Q - 2Q",
+      "value": "800T - 1.5Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -40,7 +40,7 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "4Q - 5Q",
+      "value": "3Q - 5Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -53,7 +53,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "3Q - 4Q",
+      "value": "2Q - 4Q",
       "demand": 8,
       "huge": "N/A",
       "popularity": "Popular",
@@ -66,7 +66,7 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "2Q - 4Q",
+      "value": "2Q - 3Q",
       "demand": 7,
       "huge": "N/A",
       "popularity": "Popular",
@@ -92,7 +92,7 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "9Q - 12Q",
+      "value": "9Q - 10Q",
       "demand": 10,
       "huge": "100Q - 200Q",
       "popularity": "Popular",
@@ -118,7 +118,7 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "8Q - 10Q",
+      "value": "9Q - 10Q",
       "demand": 10,
       "huge": "100Q - 200Q",
       "popularity": "Popular",
@@ -144,7 +144,7 @@
     },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
-      "value": "8Q - 12Q",
+      "value": "3Q - 5Q",
       "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
@@ -170,7 +170,7 @@
     },
     "Spaghetti Sloth": {
       "name": "Spaghetti Sloth",
-      "value": "3Q - 5Q",
+      "value": "700T - 1Q",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -183,7 +183,7 @@
     },
     "Sushi Bear": {
       "name": "Sushi Bear",
-      "value": "1Q",
+      "value": "500T - 1Q",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -235,7 +235,7 @@
     },
     "Parasaurolophus": {
       "name": "Parasaurolophus",
-      "value": "2T - 3T",
+      "value": "10T - 15T",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -248,7 +248,7 @@
     },
     "Iguanodon": {
       "name": "Iguanodon",
-      "value": "3T - 4T",
+      "value": "30T - 40T",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -261,7 +261,7 @@
     },
     "Pachycephalosaurus": {
       "name": "Pachycephalosaurus",
-      "value": "3T - 4T",
+      "value": "5T - 10T",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -300,7 +300,7 @@
     },
     "Triceratops": {
       "name": "Triceratops",
-      "value": "4T - 5T",
+      "value": "40T - 50T",
       "demand": 2,
       "huge": "N/A",
       "popularity": "Regular",
@@ -365,7 +365,7 @@
     },
     "Bald Eagle": {
       "name": "Bald Eagle",
-      "value": "300T - 500T",
+      "value": "400T - 500T",
       "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
@@ -417,7 +417,7 @@
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
-      "value": "7Q - 9Q",
+      "value": "6Q - 8Q",
       "demand": 9,
       "huge": "100Q - 200Q",
       "popularity": "Regular",
@@ -651,7 +651,7 @@
     },
     "Wasp": {
       "name": "Wasp",
-      "value": "7T - 8T",
+      "value": "70T - 80T",
       "demand": 4,
       "huge": "5Q - 20Q",
       "popularity": "Regular",
@@ -664,7 +664,7 @@
     },
     "Moth": {
       "name": "Moth",
-      "value": "12T - 15T",
+      "value": "120T - 150T",
       "demand": 5,
       "huge": "10Q - 25Q",
       "popularity": "Regular",
@@ -677,7 +677,7 @@
     },
     "Tarantula Hawk": {
       "name": "Tarantula Hawk",
-      "value": "7T - 8T",
+      "value": "70T - 80T",
       "demand": 5,
       "huge": "10Q - 45Q",
       "popularity": "Regular",
@@ -742,7 +742,7 @@
     },
     "Owl": {
       "name": "Owl",
-      "value": "1.6T - 2.4T",
+      "value": "15T - 25T",
       "demand": 7,
       "huge": "N/A",
       "popularity": "Regular",
@@ -768,7 +768,7 @@
     },
     "Echo Frog": {
       "name": "Echo Frog",
-      "value": "1.2T - 2T",
+      "value": "12T - 20T",
       "demand": 6,
       "huge": "12Q",
       "popularity": "Regular",
@@ -781,7 +781,7 @@
     },
     "Bear Bee": {
       "name": "Bear Bee",
-      "value": "20T - 25T",
+      "value": "200T - 250T",
       "demand": 6,
       "huge": "30Q",
       "popularity": "Regular",
@@ -820,7 +820,7 @@
     },
     "Turtle": {
       "name": "Turtle",
-      "value": "20T - 30T",
+      "value": "150T - 200T",
       "demand": 7,
       "huge": "22Q",
       "popularity": "Regular",
@@ -833,7 +833,7 @@
     },
     "Mole": {
       "name": "Mole",
-      "value": "400B - 600B",
+      "value": "4T - 6T",
       "demand": 5,
       "huge": "2Q",
       "popularity": "Regular",
@@ -872,7 +872,7 @@
     },
     "Frog": {
       "name": "Frog",
-      "value": "1T - 1.6T",
+      "value": "10T - 15T",
       "demand": 5,
       "huge": "2Q",
       "popularity": "Regular",
@@ -924,7 +924,7 @@
     },
     "Petal Bee": {
       "name": "Petal Bee",
-      "value": "10T - 14T",
+      "value": "100T - 140T",
       "demand": 5,
       "huge": "25Q - 45Q",
       "popularity": "Regular",
@@ -1002,7 +1002,7 @@
     },
     "Hedgehog": {
       "name": "Hedgehog",
-      "value": "400B - 600B",
+      "value": "4T - 6T",
       "demand": 5,
       "huge": "2Q",
       "popularity": "Regular",
@@ -1093,7 +1093,7 @@
     },
     "Kiwi": {
       "name": "Kiwi",
-      "value": "1.2T - 2T",
+      "value": "12T - 20T",
       "demand": 6,
       "huge": "12Q",
       "popularity": "Regular",
