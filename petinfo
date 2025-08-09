@@ -1,868 +1,679 @@
 {
   "metadata": {
-    "title": "Grow a Garden Pet Summaries",
-    "totalPets": 92,
-    "generatedOn": "2025-08-09T09:37:57.141Z"
+    "title": "Grow a Garden Pet Values",
+    "totalPets": 51,
+    "generatedOn": "2025-08-09T09:39:05.742Z",
+    "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "legendary": 2,
-    "rare": 4,
-    "uncommon": 76,
-    "common": 10,
-    "obtainable": 88,
-    "unobtainable": 4
+    "obtainable": 19,
+    "unobtainable": 31,
+    "popular": 9,
+    "regular": 41
   },
   "pets": {
+    "Corrupted Kitsune": {
+      "name": "Corrupted Kitsune",
+      "value": "1Q - 1.75Q",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
     "Kitsune": {
       "name": "Kitsune",
-      "description": "Best pet in the game currently. It also had an extremely low hatch chance during a limited – time event. Jandel said they won’t be adding such a rare pet in the future.",
-      "traits": [],
-      "rarity": "Legendary",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Raccoon": {
-      "name": "Raccoon",
-      "description": "Best sheckle – farming pet. Essential for becoming ultra – rich when combined with large crops. This pet broke the sheckle economy.",
-      "traits": [
-        "Sheckle farming"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": true,
-        "hasSpecialEffects": false
-      }
-    },
-    "Disco Bee": {
-      "name": "Disco Bee",
-      "description": "Applies an insane 125x multiplier. Can spread across your garden with T – Rex and Mimic Octopus. On par with Raccoon for value.",
-      "traits": [
-        "Multiplier: 125x"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": true,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Fennec Fox": {
-      "name": "Fennec Fox",
-      "description": "7Q Sheckles",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Butterfly": {
-      "name": "Butterfly",
-      "description": "Consumes five mutations to turn a crop into rainbow (50x) multiplier, which is the strongest in the game. Does not stack with gold. Amazing pet, but it is still technically obtainable.",
-      "traits": [
-        "Rainbow effects",
-        "Gold effects"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": true
-      }
-    },
-    "1Q": {
-      "name": "1Q",
-      "description": "1.75Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "25Q": {
-      "name": "25Q",
-      "description": "35Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "3Q": {
-      "name": "3Q",
-      "description": "5Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "2Q": {
-      "name": "2Q",
-      "description": "4Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "5Q": {
-      "name": "5Q",
-      "description": "7Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "9Q": {
-      "name": "9Q",
-      "description": "10Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "11Q": {
-      "name": "11Q",
-      "description": "12Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "200T": {
-      "name": "200T",
-      "description": "250T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "40T": {
-      "name": "40T",
-      "description": "50T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "800T": {
-      "name": "800T",
-      "description": "1Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "400T": {
-      "name": "400T",
-      "description": "500T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "100B": {
-      "name": "100B",
-      "description": "200B",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "5T": {
-      "name": "5T",
-      "description": "10T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "500T": {
-      "name": "500T",
-      "description": "1Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "14T": {
-      "name": "14T",
-      "description": "15T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "300T": {
-      "name": "300T",
-      "description": "400T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "1T": {
-      "name": "1T",
-      "description": "2T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "10Q": {
-      "name": "10Q",
-      "description": "20Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "10T": {
-      "name": "10T",
-      "description": "12T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "30T": {
-      "name": "30T",
-      "description": "40T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "4Q": {
-      "name": "4Q",
-      "description": "6Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "15T": {
-      "name": "15T",
-      "description": "20T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "6Q": {
-      "name": "6Q",
-      "description": "8Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "4T": {
-      "name": "4T",
-      "description": "7T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "7Q": {
-      "name": "7Q",
-      "description": "30Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "120B": {
-      "name": "120B",
-      "description": "240B",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "1.2T": {
-      "name": "1.2T",
-      "description": "2.4T",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "20Q": {
-      "name": "20Q",
-      "description": "45Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "15Q": {
-      "name": "15Q",
-      "description": "25Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "8Q": {
-      "name": "8Q",
-      "description": "20Q",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+      "value": "25Q - 35Q",
+      "demand": 10,
+      "huge": "250Q+",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "description": "Great for stacking mutations. Similar to T – Rex, good, but quite common.",
-      "traits": [],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+      "value": "3Q - 5Q",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "French Fry Ferret": {
-      "name": "French Fry Ferret",
-      "description": "Best XP booster for level 50+ pets. Newest rare pet, so there’s lots of hype.",
-      "traits": [
-        "XP booster",
-        "Level boosting"
-      ],
-      "rarity": "Rare",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "T-Rex": {
+      "name": "T-Rex",
+      "value": "2Q - 4Q",
+      "demand": 8,
+      "huge": "100Q+",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "description": "Powerful all – around pet, amazing for spreading effects. Core to many high – level AFK setups. The huge rainbow version is completely broken. However, it is very common and still obtainable.",
-      "traits": [
-        "Rainbow effects",
-        "AFK farming"
-      ],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": true,
-        "hasSpecialEffects": true
+      "value": "2Q - 3Q",
+      "demand": 7,
+      "huge": "150Q+",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Queen Bee": {
-      "name": "Queen Bee",
-      "description": "Buffs fruit pollination and reduces cooldowns. Used to be very valuable, but was nerfed and is still technically obtainable. Slowly rising now, though.",
-      "traits": [
-        "Pollination buff"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Butterfly": {
+      "name": "Butterfly",
+      "value": "5Q - 7Q",
+      "demand": 9,
+      "huge": "75Q+",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Disco Bee": {
+      "name": "Disco Bee",
+      "value": "9Q - 10Q",
+      "demand": 10,
+      "huge": "100Q+",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "description": "Turns crops gold every 5 minutes (20x multiplier). Does not stack with rainbow, but it is very easy to apply. Popular pet, but a worse version of Butterfly, and more common.",
-      "traits": [
-        "Multiplier: 20x",
-        "Rainbow effects",
-        "Gold effects"
-      ],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": true,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": true
+      "value": "2Q - 4Q",
+      "demand": 9,
+      "huge": "50Q+",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Moon Cat": {
-      "name": "Moon Cat",
-      "description": "Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.",
-      "traits": [],
-      "rarity": "Rare",
-      "obtainable": false,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Raccoon": {
+      "name": "Raccoon",
+      "value": "11Q - 12Q",
+      "demand": 10,
+      "huge": "150Q+",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "Red Fox": {
-      "name": "Red Fox",
-      "description": "Steals seeds from other gardens (very low chance). Ideal for AFKing on alt accounts, but very common and still obtainable.",
-      "traits": [
-        "AFK farming"
-      ],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": true,
-        "hasSpecialEffects": false
+    "Mochi Mouse": {
+      "name": "Mochi Mouse",
+      "value": "200T - 300T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Chicken Zombie": {
-      "name": "Chicken Zombie",
-      "description": "Applies a unique Zombified mutation and reduces egg hatching time. This was only obtainable during the pre – launch for update 1.06.0, when the game wasn’t as popular as now.",
-      "traits": [
-        "Egg hatching"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Cooked Owl": {
-      "name": "Cooked Owl",
-      "description": "Very similar to Chicken Zombie, but more common.",
-      "traits": [],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Seal": {
-      "name": "Seal",
-      "description": "This should always be used when selling pets. It has a chance to refund the original egg back. Especially useful for all the event pets that take up your inventory. However, it’s quite easy to obtain.",
-      "traits": [],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Triceratops": {
-      "name": "Triceratops",
-      "description": "Can make huge crops. Strong for Moon Cat/Bone Blossom method. While this pet is useful, it was also super common from the dinosaur egg.",
-      "traits": [],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Capybara": {
-      "name": "Capybara",
-      "description": "Good for pet level boosting. Simple and powerful. However, it’s easy to obtain.",
-      "traits": [
-        "Level boosting"
-      ],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Wasp, Tarantula Hawk": {
-      "name": "Wasp, Tarantula Hawk",
-      "description": "Like Queen Bee, buffs fruit pollination and reduces cooldowns.",
-      "traits": [
-        "Pollination buff"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
-      }
-    },
-    "Moth": {
-      "name": "Moth",
-      "description": "Great AFK overnight pet. Highly efficient and reliable.",
-      "traits": [
-        "AFK farming"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": true,
-        "hasSpecialEffects": false
-      }
-    },
-    "Mole": {
-      "name": "Mole",
-      "description": "Previously meta for sprinkler and sheckle farming overnight. Now rare and not as useful.",
-      "traits": [
-        "Sheckle farming"
-      ],
-      "rarity": "Rare",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": true,
-        "hasSpecialEffects": false
+    "French Fry Ferret": {
+      "name": "French Fry Ferret",
+      "value": "3Q - 5Q",
+      "demand": 8,
+      "huge": "85Q+",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Pancake Mole": {
       "name": "Pancake Mole",
-      "description": "Upgraded mole, can get Grandmaster Sprinkler.",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+      "value": "40T - 50T",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Blood Kiwi": {
-      "name": "Blood Kiwi",
-      "description": "Best for fast egg incubation. Not actual hatching. No longer obtainable.",
-      "traits": [
-        "Egg hatching"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": false,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Spaghetti Sloth": {
+      "name": "Spaghetti Sloth",
+      "value": "800T - 1Q",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Mochi Mouse, Starfish": {
-      "name": "Mochi Mouse, Starfish",
-      "description": "Great leveling pets to unlock extra slots. Mochi Mouse is new, limited, and with more hype for it. Starfish is easy to obtain.",
-      "traits": [],
-      "rarity": "Rare",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Sushi Bear": {
+      "name": "Sushi Bear",
+      "value": "400T - 600T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Ostrich, Brontosaurus, Koi": {
-      "name": "Ostrich, Brontosaurus, Koi",
-      "description": "The best pets for egg hatching. Ostrich is obtainable and easy to get, but the other two are unobtainable.",
-      "traits": [
-        "Egg hatching"
-      ],
-      "rarity": "Legendary",
-      "obtainable": false,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Bagel Bunny": {
+      "name": "Bagel Bunny",
+      "value": "100B - 200B",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Blood Owl, Night Owl, Owl": {
-      "name": "Blood Owl, Night Owl, Owl",
-      "description": "All great for easy pet XP boosts, and no longer obtainable.",
-      "traits": [
-        "XP booster"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": false,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Football": {
+      "name": "Football",
+      "value": "400T - 500T",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "Pack Bee": {
-      "name": "Pack Bee",
-      "description": "Adds pet storage and offers pollination. Very convenient for high – level players.",
-      "traits": [
-        "Pollination buff"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Maneki-neko": {
+      "name": "Maneki-neko",
+      "value": "100B - 200B",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Kodama": {
+      "name": "Kodama",
+      "value": "5T - 10T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Corrupted Kodama": {
+      "name": "Corrupted Kodama",
+      "value": "400T - 500T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Raiju": {
+      "name": "Raiju",
+      "value": "500T - 1Q",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Shiba Inu": {
+      "name": "Shiba Inu",
+      "value": "100B - 200B",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Tanuki": {
       "name": "Tanuki",
-      "description": "Solid passive for newer players, but very common.",
-      "traits": [],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+      "value": "14T - 15T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "Stegosaurus, Giant Ant": {
-      "name": "Stegosaurus, Giant Ant",
-      "description": "Duplicates crops. Fantastic for late – game farming. Both very common, though.",
-      "traits": [],
-      "rarity": "Common",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Kappa": {
+      "name": "Kappa",
+      "value": "300T - 400T",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Tanchozuru": {
+      "name": "Tanchozuru",
+      "value": "200T - 300T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Nihonzaru": {
+      "name": "Nihonzaru",
+      "value": "1T - 2T",
+      "demand": 5,
+      "huge": "10Q - 20Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Koi": {
+      "name": "Koi",
+      "value": "300T - 400T",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Parasaurolophus": {
+      "name": "Parasaurolophus",
+      "value": "10T - 15T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Iguanodon": {
+      "name": "Iguanodon",
+      "value": "30T - 40T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Pachycephalosaurus": {
+      "name": "Pachycephalosaurus",
+      "value": "5T - 10T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Dilophosaurus": {
+      "name": "Dilophosaurus",
+      "value": "500T - 700T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Ankylosaurus": {
+      "name": "Ankylosaurus",
+      "value": "500T - 1Q",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Triceratops": {
+      "name": "Triceratops",
+      "value": "40T - 50T",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Stegosaurus": {
+      "name": "Stegosaurus",
+      "value": "30T - 40T",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Brontosaurus": {
+      "name": "Brontosaurus",
+      "value": "500T - 1Q",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Raptor": {
+      "name": "Raptor",
+      "value": "100B - 200B",
+      "demand": 2,
+      "huge": "4Q - 6Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Pterodactyl": {
+      "name": "Pterodactyl",
+      "value": "40T - 50T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Bald Eagle": {
       "name": "Bald Eagle",
-      "description": "Reduces egg hatching time slightly. The trait isn’t amazing. However, it was only obtainable for one day on July 4th.",
-      "traits": [
-        "Egg hatching"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
+      "value": "400T - 500T",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "Caterpillar, Iguanodon, Kiwi, Hedgehog": {
-      "name": "Caterpillar, Iguanodon, Kiwi, Hedgehog",
-      "description": "Solid middle – tier performers. Cater to niches like XP gain and minor support.",
-      "traits": [
-        "XP booster"
-      ],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": true,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Axolotl": {
+      "name": "Axolotl",
+      "value": "200T - 250T",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Hyacinth Macaw": {
+      "name": "Hyacinth Macaw",
+      "value": "300T - 400T",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Sand Snake": {
       "name": "Sand Snake",
-      "description": "1.5% chance to duplicate store purchases. Niche but useful.",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+      "value": "15T - 20T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "Turtle": {
-      "name": "Turtle",
-      "description": "Slightly boosts sprinkler time. Still obtainable, but low hatch chance.",
-      "traits": [],
-      "rarity": "Uncommon",
-      "obtainable": true,
-      "summary": {
-        "hasMultiplier": false,
-        "isUtility": false,
-        "isFarming": false,
-        "hasSpecialEffects": false
+    "Fennec Fox": {
+      "name": "Fennec Fox",
+      "value": "6Q - 8Q",
+      "demand": 9,
+      "huge": "100Q+",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Meerkat": {
+      "name": "Meerkat",
+      "value": "4T - 8T",
+      "demand": 5,
+      "huge": "7Q - 30Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Flamingo": {
+      "name": "Flamingo",
+      "value": "1T - 2T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Seagull": {
+      "name": "Seagull",
+      "value": "120B - 240B",
+      "demand": 4,
+      "huge": "675T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Crab": {
+      "name": "Crab",
+      "value": "120B - 240B",
+      "demand": 4,
+      "huge": "850T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sea Turtle": {
+      "name": "Sea Turtle",
+      "value": "1.2T - 2.4T",
+      "demand": 5,
+      "huge": "20Q - 45Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Seal": {
+      "name": "Seal",
+      "value": "200T - 250T",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Orangutan": {
+      "name": "Orangutan",
+      "value": "4T - 7T",
+      "demand": 5,
+      "huge": "15Q - 25Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Starfish": {
+      "name": "Starfish",
+      "value": "120B - 240B",
+      "demand": 4,
+      "huge": "650T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Toucan": {
+      "name": "Toucan",
+      "value": "10T - 12T",
+      "demand": 5,
+      "huge": "8Q - 20Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.": {
+      "name": "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "",
+      "availability": "",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": false
       }
     }
   }
 }
-
-// ✅ SUCCESS: Found 92 pets! Good dataset.
