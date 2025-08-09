@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 51,
-    "generatedOn": "2025-08-09T09:39:05.742Z",
+    "totalPets": 62,
+    "generatedOn": "2025-08-09T09:40:04.913Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 19,
-    "unobtainable": 31,
+    "obtainable": 43,
+    "unobtainable": 18,
     "popular": 9,
-    "regular": 41
+    "regular": 52
   },
   "pets": {
     "Corrupted Kitsune": {
@@ -220,87 +220,87 @@
         "isUnobtainable": true
       }
     },
-    "Maneki-neko": {
-      "name": "Maneki-neko",
-      "value": "100B - 200B",
-      "demand": 1,
-      "huge": "N/A",
+    "Moth": {
+      "name": "Moth",
+      "value": "120T - 150T",
+      "demand": 5,
+      "huge": "10Q - 25Q",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Kodama": {
-      "name": "Kodama",
-      "value": "5T - 10T",
-      "demand": 6,
-      "huge": "N/A",
+    "Tarantula Hawk": {
+      "name": "Tarantula Hawk",
+      "value": "70T - 80T",
+      "demand": 5,
+      "huge": "10Q - 45Q",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Corrupted Kodama": {
-      "name": "Corrupted Kodama",
-      "value": "400T - 500T",
-      "demand": 6,
-      "huge": "N/A",
+    "Queen Bee": {
+      "name": "Queen Bee",
+      "value": "2Q - 3Q",
+      "demand": 5,
+      "huge": "50Q+",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Raiju": {
-      "name": "Raiju",
-      "value": "500T - 1Q",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Shiba Inu": {
-      "name": "Shiba Inu",
-      "value": "100B - 200B",
+    "Snail": {
+      "name": "Snail",
+      "value": "800B - 1.6T",
       "demand": 4,
-      "huge": "N/A",
+      "huge": "700T",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Tanuki": {
-      "name": "Tanuki",
-      "value": "14T - 15T",
+    "Red Fox": {
+      "name": "Red Fox",
+      "value": "500T - 1Q",
+      "demand": 7,
+      "huge": "40Q+",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Caterpillar": {
+      "name": "Caterpillar",
+      "value": "1.6T - 2.4T",
       "demand": 6,
-      "huge": "N/A",
+      "huge": "5Q - 15Q",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Kappa": {
-      "name": "Kappa",
-      "value": "300T - 400T",
+    "Owl": {
+      "name": "Owl",
+      "value": "15T - 25T",
       "demand": 7,
       "huge": "N/A",
       "popularity": "Regular",
@@ -311,9 +311,9 @@
         "isUnobtainable": true
       }
     },
-    "Tanchozuru": {
-      "name": "Tanchozuru",
-      "value": "200T - 300T",
+    "Chicken Zombie": {
+      "name": "Chicken Zombie",
+      "value": "2Q - 3Q",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -324,76 +324,11 @@
         "isUnobtainable": true
       }
     },
-    "Nihonzaru": {
-      "name": "Nihonzaru",
-      "value": "1T - 2T",
-      "demand": 5,
-      "huge": "10Q - 20Q",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Koi": {
-      "name": "Koi",
-      "value": "300T - 400T",
-      "demand": 7,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Parasaurolophus": {
-      "name": "Parasaurolophus",
-      "value": "10T - 15T",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Iguanodon": {
-      "name": "Iguanodon",
-      "value": "30T - 40T",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Pachycephalosaurus": {
-      "name": "Pachycephalosaurus",
-      "value": "5T - 10T",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Dilophosaurus": {
-      "name": "Dilophosaurus",
-      "value": "500T - 700T",
+    "Echo Frog": {
+      "name": "Echo Frog",
+      "value": "12T - 20T",
       "demand": 6,
-      "huge": "N/A",
+      "huge": "12Q",
       "popularity": "Regular",
       "availability": "Unobtainable",
       "badges": {
@@ -402,167 +337,11 @@
         "isUnobtainable": true
       }
     },
-    "Ankylosaurus": {
-      "name": "Ankylosaurus",
-      "value": "500T - 1Q",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Triceratops": {
-      "name": "Triceratops",
-      "value": "40T - 50T",
-      "demand": 2,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Stegosaurus": {
-      "name": "Stegosaurus",
-      "value": "30T - 40T",
-      "demand": 2,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Brontosaurus": {
-      "name": "Brontosaurus",
-      "value": "500T - 1Q",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Raptor": {
-      "name": "Raptor",
-      "value": "100B - 200B",
-      "demand": 2,
-      "huge": "4Q - 6Q",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Pterodactyl": {
-      "name": "Pterodactyl",
-      "value": "40T - 50T",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Bald Eagle": {
-      "name": "Bald Eagle",
-      "value": "400T - 500T",
-      "demand": 4,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Axolotl": {
-      "name": "Axolotl",
+    "Bear Bee": {
+      "name": "Bear Bee",
       "value": "200T - 250T",
-      "demand": 7,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Hyacinth Macaw": {
-      "name": "Hyacinth Macaw",
-      "value": "300T - 400T",
-      "demand": 7,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Sand Snake": {
-      "name": "Sand Snake",
-      "value": "15T - 20T",
       "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Fennec Fox": {
-      "name": "Fennec Fox",
-      "value": "6Q - 8Q",
-      "demand": 9,
-      "huge": "100Q+",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Meerkat": {
-      "name": "Meerkat",
-      "value": "4T - 8T",
-      "demand": 5,
-      "huge": "7Q - 30Q",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
-    "Flamingo": {
-      "name": "Flamingo",
-      "value": "1T - 2T",
-      "demand": 5,
-      "huge": "N/A",
+      "huge": "30Q+",
       "popularity": "Regular",
       "availability": "Obtainable",
       "badges": {
@@ -571,10 +350,62 @@
         "isUnobtainable": false
       }
     },
-    "Seagull": {
-      "name": "Seagull",
+    "Silver Monkey": {
+      "name": "Silver Monkey",
       "value": "120B - 240B",
-      "demand": 4,
+      "demand": 3,
+      "huge": "700T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sea Otter": {
+      "name": "Sea Otter",
+      "value": "480B - 960B",
+      "demand": 3,
+      "huge": "12Q - 13Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Turtle": {
+      "name": "Turtle",
+      "value": "150T - 200T",
+      "demand": 7,
+      "huge": "22Q+",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Mole": {
+      "name": "Mole",
+      "value": "40T - 60T",
+      "demand": 5,
+      "huge": "2Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Cow": {
+      "name": "Cow",
+      "value": "120B - 240B",
+      "demand": 2,
       "huge": "675T",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -584,50 +415,76 @@
         "isUnobtainable": false
       }
     },
-    "Crab": {
-      "name": "Crab",
-      "value": "120B - 240B",
-      "demand": 4,
-      "huge": "850T",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Sea Turtle": {
-      "name": "Sea Turtle",
-      "value": "1.2T - 2.4T",
-      "demand": 5,
-      "huge": "20Q - 45Q",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Seal": {
-      "name": "Seal",
+    "Polar Bear": {
+      "name": "Polar Bear",
       "value": "200T - 250T",
-      "demand": 6,
+      "demand": 5,
+      "huge": "33Q+",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Frog": {
+      "name": "Frog",
+      "value": "10T - 15T",
+      "demand": 5,
+      "huge": "2Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Blood Kiwi": {
+      "name": "Blood Kiwi",
+      "value": "400T - 500T",
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Obtainable",
+      "availability": "Unobtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
-    "Orangutan": {
-      "name": "Orangutan",
-      "value": "4T - 7T",
+    "Panda": {
+      "name": "Panda",
+      "value": "2Q - 3Q",
       "demand": 5,
-      "huge": "15Q - 25Q",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Blood Hedgehog": {
+      "name": "Blood Hedgehog",
+      "value": "400T - 500T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Petal Bee": {
+      "name": "Petal Bee",
+      "value": "100T - 140T",
+      "demand": 5,
+      "huge": "25Q - 45Q",
       "popularity": "Regular",
       "availability": "Obtainable",
       "badges": {
@@ -636,10 +493,140 @@
         "isUnobtainable": false
       }
     },
-    "Starfish": {
-      "name": "Starfish",
-      "value": "120B - 240B",
+    "Orange Tabby": {
+      "name": "Orange Tabby",
+      "value": "100M",
+      "demand": 2,
+      "huge": "625T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Pig": {
+      "name": "Pig",
+      "value": "100M",
+      "demand": 2,
+      "huge": "625T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Rooster": {
+      "name": "Rooster",
+      "value": "150M",
+      "demand": 2,
+      "huge": "625T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Spotted Deer": {
+      "name": "Spotted Deer",
+      "value": "100M",
+      "demand": 1,
+      "huge": "625T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Monkey": {
+      "name": "Monkey",
+      "value": "150M",
+      "demand": 2,
+      "huge": "625T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Hedgehog": {
+      "name": "Hedgehog",
+      "value": "4T - 6T",
+      "demand": 5,
+      "huge": "2Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Red Giant Ant": {
+      "name": "Red Giant Ant",
+      "value": "2.5T - 3.5T",
+      "demand": 5,
+      "huge": "5Q - 15Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Giant Ant": {
+      "name": "Giant Ant",
+      "value": "1.6T - 2.4T",
       "demand": 4,
+      "huge": "700T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Squirrel": {
+      "name": "Squirrel",
+      "value": "360B - 560B",
+      "demand": 5,
+      "huge": "675T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Praying Mantis": {
+      "name": "Praying Mantis",
+      "value": "1.6T - 2.4T",
+      "demand": 6,
+      "huge": "5Q - 25Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Brown Mouse": {
+      "name": "Brown Mouse",
+      "value": "360B - 560B",
+      "demand": 3,
       "huge": "650T",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -649,17 +636,173 @@
         "isUnobtainable": false
       }
     },
-    "Toucan": {
-      "name": "Toucan",
-      "value": "10T - 12T",
-      "demand": 5,
-      "huge": "8Q - 20Q",
+    "Grey Mouse": {
+      "name": "Grey Mouse",
+      "value": "280B - 440B",
+      "demand": 3,
+      "huge": "650T",
       "popularity": "Regular",
       "availability": "Obtainable",
       "badges": {
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      }
+    },
+    "Kiwi": {
+      "name": "Kiwi",
+      "value": "12T - 20T",
+      "demand": 6,
+      "huge": "12Q",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Honey Bee": {
+      "name": "Honey Bee",
+      "value": "1.6T - 2.4T",
+      "demand": 5,
+      "huge": "5Q - 15Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Dog": {
+      "name": "Dog",
+      "value": "250K",
+      "demand": 2,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Golden Lab": {
+      "name": "Golden Lab",
+      "value": "250K",
+      "demand": 2,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bunny": {
+      "name": "Bunny",
+      "value": "250K",
+      "demand": 1,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Black Bunny": {
+      "name": "Black Bunny",
+      "value": "50M",
+      "demand": 1,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bee": {
+      "name": "Bee",
+      "value": "240B - 480B",
+      "demand": 5,
+      "huge": "2Q",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Chicken": {
+      "name": "Chicken",
+      "value": "50M",
+      "demand": 1,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Deer": {
+      "name": "Deer",
+      "value": "50M",
+      "demand": 1,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Cat": {
+      "name": "Cat",
+      "value": "50M",
+      "demand": 2,
+      "huge": "600T",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Night Owl": {
+      "name": "Night Owl",
+      "value": "300T - 400T",
+      "demand": 6,
+      "huge": "35Q+",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Blood Owl": {
+      "name": "Blood Owl",
+      "value": "400T - 500T",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.": {
