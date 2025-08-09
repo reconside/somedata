@@ -1,30 +1,17 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 96,
-    "generatedOn": "2025-08-09T15:11:38.529Z",
+    "totalPets": 94,
+    "generatedOn": "2025-08-09T15:18:42.869Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
     "obtainable": 50,
-    "unobtainable": 45,
-    "popular": 9,
+    "unobtainable": 44,
+    "popular": 8,
     "regular": 86
   },
   "pets": {
-    "Corrupted Kitsune": {
-      "name": "Corrupted Kitsune",
-      "value": "1Q - 1.75Q",
-      "demand": 9,
-      "huge": "N/A",
-      "popularity": "Popular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": true,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
     "Kitsune": {
       "name": "Kitsune",
       "value": "25Q - 35Q",
@@ -1234,6 +1221,19 @@
         "isUnobtainable": true
       }
     },
+    "Junkbot": {
+      "name": "Junkbot",
+      "value": "Unknown",
+      "demand": N/A,
+      "huge": "N/A",
+      "popularity": "N/A",
+      "availability": "N/A",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": false
+      }
+    },
     "Blood Owl": {
       "name": "Blood Owl",
       "value": "400T - 500T",
@@ -1246,21 +1246,8 @@
         "isObtainable": false,
         "isUnobtainable": true
       }
-    },
-    "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.": {
-      "name": "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.",
-      "value": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "",
-      "availability": "",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": false
-      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 96 pets! Dataset appears complete.
+// ✅ SUCCESS: Found 94 pets! Dataset appears complete.
