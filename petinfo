@@ -1247,8 +1247,8 @@
         "isUnobtainable": true
       }
     },
-    "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.": {
-      "name": "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.",
+    "Moon Cat": {
+      "name": "Moon Cat",
       "value": "Unknown",
       "demand": 0,
       "huge": "N/A",
