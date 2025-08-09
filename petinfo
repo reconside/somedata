@@ -25,19 +25,6 @@
         "isUnobtainable": true
       }
     },
-    "Junkbot": {
-      "name": "Junkbot",
-      "value": "25Q - 35Q",
-      "demand": 10,
-      "huge": "250Q+",
-      "popularity": "Popular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": true,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
     "Spinosaurus": {
       "name": "Spinosaurus",
       "value": "3Q - 5Q",
