@@ -27,15 +27,15 @@
     },
     "Junkbot": {
       "name": "Junkbot",
-      "value": "Unknown",
-      "demand": N/A,
-      "huge": "N/A",
-      "popularity": "N/A",
-      "availability": "N/A",
+      "value": "25Q - 35Q",
+      "demand": 10,
+      "huge": "250Q+",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
       "badges": {
-        "isPopular": false,
+        "isPopular": true,
         "isObtainable": false,
-        "isUnobtainable": false
+        "isUnobtainable": true
       }
     },
     "Spinosaurus": {
