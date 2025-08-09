@@ -25,6 +25,19 @@
         "isUnobtainable": true
       }
     },
+    "Junkbot": {
+      "name": "Junkbot",
+      "value": "Unknown",
+      "demand": N/A,
+      "huge": "N/A",
+      "popularity": "N/A",
+      "availability": "N/A",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": false
+      }
+    },
     "Spinosaurus": {
       "name": "Spinosaurus",
       "value": "3Q - 5Q",
@@ -1219,19 +1232,6 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
-      }
-    },
-    "Junkbot": {
-      "name": "Junkbot",
-      "value": "Unknown",
-      "demand": N/A,
-      "huge": "N/A",
-      "popularity": "N/A",
-      "availability": "N/A",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": false
       }
     },
     "Blood Owl": {
