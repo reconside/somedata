@@ -1,17 +1,43 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 96,
-    "generatedOn": "2025-08-09T15:31:24.516Z",
+    "totalPets": 106,
+    "generatedOn": "2025-08-09T15:37:44.515Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 50,
+    "obtainable": 60,
     "unobtainable": 45,
     "popular": 9,
-    "regular": 86
+    "regular": 96
   },
   "pets": {
+    "Game Guide": {
+      "name": "Game Guide",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Looking to fast-track your progress in the game? Our complete Grow a Garden value list features the latest trading prices for in-game pets.": {
+      "name": "Looking to fast-track your progress in the game? Our complete Grow a Garden value list features the latest trading prices for in-game pets.",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
       "value": "1Q - 1.75Q",
@@ -127,6 +153,71 @@
         "isPopular": true,
         "isObtainable": false,
         "isUnobtainable": true
+      }
+    },
+    "Gorilla Chef": {
+      "name": "Gorilla Chef",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sunny-Side Chicken": {
+      "name": "Sunny-Side Chicken",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Lobster Thermidor": {
+      "name": "Lobster Thermidor",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Hotdog Daschund": {
+      "name": "Hotdog Daschund",
+      "value": "N/A",
+      "demand": "N/A",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bacon Pig": {
+      "name": "Bacon Pig",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Mochi Mouse": {
@@ -1259,9 +1350,48 @@
         "isObtainable": false,
         "isUnobtainable": false
       }
+    },
+    "Turtle – Slightly boosts sprinkler time. Still obtainable, but low hatch chance.": {
+      "name": "Turtle – Slightly boosts sprinkler time. Still obtainable, but low hatch chance.",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Post navigation": {
+      "name": "Post navigation",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Related Pages": {
+      "name": "Related Pages",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 96 pets! Dataset appears complete.
-// 📊 Note: 1 pets have "Unknown" values included in output.
+// ✅ SUCCESS: Found 106 pets! Dataset appears complete.
+// 📊 Note: 10 pets have "Unknown" values included in output.
