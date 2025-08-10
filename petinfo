@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 106,
-    "generatedOn": "2025-08-10T11:34:59.069Z",
+    "totalPets": 107,
+    "generatedOn": "2025-08-10T11:38:53.271Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 60,
+    "obtainable": 61,
     "unobtainable": 45,
     "popular": 9,
-    "regular": 96
+    "regular": 97
   },
   "pets": {
     "Game Guide": {
@@ -1389,9 +1389,22 @@
         "isObtainable": true,
         "isUnobtainable": false
       }
+    },
+    "Related Pages": {
+      "name": "Related Pages",
+      "value": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 106 pets! Dataset appears complete.
-// 📊 Note: 8 pets have "Unknown" or "N/A" values included in output.
+// ✅ SUCCESS: Found 107 pets! Dataset appears complete.
+// 📊 Note: 9 pets have "Unknown" or "N/A" values included in output.
