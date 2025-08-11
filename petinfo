@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 107,
-    "generatedOn": "2025-08-10T11:38:53.271Z",
+    "generatedOn": "2025-08-11T01:38:48.935Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -25,8 +25,8 @@
         "isUnobtainable": false
       }
     },
-    "Fennec Fox – 7Q Sheckles": {
-      "name": "Fennec Fox – 7Q Sheckles",
+    "Butterfly – 6Q Sheckles": {
+      "name": "Butterfly – 6Q Sheckles",
       "value": "Unknown",
       "demand": 0,
       "huge": "N/A",
@@ -40,7 +40,7 @@
     },
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
-      "value": "1Q - 1.75Q",
+      "value": "800T - 1Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -183,7 +183,7 @@
     },
     "Sunny-Side Chicken": {
       "name": "Sunny-Side Chicken",
-      "value": "Unknown",
+      "value": "100T - 200T",
       "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
@@ -196,7 +196,7 @@
     },
     "Lobster Thermidor": {
       "name": "Lobster Thermidor",
-      "value": "15Q - 20Q",
+      "value": "4Q - 6Q",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Regular",
@@ -209,7 +209,7 @@
     },
     "Hotdog Daschund": {
       "name": "Hotdog Daschund",
-      "value": "Unknown",
+      "value": "500T - 1Q",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -222,7 +222,7 @@
     },
     "Bacon Pig": {
       "name": "Bacon Pig",
-      "value": "Unknown",
+      "value": "200T - 300T",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -1407,4 +1407,4 @@
 }
 
 // ✅ SUCCESS: Found 107 pets! Dataset appears complete.
-// 📊 Note: 9 pets have "Unknown" or "N/A" values included in output.
+// 📊 Note: 6 pets have "Unknown" or "N/A" values included in output.
