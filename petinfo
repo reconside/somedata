@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 103,
-    "generatedOn": "2025-08-12T21:54:35.382Z",
+    "totalPets": 104,
+    "generatedOn": "2025-08-13T14:52:52.899Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 57,
+    "obtainable": 58,
     "unobtainable": 45,
     "popular": 12,
-    "regular": 90,
+    "regular": 91,
     "tiers": {
       "T0": 1,
       "T1": 10,
@@ -17,7 +17,7 @@
       "T3": 16,
       "T4": 21,
       "T5": 20,
-      "unknown": 5
+      "unknown": 6
     }
   },
   "pets": {
@@ -1462,10 +1462,24 @@
         "isObtainable": true,
         "isUnobtainable": false
       }
+    },
+    "Related Pages": {
+      "name": "Related Pages",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 103 pets! Dataset appears complete.
-// 📊 Note: 5 pets have "Unknown" or "N/A" values included in output.
+// ✅ SUCCESS: Found 104 pets! Dataset appears complete.
+// 📊 Note: 6 pets have "Unknown" or "N/A" values included in output.
 // 🏆 Tier info: T0=1, T1=10 (highest value tiers detected).
