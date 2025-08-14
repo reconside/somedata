@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 104,
-    "generatedOn": "2025-08-13T14:52:52.899Z",
+    "generatedOn": "2025-08-14T18:54:23.041Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -51,7 +51,7 @@
     },
     "Lobster Thermidor": {
       "name": "Lobster Thermidor",
-      "value": "12Q - 20Q",
+      "value": "10Q - 15Q",
       "tier": "N/A",
       "demand": 9,
       "huge": "N/A",
@@ -65,7 +65,7 @@
     },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
-      "value": "15Q - 25Q",
+      "value": "10Q - 15Q",
       "tier": "N/A",
       "demand": 8,
       "huge": "N/A",
@@ -107,7 +107,7 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "35Q - 60Q",
+      "value": "50Q - 80Q",
       "tier": "T1",
       "demand": 9,
       "huge": "N/A",
