@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 103,
-    "generatedOn": "2025-08-15T11:53:56.560Z",
+    "totalPets": 109,
+    "generatedOn": "2025-08-15T14:11:30.620Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 57,
-    "unobtainable": 45,
+    "obtainable": 66,
+    "unobtainable": 42,
     "popular": 12,
-    "regular": 90,
+    "regular": 96,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -175,11 +175,11 @@
         "isUnobtainable": false
       }
     },
-    "Dragonfly": {
-      "name": "Dragonfly",
-      "value": "15Qi - 25Qi",
-      "tier": "20K",
-      "demand": 9,
+    "Red Fox": {
+      "name": "Red Fox",
+      "value": "1Qi - 2Qi",
+      "tier": "1.7K",
+      "demand": 7,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -189,11 +189,11 @@
         "isUnobtainable": false
       }
     },
-    "Red Fox": {
-      "name": "Red Fox",
-      "value": "1Qi - 2Qi",
-      "tier": "1.7K",
-      "demand": 7,
+    "Dragonfly": {
+      "name": "Dragonfly",
+      "value": "15Qi - 25Qi",
+      "tier": "20K",
+      "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -215,6 +215,90 @@
         "isPopular": true,
         "isObtainable": false,
         "isUnobtainable": true
+      }
+    },
+    "Dairy Cow": {
+      "name": "Dairy Cow",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sapling": {
+      "name": "Sapling",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Jackalope": {
+      "name": "Jackalope",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Golem": {
+      "name": "Golem",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Golden Goose": {
+      "name": "Golden Goose",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Spriggan": {
+      "name": "Spriggan",
+      "value": "0",
+      "tier": "0",
+      "demand": "N/A",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Junkbot": {
@@ -665,11 +749,11 @@
         "isUnobtainable": true
       }
     },
-    "Axolotl": {
-      "name": "Axolotl",
-      "value": "200Q - 250Q",
-      "tier": "400",
-      "demand": 7,
+    "Toucan": {
+      "name": "Toucan",
+      "value": "10Q - 12Q",
+      "tier": "350",
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -679,11 +763,11 @@
         "isUnobtainable": false
       }
     },
-    "Hyacinth Macaw": {
-      "name": "Hyacinth Macaw",
-      "value": "300Q - 400Q",
-      "tier": "750",
-      "demand": 7,
+    "Hamster": {
+      "name": "Hamster",
+      "value": "400Q - 500Q",
+      "tier": "500",
+      "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -693,52 +777,52 @@
         "isUnobtainable": true
       }
     },
-    "Sand Snake": {
-      "name": "Sand Snake",
+    "Capybara": {
+      "name": "Capybara",
       "value": "15Q - 20Q",
-      "tier": "300",
+      "tier": "800",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Fennec Fox": {
-      "name": "Fennec Fox",
-      "value": "75Qi - 120Qi",
-      "tier": "60K",
-      "demand": 9,
+    "Scarlet Macaw": {
+      "name": "Scarlet Macaw",
+      "value": "100Q - 150Q",
+      "tier": "750",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Meerkat": {
-      "name": "Meerkat",
-      "value": "4Q - 8Q",
-      "tier": "300",
+    "Peacock": {
+      "name": "Peacock",
+      "value": "12Q - 15Q",
+      "tier": "650",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
-    "Flamingo": {
-      "name": "Flamingo",
-      "value": "1Q - 2Q",
-      "tier": "250",
+    "Ostrich": {
+      "name": "Ostrich",
+      "value": "12Q - 15Q",
+      "tier": "650",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -1466,5 +1550,6 @@
   }
 }
 
-// ✅ SUCCESS: Found 103 pets! Dataset appears complete.
+// ✅ SUCCESS: Found 109 pets! Dataset appears complete.
 // 📊 Note: 5 pets have "Unknown" or "N/A" values included in output.
+// 📈 Note: 1 pets have "N/A" demand values.
