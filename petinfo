@@ -1,14 +1,14 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 109,
-    "generatedOn": "2025-08-16T06:31:51.918Z",
+    "totalPets": 108,
+    "generatedOn": "2025-08-16T13:26:51.535Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 60,
+    "obtainable": 59,
     "unobtainable": 48,
-    "popular": 12,
+    "popular": 11,
     "regular": 96,
     "tiers": {
       "T0": 0,
@@ -17,7 +17,7 @@
       "T3": 0,
       "T4": 0,
       "T5": 0,
-      "unknown": 5
+      "unknown": 4
     }
   },
   "pets": {
@@ -35,10 +35,10 @@
         "isUnobtainable": false
       }
     },
-    "Changelog": {
-      "name": "Changelog",
-      "value": "Unknown",
-      "tier": "Unknown",
+    "Check the Pet Summaries section to learn more about each pet.": {
+      "name": "Check the Pet Summaries section to learn more about each pet.",
+      "value": "1Sx",
+      "tier": "50K",
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
@@ -49,23 +49,9 @@
         "isUnobtainable": false
       }
     },
-    "Lobster Thermidor": {
-      "name": "Lobster Thermidor",
-      "value": "50QI",
-      "tier": "50K",
-      "demand": 9,
-      "huge": "N/A",
-      "popularity": "Popular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": true,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
-      "value": "50QI",
+      "value": "1Sx",
       "tier": "50K",
       "demand": 8,
       "huge": "N/A",
@@ -93,7 +79,7 @@
     },
     "Kitsune": {
       "name": "Kitsune",
-      "value": "1.5Sx",
+      "value": "100Sx",
       "tier": "1.5M",
       "demand": 10,
       "huge": "N/A",
@@ -107,8 +93,8 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "150QI",
-      "tier": "150K",
+      "value": "10Sx",
+      "tier": "200K",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -121,7 +107,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "100QI",
+      "value": "5Sx",
       "tier": "100K",
       "demand": 8,
       "huge": "N/A",
@@ -135,7 +121,7 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "100QI",
+      "value": "5Sx",
       "tier": "100K",
       "demand": 7,
       "huge": "N/A",
@@ -149,8 +135,8 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "300Qi",
-      "tier": "300K",
+      "value": "30Sx",
+      "tier": "400K",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -163,8 +149,8 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "650Qi",
-      "tier": "650K",
+      "value": "45Sx",
+      "tier": "750K",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -177,7 +163,7 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "100QI",
+      "value": "5Sx",
       "tier": "100K",
       "demand": 9,
       "huge": "N/A",
@@ -205,8 +191,8 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "700Qi",
-      "tier": "700K",
+      "value": "50Sx",
+      "tier": "800K",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -569,8 +555,8 @@
     },
     "Nihonzaru (Hungry)": {
       "name": "Nihonzaru (Hungry)",
-      "value": "5Qi",
-      "tier": "5.0K",
+      "value": "2.5Qi",
+      "tier": "2.5K",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -919,7 +905,7 @@
     },
     "Queen Bee": {
       "name": "Queen Bee",
-      "value": "80QI",
+      "value": "3Sx",
       "tier": "80K",
       "demand": 5,
       "huge": "N/A",
@@ -975,7 +961,7 @@
     },
     "Chicken Zombie": {
       "name": "Chicken Zombie",
-      "value": "45QI",
+      "value": "250QI",
       "tier": "45K",
       "demand": 6,
       "huge": "N/A",
@@ -1550,6 +1536,6 @@
   }
 }
 
-// ✅ SUCCESS: Found 109 pets! Dataset appears complete.
-// 📊 Note: 5 pets have "Unknown" or "N/A" values included in output.
+// ✅ SUCCESS: Found 108 pets! Dataset appears complete.
+// 📊 Note: 4 pets have "Unknown" or "N/A" values included in output.
 // 📈 Note: 1 pets have "N/A" demand values.
