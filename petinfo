@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 108,
-    "generatedOn": "2025-08-16T17:06:03.627Z",
+    "totalPets": 107,
+    "generatedOn": "2025-08-16T23:39:51.864Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 65,
+    "obtainable": 64,
     "unobtainable": 42,
-    "popular": 11,
-    "regular": 96,
+    "popular": 12,
+    "regular": 94,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -37,14 +37,28 @@
     },
     "Check the Pet Summaries section to learn more about each pet.": {
       "name": "Check the Pet Summaries section to learn more about each pet.",
-      "value": "1Sx",
-      "tier": "50K",
+      "value": "50Sx",
+      "tier": "800K",
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
       "badges": {
         "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Lobster Thermidor": {
+      "name": "Lobster Thermidor",
+      "value": "1Sx",
+      "tier": "50K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
         "isObtainable": true,
         "isUnobtainable": false
       }
@@ -161,11 +175,11 @@
         "isUnobtainable": false
       }
     },
-    "Dragonfly": {
-      "name": "Dragonfly",
-      "value": "5Sx",
-      "tier": "100K",
-      "demand": 9,
+    "Red Fox": {
+      "name": "Red Fox",
+      "value": "5Qi",
+      "tier": "5.0K",
+      "demand": 7,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -175,11 +189,11 @@
         "isUnobtainable": false
       }
     },
-    "Red Fox": {
-      "name": "Red Fox",
-      "value": "5Qi",
-      "tier": "5.0K",
-      "demand": 7,
+    "Dragonfly": {
+      "name": "Dragonfly",
+      "value": "5Sx",
+      "tier": "100K",
+      "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -247,20 +261,6 @@
     },
     "Golem": {
       "name": "Golem",
-      "value": "0",
-      "tier": "0",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Golden Goose": {
-      "name": "Golden Goose",
       "value": "0",
       "tier": "0",
       "demand": 0,
@@ -733,20 +733,6 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
-      }
-    },
-    "Toucan": {
-      "name": "Toucan",
-      "value": "10Q",
-      "tier": "10",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
       }
     },
     "Hamster": {
@@ -1536,6 +1522,6 @@
   }
 }
 
-// ✅ SUCCESS: Found 108 pets! Dataset appears complete.
+// ✅ SUCCESS: Found 107 pets! Dataset appears complete.
 // 📊 Note: 4 pets have "Unknown" or "N/A" values included in output.
 // 📈 Note: 1 pets have "N/A" demand values.
