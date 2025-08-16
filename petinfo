@@ -2,12 +2,12 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 108,
-    "generatedOn": "2025-08-16T13:26:51.535Z",
+    "generatedOn": "2025-08-16T17:06:03.627Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 59,
-    "unobtainable": 48,
+    "obtainable": 65,
+    "unobtainable": 42,
     "popular": 11,
     "regular": 96,
     "tiers": {
@@ -210,11 +210,11 @@
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Sapling": {
@@ -224,11 +224,11 @@
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Jackalope": {
@@ -238,11 +238,11 @@
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Golem": {
@@ -252,11 +252,11 @@
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Golden Goose": {
@@ -266,11 +266,11 @@
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Spriggan": {
@@ -280,11 +280,11 @@
       "demand": "N/A",
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Junkbot": {
