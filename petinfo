@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 119,
-    "generatedOn": "2025-08-17T04:05:10.055Z",
+    "totalPets": 116,
+    "generatedOn": "2025-08-17T04:24:14.648Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 74,
-    "unobtainable": 45,
-    "popular": 12,
-    "regular": 107,
+    "obtainable": 70,
+    "unobtainable": 46,
+    "popular": 13,
+    "regular": 103,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -17,36 +17,22 @@
       "T3": 0,
       "T4": 0,
       "T5": 0,
-      "unknown": 3
+      "unknown": 0
     }
   },
   "pets": {
-    "Game Guide": {
-      "name": "Game Guide",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Check the Pet Summaries section to learn more about each pet.": {
-      "name": "Check the Pet Summaries section to learn more about each pet.",
+    "Kitsune": {
+      "name": "Kitsune",
       "value": "250Sx",
       "tier": "2.5M",
-      "demand": 0,
+      "demand": 10,
       "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
       "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
       }
     },
     "Raccoon": {
@@ -1658,39 +1644,10 @@
         "isObtainable": true,
         "isUnobtainable": false
       }
-    },
-    "Turtle – Slightly boosts sprinkler time. Still obtainable, but low hatch chance.": {
-      "name": "Turtle – Slightly boosts sprinkler time. Still obtainable, but low hatch chance.",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Related Pages": {
-      "name": "Related Pages",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 119 pets! Dataset appears complete.
-// 📊 Note: 3 pets have "Unknown" or "N/A" values included in output.
+// ✅ SUCCESS: Found 116 pets! Dataset appears complete.
 // 📈 Note: 1 pets have "N/A" demand values.
 // 💎 High-value pets: 16 pets with Sx (Sextillion) values detected.
