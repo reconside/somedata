@@ -1,1348 +1,1541 @@
 {
   "metadata": {
-    "convertedAt": "2025-08-17T03:51:13.305Z",
-    "totalPets": 103,
-    "source": "Grow a Garden Value List Converter"
+    "title": "Grow a Garden Pet Values",
+    "totalPets": 107,
+    "generatedOn": "2025-08-17T03:03:50.278Z",
+    "source": "https://www.game.guide/grow-a-garden-value-list"
   },
-  "pets": [
-    {
-      "name": "Fennec Fox",
-      "value": "50Sx",
-      "valueNumeric": 5e+22,
-      "tradingValue": "0",
-      "tradingValueNumeric": 0,
-      "demand": 10,
-      "popularity": "Popular",
-      "availability": "Unknown",
-      "isPopular": true,
-      "isObtainable": false,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Ankylosaurus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Bacon Pig",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Bagel Bunny",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Bald Eagle",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Bear Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Black Bunny",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Blood Hedgehog",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Blood Kiwi",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Blood Owl",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Brontosaurus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Brown Mouse",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Bunny",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Butterfly",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Capybara",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Cat",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Caterpillar",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Chicken",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Chicken Zombie",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Cooked Owl",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Corrupted Kitsune",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Corrupted Kodama",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Cow",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Dairy Cow",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Deer",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Dilophosaurus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Disco Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Dog",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Echo Frog",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Football",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "French Fry Ferret",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Frog",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Giant Ant",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Golden Goose",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Golden Lab",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Golem",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Gorilla Chef",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Grey Mouse",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Hamster",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Hedgehog",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Honey Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Hotdog Daschund",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Iguanodon",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Jackalope",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Junkbot",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Kappa",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Kitsune",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Kiwi",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Kodama",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Koi",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Lobster Thermidor",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Maneki-neko",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Mimic Octopus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Mochi Mouse",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Mole",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Monkey",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Moon Cat",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Moth",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Night Owl",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Nihonzaru (Hungry)",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Orange Tabby",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Ostrich",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Owl",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Pachycephalosaurus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Pack Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Pancake Mole",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Panda",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Parasaurolophus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Peacock",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Petal Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Pig",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Polar Bear",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Praying Mantis",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Pterodactyl",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Queen Bee",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Raccoon",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Raiju",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Raptor",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Red Fox",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Red Giant Ant",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Rooster",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Sapling",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Scarlet Macaw",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Sea Otter",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Shiba Inu",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Silver Monkey",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Snail",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Spaghetti Sloth",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Spinosaurus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Spotted Deer",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Spriggan",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Squirrel",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Stegosaurus",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Sunny-Side Chicken",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Sushi Bear",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "T-Rex",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Tanchozuru",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Tanuki",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Tarantula Hawk",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Triceratops",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "isPopular": false,
-      "isObtainable": false,
-      "isUnobtainable": true
-    },
-    {
-      "name": "Turtle",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
-    },
-    {
-      "name": "Wasp",
-      "value": "",
-      "valueNumeric": 0,
-      "tradingValue": "",
-      "tradingValueNumeric": 0,
-      "demand": 0,
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "isPopular": false,
-      "isObtainable": true,
-      "isUnobtainable": false
+  "summary": {
+    "obtainable": 64,
+    "unobtainable": 42,
+    "popular": 12,
+    "regular": 94,
+    "tiers": {
+      "T0": 0,
+      "T1": 0,
+      "T2": 0,
+      "T3": 0,
+      "T4": 0,
+      "T5": 0,
+      "unknown": 4
     }
-  ]
+  },
+  "pets": {
+    "Game Guide": {
+      "name": "Game Guide",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Check the Pet Summaries section to learn more about each pet.": {
+      "name": "Check the Pet Summaries section to learn more about each pet.",
+      "value": "50Sx",
+      "tier": "500K",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Lobster Thermidor": {
+      "name": "Lobster Thermidor",
+      "value": "3Sx",
+      "tier": "30K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "French Fry Ferret": {
+      "name": "French Fry Ferret",
+      "value": "3Sx",
+      "tier": "30K",
+      "demand": 8,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Corrupted Kitsune": {
+      "name": "Corrupted Kitsune",
+      "value": "3Sx",
+      "tier": "30K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Kitsune": {
+      "name": "Kitsune",
+      "value": "250Sx",
+      "tier": "2.5M",
+      "demand": 10,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Golden Goose": {
+      "name": "Golden Goose",
+      "value": "50Sx",
+      "tier": "500K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Spinosaurus": {
+      "name": "Spinosaurus",
+      "value": "20Sx",
+      "tier": "200K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "T-Rex": {
+      "name": "T-Rex",
+      "value": "10Sx",
+      "tier": "100K",
+      "demand": 8,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Mimic Octopus": {
+      "name": "Mimic Octopus",
+      "value": "10Sx",
+      "tier": "100K",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Butterfly": {
+      "name": "Butterfly",
+      "value": "50Sx",
+      "tier": "500K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Disco Bee": {
+      "name": "Disco Bee",
+      "value": "110Sx",
+      "tier": "110K",
+      "demand": 10,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Dragonfly": {
+      "name": "Dragonfly",
+      "value": "10Sx",
+      "tier": "100K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Red Fox": {
+      "name": "Red Fox",
+      "value": "750Qi",
+      "tier": "7.5K",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Raccoon": {
+      "name": "Raccoon",
+      "value": "125Sx",
+      "tier": "1.3M",
+      "demand": 10,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Dairy Cow": {
+      "name": "Dairy Cow",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sapling": {
+      "name": "Sapling",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Jackalope": {
+      "name": "Jackalope",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Golem": {
+      "name": "Golem",
+      "value": "0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Spriggan": {
+      "name": "Spriggan",
+      "value": "0",
+      "tier": "0",
+      "demand": "N/A",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Junkbot": {
+      "name": "Junkbot",
+      "value": "400Q",
+      "tier": "400",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Gorilla Chef": {
+      "name": "Gorilla Chef",
+      "value": "50Q",
+      "tier": "50",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sunny-Side Chicken": {
+      "name": "Sunny-Side Chicken",
+      "value": "10Q",
+      "tier": "10",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Hotdog Daschund": {
+      "name": "Hotdog Daschund",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bacon Pig": {
+      "name": "Bacon Pig",
+      "value": "100Q",
+      "tier": "100",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Mochi Mouse": {
+      "name": "Mochi Mouse",
+      "value": "100Q",
+      "tier": "100",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Pancake Mole": {
+      "name": "Pancake Mole",
+      "value": "20Q",
+      "tier": "20",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Spaghetti Sloth": {
+      "name": "Spaghetti Sloth",
+      "value": "400Q",
+      "tier": "400",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sushi Bear": {
+      "name": "Sushi Bear",
+      "value": "300Q",
+      "tier": "300",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bagel Bunny": {
+      "name": "Bagel Bunny",
+      "value": "10Q",
+      "tier": "10",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Football": {
+      "name": "Football",
+      "value": "250Q",
+      "tier": "250",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Maneki-neko": {
+      "name": "Maneki-neko",
+      "value": "1Q",
+      "tier": "1",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Kodama": {
+      "name": "Kodama",
+      "value": "10Q",
+      "tier": "10",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Corrupted Kodama": {
+      "name": "Corrupted Kodama",
+      "value": "300Q",
+      "tier": "300",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Raiju": {
+      "name": "Raiju",
+      "value": "1Qi",
+      "tier": "1.0K",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Shiba Inu": {
+      "name": "Shiba Inu",
+      "value": "1Q",
+      "tier": "1",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Tanuki": {
+      "name": "Tanuki",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Kappa": {
+      "name": "Kappa",
+      "value": "300Q",
+      "tier": "300",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Tanchozuru": {
+      "name": "Tanchozuru",
+      "value": "300Q",
+      "tier": "300",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Nihonzaru (Hungry)": {
+      "name": "Nihonzaru (Hungry)",
+      "value": "2.5Qi",
+      "tier": "2.5K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Koi": {
+      "name": "Koi",
+      "value": "1Qi",
+      "tier": "1.0K",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Parasaurolophus": {
+      "name": "Parasaurolophus",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Iguanodon": {
+      "name": "Iguanodon",
+      "value": "30Q",
+      "tier": "30",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Pachycephalosaurus": {
+      "name": "Pachycephalosaurus",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Dilophosaurus": {
+      "name": "Dilophosaurus",
+      "value": "1Qi",
+      "tier": "1.0K",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Ankylosaurus": {
+      "name": "Ankylosaurus",
+      "value": "300Q",
+      "tier": "300",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Triceratops": {
+      "name": "Triceratops",
+      "value": "70Q",
+      "tier": "70",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Stegosaurus": {
+      "name": "Stegosaurus",
+      "value": "30Q",
+      "tier": "30",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Brontosaurus": {
+      "name": "Brontosaurus",
+      "value": "500Qi",
+      "tier": "5.0K",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Raptor": {
+      "name": "Raptor",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Pterodactyl": {
+      "name": "Pterodactyl",
+      "value": "50Q",
+      "tier": "50",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Bald Eagle": {
+      "name": "Bald Eagle",
+      "value": "400Q",
+      "tier": "400",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Hamster": {
+      "name": "Hamster",
+      "value": "700Q",
+      "tier": "700",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Capybara": {
+      "name": "Capybara",
+      "value": "250Q",
+      "tier": "250",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Scarlet Macaw": {
+      "name": "Scarlet Macaw",
+      "value": "400Q",
+      "tier": "400",
+      "demand": 8,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Peacock": {
+      "name": "Peacock",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Ostrich": {
+      "name": "Ostrich",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Cooked Owl": {
+      "name": "Cooked Owl",
+      "value": "1Qi",
+      "tier": "1.0K",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Pack Bee": {
+      "name": "Pack Bee",
+      "value": "700Q",
+      "tier": "700",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Moon Cat": {
+      "name": "Moon Cat",
+      "value": "500Qi",
+      "tier": "5.0K",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Wasp": {
+      "name": "Wasp",
+      "value": "450Q",
+      "tier": "450",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Moth": {
+      "name": "Moth",
+      "value": "600Q",
+      "tier": "600",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Tarantula Hawk": {
+      "name": "Tarantula Hawk",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Queen Bee": {
+      "name": "Queen Bee",
+      "value": "8Sx",
+      "tier": "80K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Snail": {
+      "name": "Snail",
+      "value": "1.5Q",
+      "tier": "2",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Caterpillar": {
+      "name": "Caterpillar",
+      "value": "2.5Q",
+      "tier": "3",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Owl": {
+      "name": "Owl",
+      "value": "25Q",
+      "tier": "25",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Chicken Zombie": {
+      "name": "Chicken Zombie",
+      "value": "1.5Sx",
+      "tier": "15K",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Echo Frog": {
+      "name": "Echo Frog",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Bear Bee": {
+      "name": "Bear Bee",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Silver Monkey": {
+      "name": "Silver Monkey",
+      "value": "250T",
+      "tier": "0",
+      "demand": 3,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sea Otter": {
+      "name": "Sea Otter",
+      "value": "1Q",
+      "tier": "1",
+      "demand": 3,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Turtle": {
+      "name": "Turtle",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Mole": {
+      "name": "Mole",
+      "value": "200Q",
+      "tier": "200",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Cow": {
+      "name": "Cow",
+      "value": "100T",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Polar Bear": {
+      "name": "Polar Bear",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Frog": {
+      "name": "Frog",
+      "value": "15Q",
+      "tier": "15",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Blood Kiwi": {
+      "name": "Blood Kiwi",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Panda": {
+      "name": "Panda",
+      "value": "1Sx",
+      "tier": "10K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Blood Hedgehog": {
+      "name": "Blood Hedgehog",
+      "value": "500Q",
+      "tier": "500",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Petal Bee": {
+      "name": "Petal Bee",
+      "value": "450Q",
+      "tier": "450",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Orange Tabby": {
+      "name": "Orange Tabby",
+      "value": "10Q",
+      "tier": "10",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Pig": {
+      "name": "Pig",
+      "value": "100M",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Rooster": {
+      "name": "Rooster",
+      "value": "150M",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Spotted Deer": {
+      "name": "Spotted Deer",
+      "value": "100M",
+      "tier": "0",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Monkey": {
+      "name": "Monkey",
+      "value": "150M",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Hedgehog": {
+      "name": "Hedgehog",
+      "value": "6Q",
+      "tier": "6",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Red Giant Ant": {
+      "name": "Red Giant Ant",
+      "value": "3.5Q",
+      "tier": "4",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Giant Ant": {
+      "name": "Giant Ant",
+      "value": "2.5Q",
+      "tier": "3",
+      "demand": 4,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Squirrel": {
+      "name": "Squirrel",
+      "value": "500T",
+      "tier": "1",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Praying Mantis": {
+      "name": "Praying Mantis",
+      "value": "2.5Q",
+      "tier": "3",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Brown Mouse": {
+      "name": "Brown Mouse",
+      "value": "500T",
+      "tier": "1",
+      "demand": 3,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Grey Mouse": {
+      "name": "Grey Mouse",
+      "value": "500T",
+      "tier": "1",
+      "demand": 3,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Kiwi": {
+      "name": "Kiwi",
+      "value": "20Q",
+      "tier": "20",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Honey Bee": {
+      "name": "Honey Bee",
+      "value": "2.5Q",
+      "tier": "3",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Dog": {
+      "name": "Dog",
+      "value": "250K",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Golden Lab": {
+      "name": "Golden Lab",
+      "value": "250K",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bunny": {
+      "name": "Bunny",
+      "value": "250K",
+      "tier": "0",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Black Bunny": {
+      "name": "Black Bunny",
+      "value": "50M",
+      "tier": "0",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Bee": {
+      "name": "Bee",
+      "value": "500T",
+      "tier": "1",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Chicken": {
+      "name": "Chicken",
+      "value": "50M",
+      "tier": "0",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Deer": {
+      "name": "Deer",
+      "value": "50M",
+      "tier": "0",
+      "demand": 1,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Cat": {
+      "name": "Cat",
+      "value": "50M",
+      "tier": "0",
+      "demand": 2,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Night Owl": {
+      "name": "Night Owl",
+      "value": "400Q",
+      "tier": "400",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Blood Owl": {
+      "name": "Blood Owl",
+      "value": "1Qi",
+      "tier": "1.0K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
+    "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.": {
+      "name": "Moon Cat – Strong but limited by range. Annoying to manage in larger gardens. It can grow huge crops with the Triceratops/Moon Cat/Bone Blossom method. Very popular pet, and unobtainable.",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "",
+      "availability": "",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": false
+      }
+    },
+    "Turtle – Slightly boosts sprinkler time. Still obtainable, but low hatch chance.": {
+      "name": "Turtle – Slightly boosts sprinkler time. Still obtainable, but low hatch chance.",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Related Pages": {
+      "name": "Related Pages",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    }
+  }
 }
+
+// ✅ SUCCESS: Found 107 pets! Dataset appears complete.
+// 📊 Note: 4 pets have "Unknown" or "N/A" values included in output.
+// 📈 Note: 1 pets have "N/A" demand values.
