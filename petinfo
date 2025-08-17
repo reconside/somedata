@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 107,
-    "generatedOn": "2025-08-16T23:50:27.935Z",
+    "generatedOn": "2025-08-17T03:03:50.278Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -38,7 +38,7 @@
     "Check the Pet Summaries section to learn more about each pet.": {
       "name": "Check the Pet Summaries section to learn more about each pet.",
       "value": "50Sx",
-      "tier": "800K",
+      "tier": "500K",
       "demand": 0,
       "huge": "N/A",
       "popularity": "Regular",
@@ -51,8 +51,8 @@
     },
     "Lobster Thermidor": {
       "name": "Lobster Thermidor",
-      "value": "1Sx",
-      "tier": "50K",
+      "value": "3Sx",
+      "tier": "30K",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -65,8 +65,8 @@
     },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
-      "value": "1Sx",
-      "tier": "50K",
+      "value": "3Sx",
+      "tier": "30K",
       "demand": 8,
       "huge": "N/A",
       "popularity": "Popular",
@@ -79,8 +79,8 @@
     },
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
-      "value": "10Qi",
-      "tier": "10K",
+      "value": "3Sx",
+      "tier": "30K",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -93,8 +93,8 @@
     },
     "Kitsune": {
       "name": "Kitsune",
-      "value": "100Sx",
-      "tier": "1.5M",
+      "value": "250Sx",
+      "tier": "2.5M",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -107,7 +107,7 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "10Sx",
+      "value": "20Sx",
       "tier": "200K",
       "demand": 9,
       "huge": "N/A",
@@ -121,7 +121,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "5Sx",
+      "value": "10Sx",
       "tier": "100K",
       "demand": 8,
       "huge": "N/A",
@@ -135,7 +135,7 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "5Sx",
+      "value": "10Sx",
       "tier": "100K",
       "demand": 7,
       "huge": "N/A",
@@ -149,8 +149,8 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "30Sx",
-      "tier": "400K",
+      "value": "50Sx",
+      "tier": "500K",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -163,23 +163,9 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "45Sx",
-      "tier": "750K",
+      "value": "110Sx",
+      "tier": "110K",
       "demand": 10,
-      "huge": "N/A",
-      "popularity": "Popular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": true,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Red Fox": {
-      "name": "Red Fox",
-      "value": "5Qi",
-      "tier": "5.0K",
-      "demand": 7,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -191,7 +177,7 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "5Sx",
+      "value": "10Sx",
       "tier": "100K",
       "demand": 9,
       "huge": "N/A",
@@ -203,10 +189,24 @@
         "isUnobtainable": false
       }
     },
+    "Red Fox": {
+      "name": "Red Fox",
+      "value": "750Qi",
+      "tier": "7.5K",
+      "demand": 7,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "50Sx",
-      "tier": "800K",
+      "value": "125Sx",
+      "tier": "1.3M",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -681,7 +681,7 @@
     },
     "Brontosaurus": {
       "name": "Brontosaurus",
-      "value": "5Qi",
+      "value": "500Qi",
       "tier": "5.0K",
       "demand": 6,
       "huge": "N/A",
@@ -835,8 +835,8 @@
     },
     "Moon Cat": {
       "name": "Moon Cat",
-      "value": "2.5Qi",
-      "tier": "2.5K",
+      "value": "500Qi",
+      "tier": "5.0K",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -891,7 +891,7 @@
     },
     "Queen Bee": {
       "name": "Queen Bee",
-      "value": "3Sx",
+      "value": "8Sx",
       "tier": "80K",
       "demand": 5,
       "huge": "N/A",
@@ -947,8 +947,8 @@
     },
     "Chicken Zombie": {
       "name": "Chicken Zombie",
-      "value": "250QI",
-      "tier": "45K",
+      "value": "1.5Sx",
+      "tier": "15K",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -1101,8 +1101,8 @@
     },
     "Panda": {
       "name": "Panda",
-      "value": "25Qi",
-      "tier": "25K",
+      "value": "1Sx",
+      "tier": "10K",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
