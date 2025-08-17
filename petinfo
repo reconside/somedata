@@ -105,6 +105,20 @@
         "isUnobtainable": true
       }
     },
+    "Golden Goose": {
+      "name": "Golden Goose",
+      "value": "50Sx",
+      "tier": "500K",
+      "demand": 9,
+      "huge": "N/A",
+      "popularity": "Popular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": true,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
     "Spinosaurus": {
       "name": "Spinosaurus",
       "value": "20Sx",
