@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 119,
-    "generatedOn": "2025-08-20T13:22:29.344Z",
+    "totalPets": 116,
+    "generatedOn": "2025-08-20T18:40:56.870Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 74,
+    "obtainable": 71,
     "unobtainable": 45,
     "popular": 12,
-    "regular": 107,
+    "regular": 104,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -17,41 +17,13 @@
       "T3": 0,
       "T4": 0,
       "T5": 0,
-      "unknown": 3
+      "unknown": 0
     }
   },
   "pets": {
-    "Game Guide": {
-      "name": "Game Guide",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Looking to fast-track your progress in GAG? Our complete Grow a Garden value list features the latest trading prices for in-game pets.": {
-      "name": "Looking to fast-track your progress in GAG? Our complete Grow a Garden value list features the latest trading prices for in-game pets.",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "🪙250Sx": {
-      "name": "🪙250Sx",
-      "value": "Unknown",
+    "Kitsune": {
+      "name": "Kitsune",
+      "value": "🪙250Sx",
       "tier": "2.5M",
       "demand": 10,
       "huge": "N/A",
@@ -1672,24 +1644,9 @@
         "isObtainable": true,
         "isUnobtainable": false
       }
-    },
-    "Kappa – Good for farming the mutation harvesting achievement.": {
-      "name": "Kappa – Good for farming the mutation harvesting achievement.",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 119 pets! Dataset appears complete.
-// 📊 Note: 4 pets have "Unknown" or "N/A" values included in output.
-// 💎 High-value pets: 15 pets with Sx (Sextillion) values detected.
+// ✅ SUCCESS: Found 116 pets! Dataset appears complete.
+// 💎 High-value pets: 16 pets with Sx (Sextillion) values detected.
