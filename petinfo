@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 103,
-    "generatedOn": "2025-08-22T18:10:12.751Z",
+    "totalPets": 105,
+    "generatedOn": "2025-08-22T18:55:56.649Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 62,
+    "obtainable": 64,
     "unobtainable": 41,
     "popular": 13,
-    "regular": 90,
+    "regular": 92,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -17,7 +17,7 @@
       "T3": 0,
       "T4": 0,
       "T5": 0,
-      "unknown": 0
+      "unknown": 2
     }
   },
   "pets": {
@@ -1462,9 +1462,38 @@
         "isObtainable": false,
         "isUnobtainable": true
       }
+    },
+    "Kappa – Good for farming the mutation harvesting achievement.": {
+      "name": "Kappa – Good for farming the mutation harvesting achievement.",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Related Pages": {
+      "name": "Related Pages",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 103 pets! Dataset appears complete.
+// ✅ SUCCESS: Found 105 pets! Dataset appears complete.
+// 📊 Note: 2 pets have "Unknown" or "N/A" values included in output.
 // 💎 High-value pets: 28 pets with Sx (Sextillion) values detected.
