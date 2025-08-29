@@ -3,11 +3,30 @@ firsttag = {
 }
 
 admins = {
-    "crow", "andrei", "Alaska", "Lucky", "inf", "Sava", "Dripz", "Kieran", 
+    "crow", "Alaska", "Lucky", "inf", "Sava", "Dripz", "Kieran", 
     "O_O", "soulmate", "hellew", "she", "s", "Zyth", "x_x", "Kay", 
     "SuperMario", "supra", "Pekora"
 }
 
+assetmods = {
+    ""
+}
+
 valuechangers = {
     "vintage", "linear", "Linkmon99"
+}
+ 
+socialmediateam = {
+    ""
+}
+
+supportteam = {
+    ""
+}
+donators = {
+    ""
+}
+
+serverboosters = {
+    ""
 }
