@@ -1,5 +1,5 @@
 firsttag = {
-    ""
+    "moist"
 }
 
 admins = {
@@ -17,16 +17,16 @@ valuechangers = {
 }
  
 socialmediateam = {
-    "moist"
+    ""
 }
 
 supportteam = {
-    ""
+    "bloodyveil"
 }
 donators = {
     ""
 }
 
 serverboosters = {
-    ""
+    "dismantle"
 }
