@@ -9,7 +9,7 @@ admins = {
 }
 
 assetmods = {
-    ""
+    "wiw"
 }
 
 valuechangers = {
@@ -17,14 +17,14 @@ valuechangers = {
 }
  
 socialmediateam = {
-    ""
+    "fwq"
 }
 
 supportteam = {
     "bloodyveil"
 }
 donators = {
-    ""
+    "fgg"
 }
 
 serverboosters = {
