@@ -28,5 +28,9 @@ donators = {
 }
 
 serverboosters = {
-    "dismantle"
+    "dismantle", "Connor"
+}
+
+donators = {
+    "ying"
 }
