@@ -1,15 +1,15 @@
 firsttag = {
-    "moist"
+    "moist",
 }
 
 admins = {
     "crow", "Alaska", "Lucky", "inf", "Sava", "Dripz", "Kieran", 
     "O_O", "soulmate", "hellew", "she", "s", "Zyth", "x_x", "Kay", 
-    "SuperMario", "supra", "Pekora"
+    "SuperMario", "supra", "Pekora",
 }
 
 assetmods = {
-    "wiw"
+    "wiw",
 }
 
 valuechangers = {
@@ -17,20 +17,20 @@ valuechangers = {
 }
  
 socialmediateam = {
-    "fwq"
+    "fwq",
 }
 
 supportteam = {
-    "bloodyveil"
+    "bloodyveil",
 }
 donators = {
-    "fgg"
+    "fgg",
 }
 
 serverboosters = {
-    "dismantle", "Connor","H_x"
+    "dismantle", "Connor","H_x",
 }
 
 activetrader = {
-    "ying", "serena"
+    "ying", "serena",
 }
