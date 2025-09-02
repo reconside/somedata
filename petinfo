@@ -2,14 +2,14 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 133,
-    "generatedOn": "2025-09-01T05:13:01.236Z",
+    "generatedOn": "2025-09-02T19:02:12.080Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 61,
-    "unobtainable": 72,
-    "popular": 8,
-    "regular": 125,
+    "obtainable": 62,
+    "unobtainable": 71,
+    "popular": 7,
+    "regular": 126,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -27,12 +27,12 @@
       "tier": "200K",
       "demand": 10,
       "huge": "N/A",
-      "popularity": "Popular",
-      "availability": "Unobtainable",
+      "popularity": "Regular",
+      "availability": "Obtainable",
       "badges": {
-        "isPopular": true,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Spinosaurus": {
@@ -135,9 +135,9 @@
     },
     "Cockatrice": {
       "name": "Cockatrice",
-      "value": "🪙25Sx",
+      "value": "🪙9Sx",
       "tier": "25K",
-      "demand": 8,
+      "demand": 9,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -149,9 +149,9 @@
     },
     "Imp": {
       "name": "Imp",
-      "value": "🪙0",
+      "value": "🪙1Sx",
       "tier": "0",
-      "demand": 0,
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -177,9 +177,9 @@
     },
     "Pixie": {
       "name": "Pixie",
-      "value": "🪙0",
+      "value": "🪙250Qi",
       "tier": "0",
-      "demand": 0,
+      "demand": 9,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -191,7 +191,7 @@
     },
     "Glimmering Sprite": {
       "name": "Glimmering Sprite",
-      "value": "🪙17Sx",
+      "value": "🪙2Sx",
       "tier": "17K",
       "demand": 7,
       "huge": "N/A",
@@ -261,7 +261,7 @@
     },
     "Apple Gazelle": {
       "name": "Apple Gazelle",
-      "value": "🪙2Sx",
+      "value": "🪙1.5Sx",
       "tier": "1.5K",
       "demand": 6,
       "huge": "N/A",
@@ -275,7 +275,7 @@
     },
     "Peach Wasp": {
       "name": "Peach Wasp",
-      "value": "🪙1Sx",
+      "value": "🪙1.3Sx",
       "tier": "1.3K",
       "demand": 6,
       "huge": "N/A",
@@ -345,7 +345,7 @@
     },
     "Gnome": {
       "name": "Gnome",
-      "value": "🪙200Qi",
+      "value": "🪙3Sx",
       "tier": "200",
       "demand": 5,
       "huge": "N/A",
@@ -385,20 +385,6 @@
         "isUnobtainable": true
       }
     },
-    "Golem": {
-      "name": "Golem",
-      "value": "🪙20Qi",
-      "tier": "20",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      }
-    },
     "Seedling": {
       "name": "Seedling",
       "value": "🪙20Qi",
@@ -427,6 +413,20 @@
         "isUnobtainable": true
       }
     },
+    "Golem": {
+      "name": "Golem",
+      "value": "🪙20Qi",
+      "tier": "20",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      }
+    },
     "Golden Goose": {
       "name": "Golden Goose",
       "value": "🪙2Sx",
@@ -443,9 +443,9 @@
     },
     "Spriggan": {
       "name": "Spriggan",
-      "value": "🪙70Qi",
+      "value": "🪙400Qi",
       "tier": "70",
-      "demand": 4,
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -949,7 +949,7 @@
       "name": "Bald Eagle",
       "value": "🪙400Qi",
       "tier": "400",
-      "demand": 3,
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -1717,7 +1717,7 @@
     },
     "Kiwi": {
       "name": "Kiwi",
-      "value": "🪙4Qi",
+      "value": "🪙150Qi",
       "tier": "4",
       "demand": 5,
       "huge": "N/A",
@@ -1887,4 +1887,4 @@
 }
 
 // ✅ SUCCESS: Found 133 pets! Dataset appears complete.
-// 💎 High-value pets: 30 pets with Sx (Sextillion) values detected.
+// 💎 High-value pets: 32 pets with Sx (Sextillion) values detected.
