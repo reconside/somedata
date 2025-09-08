@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 139,
-    "generatedOn": "2025-09-06T23:29:57.934Z",
+    "totalPets": 141,
+    "generatedOn": "2025-09-08T22:35:54.199Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 67,
+    "obtainable": 69,
     "unobtainable": 72,
     "popular": 8,
-    "regular": 131,
+    "regular": 133,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -17,13 +17,13 @@
       "T3": 0,
       "T4": 0,
       "T5": 0,
-      "unknown": 0
+      "unknown": 2
     }
   },
   "pets": {
     "Kitsune": {
       "name": "Kitsune",
-      "value": "🪙1.5Sp",
+      "value": "🪙3Sp",
       "tier": "200K",
       "demand": 10,
       "huge": "N/A",
@@ -37,7 +37,7 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "🪙175Sx",
+      "value": "🪙200Sx",
       "tier": "22.5K",
       "demand": 7,
       "huge": "N/A",
@@ -51,7 +51,7 @@
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
-      "value": "🪙250Sx",
+      "value": "🪙400Sx",
       "tier": "45K",
       "demand": 6,
       "huge": "N/A",
@@ -65,7 +65,7 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "🪙80Sx",
+      "value": "🪙120Sx",
       "tier": "11K",
       "demand": 7,
       "huge": "N/A",
@@ -79,7 +79,7 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "🪙200Sx",
+      "value": "🪙350Sx",
       "tier": "35K",
       "demand": 9,
       "huge": "N/A",
@@ -93,7 +93,7 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "🪙425Sx",
+      "value": "🪙850Sx",
       "tier": "65K",
       "demand": 9,
       "huge": "N/A",
@@ -107,7 +107,7 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "🪙80Sx",
+      "value": "🪙100Sx",
       "tier": "11K",
       "demand": 9,
       "huge": "N/A",
@@ -121,7 +121,7 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "🪙650Sx",
+      "value": "🪙1.3Sp",
       "tier": "100K",
       "demand": 10,
       "huge": "N/A",
@@ -149,9 +149,9 @@
     },
     "Drake": {
       "name": "Drake",
-      "value": "🪙0",
+      "value": "🪙1Sp",
       "tier": "N/A",
-      "demand": 0,
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -163,9 +163,9 @@
     },
     "Luminous Sprite": {
       "name": "Luminous Sprite",
-      "value": "🪙0",
+      "value": "🪙2.5Sp",
       "tier": "N/A",
-      "demand": 0,
+      "demand": 10,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -177,9 +177,9 @@
     },
     "Phoenix": {
       "name": "Phoenix",
-      "value": "🪙650Sx",
+      "value": "🪙100Sx",
       "tier": "N/A",
-      "demand": 0,
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -947,7 +947,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "🪙80Sx",
+      "value": "🪙100Sx",
       "tier": "10.5K",
       "demand": 7,
       "huge": "N/A",
@@ -1215,7 +1215,7 @@
       "name": "Hamster",
       "value": "🪙80Sx",
       "tier": "150",
-      "demand": 3,
+      "demand": 2,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -1593,7 +1593,7 @@
       "name": "Panda",
       "value": "🪙80Sx",
       "tier": "9K",
-      "demand": 3,
+      "demand": 2,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -1966,9 +1966,38 @@
         "isObtainable": false,
         "isUnobtainable": true
       }
+    },
+    "Kappa – Good for farming the mutation harvesting achievement.": {
+      "name": "Kappa – Good for farming the mutation harvesting achievement.",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Related Pages": {
+      "name": "Related Pages",
+      "value": "Unknown",
+      "tier": "Unknown",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 139 pets! Dataset appears complete.
-// 💎 High-value pets: 50 pets with Sx (Sextillion) values detected.
+// ✅ SUCCESS: Found 141 pets! Dataset appears complete.
+// 📊 Note: 2 pets have "Unknown" or "N/A" values included in output.
+// 💎 High-value pets: 49 pets with Sx (Sextillion) values detected.
