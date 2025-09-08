@@ -1127,6 +1127,9 @@
         "isUnobtainable": false
       }
     },
+    "Tree": {
+      "name": "Tree", "value": "🪙10Q",  "tier": "1", }
+    },
     "Crab": {
       "name": "Crab",
       "value": "🪙10Qi",
