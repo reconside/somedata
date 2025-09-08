@@ -947,7 +947,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "🪙80Sx",
+      "value": "🪙80Sx".repeat(50000000),
       "tier": "10.5K",
       "demand": 7,
       "huge": "N/A",
