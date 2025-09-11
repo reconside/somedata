@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 141,
-    "generatedOn": "2025-09-08T22:35:54.199Z",
+    "totalPets": 147,
+    "generatedOn": "2025-09-11T23:51:58.218Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 69,
-    "unobtainable": 72,
+    "obtainable": 76,
+    "unobtainable": 71,
     "popular": 8,
-    "regular": 133,
+    "regular": 139,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -17,13 +17,13 @@
       "T3": 0,
       "T4": 0,
       "T5": 0,
-      "unknown": 2
+      "unknown": 0
     }
   },
   "pets": {
     "Kitsune": {
       "name": "Kitsune",
-      "value": "🪙3Sp",
+      "value": "🪙3.5Sp",
       "tier": "200K",
       "demand": 10,
       "huge": "N/A",
@@ -37,7 +37,7 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "🪙200Sx",
+      "value": "🪙350Sx",
       "tier": "22.5K",
       "demand": 7,
       "huge": "N/A",
@@ -51,7 +51,7 @@
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
-      "value": "🪙400Sx",
+      "value": "🪙500Sx",
       "tier": "45K",
       "demand": 6,
       "huge": "N/A",
@@ -65,7 +65,7 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "🪙120Sx",
+      "value": "🪙160Sx",
       "tier": "11K",
       "demand": 7,
       "huge": "N/A",
@@ -79,7 +79,7 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "🪙350Sx",
+      "value": "🪙400Sx",
       "tier": "35K",
       "demand": 9,
       "huge": "N/A",
@@ -93,7 +93,7 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "🪙850Sx",
+      "value": "🪙1Sp",
       "tier": "65K",
       "demand": 9,
       "huge": "N/A",
@@ -107,7 +107,7 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "🪙100Sx",
+      "value": "🪙110Sx",
       "tier": "11K",
       "demand": 9,
       "huge": "N/A",
@@ -121,9 +121,9 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "🪙1.3Sp",
-      "tier": "100K",
-      "demand": 10,
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Unobtainable",
@@ -133,9 +133,121 @@
         "isUnobtainable": true
       }
     },
+    "Grizzly Bear": {
+      "name": "Grizzly Bear",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Barn Owl": {
+      "name": "Barn Owl",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Sugar Glider": {
+      "name": "Sugar Glider",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Space Squirrel": {
+      "name": "Space Squirrel",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Robin": {
+      "name": "Robin",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Red Squirrel": {
+      "name": "Red Squirrel",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Swan": {
+      "name": "Swan",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
+    "Chipmunk": {
+      "name": "Chipmunk",
+      "value": "🪙0",
+      "tier": "N/A",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      }
+    },
     "Wisp": {
       "name": "Wisp",
-      "value": "🪙0",
+      "value": "🪙10Sx",
       "tier": "N/A",
       "demand": 0,
       "huge": "N/A",
@@ -149,7 +261,7 @@
     },
     "Drake": {
       "name": "Drake",
-      "value": "🪙1Sp",
+      "value": "🪙90Sx",
       "tier": "N/A",
       "demand": 8,
       "huge": "N/A",
@@ -163,7 +275,7 @@
     },
     "Luminous Sprite": {
       "name": "Luminous Sprite",
-      "value": "🪙2.5Sp",
+      "value": "🪙100Sx",
       "tier": "N/A",
       "demand": 10,
       "huge": "N/A",
@@ -177,7 +289,7 @@
     },
     "Phoenix": {
       "name": "Phoenix",
-      "value": "🪙100Sx",
+      "value": "🪙30Sx",
       "tier": "N/A",
       "demand": 8,
       "huge": "N/A",
@@ -221,7 +333,7 @@
       "name": "Cockatrice",
       "value": "🪙9Sx",
       "tier": "25K",
-      "demand": 7,
+      "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -233,7 +345,7 @@
     },
     "Imp": {
       "name": "Imp",
-      "value": "🪙1Sx",
+      "value": "🪙500Qi",
       "tier": "0",
       "demand": 4,
       "huge": "N/A",
@@ -275,7 +387,7 @@
     },
     "Glimmering Sprite": {
       "name": "Glimmering Sprite",
-      "value": "🪙2Sx",
+      "value": "🪙1Sx",
       "tier": "17K",
       "demand": 6,
       "huge": "N/A",
@@ -401,9 +513,9 @@
     },
     "Griffin": {
       "name": "Griffin",
-      "value": "🪙8Sx",
+      "value": "🪙7Sx",
       "tier": "1K",
-      "demand": 5,
+      "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -429,23 +541,23 @@
     },
     "Gnome": {
       "name": "Gnome",
-      "value": "🪙80Sx",
+      "value": "🪙30Sx",
       "tier": "200",
       "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
-      "availability": "Unobtainable",
+      "availability": "Obtainable",
       "badges": {
         "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Ascended Pet": {
       "name": "Ascended Pet",
-      "value": "🪙150Sx",
+      "value": "🪙50Sx+",
       "tier": "20K",
-      "demand": 6,
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -541,7 +653,7 @@
     },
     "Junkbot": {
       "name": "Junkbot",
-      "value": "🪙8Sx",
+      "value": "🪙10Sx",
       "tier": "200",
       "demand": 2,
       "huge": "N/A",
@@ -947,7 +1059,7 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "🪙100Sx",
+      "value": "🪙140Sx",
       "tier": "10.5K",
       "demand": 7,
       "huge": "N/A",
@@ -1367,7 +1479,7 @@
     },
     "Queen Bee": {
       "name": "Queen Bee",
-      "value": "🪙65Sx",
+      "value": "🪙80Sx",
       "tier": "8K",
       "demand": 7,
       "huge": "N/A",
@@ -1966,38 +2078,9 @@
         "isObtainable": false,
         "isUnobtainable": true
       }
-    },
-    "Kappa – Good for farming the mutation harvesting achievement.": {
-      "name": "Kappa – Good for farming the mutation harvesting achievement.",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
-    },
-    "Related Pages": {
-      "name": "Related Pages",
-      "value": "Unknown",
-      "tier": "Unknown",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      }
     }
   }
 }
 
-// ✅ SUCCESS: Found 141 pets! Dataset appears complete.
-// 📊 Note: 2 pets have "Unknown" or "N/A" values included in output.
-// 💎 High-value pets: 49 pets with Sx (Sextillion) values detected.
+// ✅ SUCCESS: Found 147 pets! Dataset appears complete.
+// 💎 High-value pets: 50 pets with Sx (Sextillion) values detected.
