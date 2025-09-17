@@ -2,14 +2,14 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 154,
-    "generatedOn": "2025-09-16T13:06:04.326Z",
+    "generatedOn": "2025-09-17T05:06:36.102Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 72,
-    "unobtainable": 82,
-    "popular": 8,
-    "regular": 146,
+    "obtainable": 73,
+    "unobtainable": 81,
+    "popular": 7,
+    "regular": 147,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -27,12 +27,12 @@
       "tier": "2M",
       "demand": 10,
       "huge": "N/A",
-      "popularity": "Popular",
-      "availability": "Unobtainable",
+      "popularity": "Regular",
+      "availability": "Obtainable",
       "badges": {
-        "isPopular": true,
-        "isObtainable": false,
-        "isUnobtainable": true
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
       }
     },
     "Spinosaurus": {
