@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 157,
-    "generatedOn": "2025-09-20T02:30:39.012Z",
+    "totalPets": 158,
+    "generatedOn": "2025-09-20T02:35:45.750Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 75,
+    "obtainable": 76,
     "unobtainable": 82,
     "popular": 8,
-    "regular": 149,
+    "regular": 150,
     "tiers": {
       "T0": 0,
       "T1": 0,
@@ -33,6 +33,15 @@
         "isPopular": true,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Prismatic",
+        "trait": "Nine-Tailed Myth: Every ~22 Minutes, goes to another player's fruit, mutates it with Chakra and steals (duplicate) and gives it to the player! Very Rare chance to mutate with Foxfire Chakra instead.",
+        "source": "Zen Egg",
+        "hunger": "50K",
+        "dateAdded": "July 19, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Kitsune-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/kitsune-value-grow-a-garden"
       }
     },
     "Spinosaurus": {
@@ -47,6 +56,15 @@
         "isPopular": true,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Food Chain: Every ~20 minutes, devours a random mutation from 3 fruits in owners garden each, then roar, spreading those mutations to a fruit in owners garden! Prioritizes applying mutation to favorited fruit.",
+        "source": "Primal Egg",
+        "hunger": "25K",
+        "dateAdded": "July 12th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Spinosaurus-Value-in-Grow-a-Garden-1.png",
+        "link": "https://www.game.guide/spinosaurus-value-grow-a-garden"
       }
     },
     "Fennec Fox": {
@@ -61,6 +79,15 @@
         "isPopular": true,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Mutation Snatch: Occasionally goes to another player's random fruit and has the chance to copy a random mutation and apply it to a random fruit the pet owner owns!",
+        "source": "Oasis Egg, Premium Oasis Egg",
+        "hunger": "35K",
+        "dateAdded": "June 28, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/fennec-fox-value-grow-a-garden.png",
+        "link": "https://www.game.guide/fennec-fox-value-grow-a-garden"
       }
     },
     "Mimic Octopus": {
@@ -75,6 +102,15 @@
         "isPopular": true,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Mimicry: Every 20m mimics and copies an ability from another pet and performs its ability!",
+        "source": "Paradise Egg",
+        "hunger": "Unknown",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Mimic-Octopus-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/mimic-octopus-value-grow-a-garden"
       }
     },
     "Butterfly": {
@@ -89,6 +125,15 @@
         "isPopular": true,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Rainbow Flutter:\nEvery ~30m, flies to a nearby fruit with 5+ mutations, removes 5 mutations from it and turns it rainbow! Ignores favorited fruit.",
+        "source": "Anti Bee Egg\nPremium Anti Bee Egg\n149",
+        "hunger": "26K",
+        "dateAdded": "June 7th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Butterfly-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/butterfly-value-grow-a-garden"
       }
     },
     "Disco Bee": {
@@ -103,6 +148,15 @@
         "isPopular": true,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Every ~10m, has a ~20% chance a nearby fruit becomes Disco",
+        "source": "Anti Bee Egg\nPremium Anti Bee Egg",
+        "hunger": "25K",
+        "dateAdded": "June 7, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Disco-Bee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/disco-bee-value-grow-a-garden"
       }
     },
     "Dragonfly": {
@@ -117,13 +171,22 @@
         "isPopular": true,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Transmutation: Every ~5 minutes, one random crop will turn gold.",
+        "source": "Bug Egg, Exotic Bug Egg",
+        "hunger": "1K",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Dragonfly-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/dragonfly-value-in-grow-a-garden"
       }
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙1Sp",
+      "tier": "1M",
+      "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Unobtainable",
@@ -131,6 +194,38 @@
         "isPopular": true,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Rascal: Every ~15 minutes, goes to another player's plot and steals (duplicate) a random crop and gives it to the player!",
+        "source": "Night Egg, Premium Night Egg",
+        "hunger": "45K",
+        "dateAdded": "May 10, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Raccoon-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/raccoon-value-grow-a-garden"
+      }
+    },
+    "Mallard": {
+      "name": "Mallard",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Southbound: On the hourly, all Mallards fly South to migrate. The Mallard disappears leaving the player with a random gear! Mallard returns to the players inventory.",
+        "source": "Fall Market Event (Part 2)",
+        "hunger": "0",
+        "dateAdded": "September 20, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Mallard-Grow-a-Garden.png",
+        "link": "https://www.game.guide/mallard-value-grow-a-garden"
       }
     },
     "Woodpecker": {
@@ -145,6 +240,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Woodpecking: Occasionally consumes a woody type fruit and brings it to the crafting table and reduces crafting time.",
+        "source": "Fall Market Event (Part 2)",
+        "hunger": "0",
+        "dateAdded": "September 20, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Woodpecker-Grow-a-Garden.png",
+        "link": "https://www.game.guide/woodpecker-value-grow-a-garden"
       }
     },
     "Salmon": {
@@ -159,6 +263,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Salmon School: Gets bonus experience for every other Salmon in the players garden!",
+        "source": "Fall Market Event (Part 2)",
+        "hunger": "0",
+        "dateAdded": "September 20, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Salmon.png",
+        "link": "https://www.game.guide/salmon-value-grow-a-garden"
       }
     },
     "Red Panda": {
@@ -173,6 +286,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Adorable Haggler: Occasionally goes to the Gear or Seed Shop and restocks a random stock. Rarer items have rarer chance to stock.",
+        "source": "Fall Market Event (Part 2)",
+        "hunger": "0",
+        "dateAdded": "September 20, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Red-Panda-Grow-a-Garden.png",
+        "link": "https://www.game.guide/red-panda-value-grow-a-garden"
       }
     },
     "GIANT Robin": {
@@ -187,6 +309,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Tiny Bird: Grants 20-40% decreased player size!",
+        "source": "GIANT Premium Fall Egg (55%)",
+        "hunger": "1.5K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Robin-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-robin-value-grow-a-garden"
       }
     },
     "GIANT Swan": {
@@ -201,6 +332,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Swan Song: Every 790-300s, goes to another player's pet and befriends it and performs its ability! Every 150-65s, graces a fruit with Graceful (77x) mutation!",
+        "source": "GIANT Premium Fall Egg (1%)",
+        "hunger": "56K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Swan-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-swan-value-grow-a-garden"
       }
     },
     "GIANT Grizzly Bear": {
@@ -215,6 +355,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Fall Express: Every 140-30s, 20-45% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 16-32% increased player size!",
+        "source": "GIANT Premium Fall Egg (10%)",
+        "hunger": "55K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-grizzly-bear-value-grow-a-garden"
       }
     },
     "GIANT Badger": {
@@ -229,6 +378,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Earthquake Excavator: Every 312-80s, digs around for 10-20s, displacing the ground. Nearby fruits within 20-40 studs have a 10-20% chance every second to get Cracked mutation!",
+        "source": "GIANT Premium Fall Egg (32.5%)",
+        "hunger": "15K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Badger-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-badger-value-grow-a-garden"
       }
     },
     "GIANT Barn Owl": {
@@ -243,6 +401,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Wise Shopper: Pets bought directly from shops have a bonus 0.1 - (0.36-0.8) KG to their base weight! (Max 3 KG). Prince of Fall: All active Fall type pets gain an additional 1.2-4 XP/s!",
+        "source": "GIANT Premium Fall Egg (1.5%)",
+        "hunger": "50K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-barn-owl-value-grow-a-garden"
       }
     },
     "Marmot": {
@@ -257,6 +424,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Whack-A-Marmot: Every 540-120s, burrows down in the ground and hides in a random mound! Finding the Marmot will grant a Fall related reward! Has a 15-30% to burrow again!",
+        "source": "Fall Pet Shop",
+        "hunger": "38K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Marmot.png",
+        "link": "https://www.game.guide/marmot-value-grow-a-garden"
       }
     },
     "Badger": {
@@ -271,6 +447,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Earthquake Excavator: Every 312-80s, digs around for 10-20s, displacing the ground. Nearby fruits within 20-40 studs have a 10-20% chance every second to get Cracked mutation!",
+        "source": "Fall Egg (32.5%)",
+        "hunger": "15K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Badger-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/badger-value-grow-a-garden"
       }
     },
     "Grizzly Bear": {
@@ -285,6 +470,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Fall Express: Every 240-30s, 10-30% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 8-16% increased player size!",
+        "source": "Fall Egg (10%)",
+        "hunger": "55K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/grizzly-bear-value-grow-a-garden"
       }
     },
     "Barn Owl": {
@@ -299,6 +493,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Wise Shopper: Pets bought directly from shops have a bonus 0.1 - (0.18-0.4) KG to their base weight! (Max 3 KG). Prince of Fall: All active Fall type pets gain an additional 0.6-2 XP/s!",
+        "source": "Fall Egg (1.5%)",
+        "hunger": "50K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/barn-owl-value-grow-a-garden"
       }
     },
     "Sugar Glider": {
@@ -313,6 +516,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Sugar Gliding: Every 720-1200s, glides from 3 different fruits. Copies 1 mutation from each fruit and applies it to the next.",
+        "source": "Fall Pet Shop",
+        "hunger": "16K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Sugar-Glider.png",
+        "link": "https://www.game.guide/sugar-glider-value-grow-a-garden"
       }
     },
     "Space Squirrel": {
@@ -327,6 +539,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "A Space Odd-Nut-sy: Every 1080-540s, has 15-25% chance to apply the Voidtouched mutation!",
+        "source": "Fall Pet Shop",
+        "hunger": "25K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Space-Squirrel.png",
+        "link": "https://www.game.guide/space-squirrel-value-grow-a-garden"
       }
     },
     "Robin": {
@@ -341,6 +562,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Tiny Bird: Grants 10-20% decreased player size!",
+        "source": "Fall Egg (54%)",
+        "hunger": "1.5K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Robin-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/robin-value-grow-a-garden"
       }
     },
     "Red Squirrel": {
@@ -355,6 +585,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "When Fall type pets finish their abilities, they start their cooldown with 14-30 seconds less!",
+        "source": "Fall Pet Shop",
+        "hunger": "15K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Red-Squirrel.png",
+        "link": "https://www.game.guide/red-squirrel-value-grow-a-garden"
       }
     },
     "Swan": {
@@ -369,6 +608,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Swan Song: Every 1500-750s, goes to another player's pet and befriends it and performs its ability! Every 360-120s, graces a fruit with Graceful (77x) mutation!",
+        "source": "Fall Egg (1%)",
+        "hunger": "56K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Swan-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/swan-value-grow-a-garden"
       }
     },
     "Chipmunk": {
@@ -383,6 +631,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Harvest Stash: 6-12% Chance to not consume a use when using a Harvest Tool!",
+        "source": "Fall Pet Shop",
+        "hunger": "15K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chipmunk.png",
+        "link": "https://www.game.guide/chipmunk-value-grow-a-garden"
       }
     },
     "Wisp": {
@@ -397,6 +654,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Will-o’-the-Wisp: As long as the player has a Wisp Well in their garden: Pets gain 0.75 extra experience per second.",
+        "source": "Fairy Fares Event Shop",
+        "hunger": "1K",
+        "dateAdded": "September 6, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Wisp-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/wisp-value-grow-a-garden"
       }
     },
     "Drake": {
@@ -411,6 +677,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Flambe: Goes to a Cooking Kit and breathes fire on it, helping the cooking process and boosting cooking speed by ~11%.",
+        "source": "Fairy Fares Event Shop",
+        "hunger": "25K",
+        "dateAdded": "September 6, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Drake-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/drake-value-grow-a-garden"
       }
     },
     "Luminous Sprite": {
@@ -425,6 +700,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Illuminate: Occasionally flies to a random fruit and applies the Luminous mutation.",
+        "source": "Fairy Fares Event Shop",
+        "hunger": "25K",
+        "dateAdded": "September 6, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Luminous-Sprite-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/luminous-sprite-value-grow-a-garden"
       }
     },
     "Phoenix": {
@@ -439,6 +723,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Frilled Reptile: Occasionally opens its frills and spits out venom! The venom spreads to other random pets, advancing cooldown OR granting bonus xp. Icarus: Occasionally, devours a random mutation from random fruits in your garden each, roars and applies it to 1 other random fruit in your garden! Bird of Rebirth: Pets taken from the mutation machine have a bonus to their age & Icarus: Goes to random fruits to apply flaming mutation, fruits passed along the way have a chance to get the Flaming mutation.",
+        "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
+        "hunger": "65K",
+        "dateAdded": "September 6, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Phoenix-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/phoenix-value-grow-a-garden"
       }
     },
     "Shroomie": {
@@ -453,6 +746,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Mushroom Madness: All nearby plants within ~15 studs will have increased 0.004x size bonus for every Fungus type plant in the player's garden! (Max 300).",
+        "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
+        "hunger": "20K",
+        "dateAdded": "September 6, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Shroomie-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/shroomie-value-grow-a-garden"
       }
     },
     "Cardinal": {
@@ -467,6 +769,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Magical Friend: \nAll Magical type plants grow ~1.6x faster.",
+        "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
+        "hunger": "1.5K",
+        "dateAdded": "September 6, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Cardinal-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/cardinal-value-grow-a-garden"
       }
     },
     "Cockatrice": {
@@ -481,6 +792,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Silver Screech: Every 16min, screeches and all fruits within 20.44 studs have a 20% chance to turn Silver; 1% chance to turn Gold! Venom Spit: Every 10min, spits at 5 different fruit/eggs/pets. Fruits get Toxic mutation, eggs advance by 80.96 seconds, pets gain 804.80XP.",
+        "source": "Enchanted Egg",
+        "hunger": "66K",
+        "dateAdded": "August 30, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Cockatrice-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/cockatrice-value-grow-a-garden"
       }
     },
     "Imp": {
@@ -495,6 +815,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every 6:66m, the Imp will playfully invite you to chase it. Catching the Imp will grant a random reward! The Imp has a 15-30% to play again on successful chase!",
+        "source": "Enchanted Egg",
+        "hunger": "20K",
+        "dateAdded": "August 30, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Imp-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/imp-value-grow-a-garden"
       }
     },
     "Ladybug": {
@@ -509,6 +838,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "All flower type plants grow ~1.6x faster!",
+        "source": "Enchanted Egg",
+        "hunger": "12K",
+        "dateAdded": "August 30, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Ladybug-Grow-a-Garden.png",
+        "link": "https://www.game.guide/ladybug-value-grow-a-garden"
       }
     },
     "Pixie": {
@@ -523,6 +861,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every 222-100s, spreads pixie dust for 15-30s. All plants within 15-30 studs will advance growth an extra 30 seconds every second! Also makes nearby players levitate!",
+        "source": "Enchanted Egg",
+        "hunger": "25K",
+        "dateAdded": "August 30, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/pixie-value-grow-a-garden.png",
+        "link": "https://www.game.guide/pixie-value-grow-a-garden"
       }
     },
     "Glimmering Sprite": {
@@ -537,6 +884,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 12 minutes, flies to a nearby fruit and enchants it, applying the Glimmering mutation!",
+        "source": "Enchanted Egg",
+        "hunger": "25K",
+        "dateAdded": "August 30, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/glimmering-sprite-value-grow-a-garden.png",
+        "link": "https://www.game.guide/glimmering-sprite-value-grow-a-garden"
       }
     },
     "Radiant Pet": {
@@ -551,6 +907,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mutation",
+        "trait": "Every ~20 - 30 minutes, it emits sunshine at a random nearby plant and advances its growth by 24 hours!",
+        "source": "Pet Mutation Machine",
+        "hunger": "Unknown",
+        "dateAdded": "July 12, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/radiant-pet-value-grow-a-garden.png",
+        "link": "https://www.game.guide/radiant-pet-value-grow-a-garden"
       }
     },
     "Shocked Pet": {
@@ -565,6 +930,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mutation",
+        "trait": "During a Thunderstorm: Every ~45 - 60 seconds, has a ~25 - 30% chance to attract lightning, shocking nearby fruits!",
+        "source": "Pet Mutation Machine",
+        "hunger": "Unknown",
+        "dateAdded": "July 12, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/shocked-pet-value-in-grow-a-garden.png",
+        "link": "https://www.game.guide/shocked-pet-value-grow-a-garden"
       }
     },
     "Rainbow Pet": {
@@ -579,6 +953,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mutation",
+        "trait": "Provides a +20% increase to the pet's passive! The boost is an additive buff that applies equally to all pets of the same kind.",
+        "source": "Pet Mutation Machine",
+        "hunger": "Unknown",
+        "dateAdded": "July 12, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/rainbow-pet-value-grow-a-garden.png",
+        "link": "https://www.game.guide/rainbow-pet-value-grow-a-garden"
       }
     },
     "Lemon Lion": {
@@ -593,6 +976,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Brain-Roar: Roars and mutates a random fruit with Brainrot mutation. Citrus Roar: Occasionally grants bonus experience to a random pet",
+        "source": "Admin Abuse War",
+        "hunger": "50K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Lemon-Lion-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/lemon-lion-value-grow-a-garden"
       }
     },
     "Apple Gazelle": {
@@ -607,6 +999,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Apple Harvester: Fruits that have apple in the name have a 4-7% chance to duplicate when collected; Sugar Warp: Harvesting Sugar Apple crops have a 2-4% to apply Warped mutation to a random fruit in your garden!",
+        "source": "Admin Abuse War",
+        "hunger": "2.5K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Apple-Gazelle-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/apple-gazelle-value-grow-a-garden"
       }
     },
     "Peach Wasp": {
@@ -621,6 +1022,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Peach Pollinator: Every 1500-200s, flies to a nearby fruit and Plasmafies it, applying Plasma mutation! Peach Stinger: Every 602-300s, stings a random pet and advances its ability cooldown by 60-120s!",
+        "source": "Admin Abuse War",
+        "hunger": "2.5K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Peach-Wasp-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/peach-wasp-value-grow-a-garden"
       }
     },
     "Mandrake": {
@@ -635,6 +1045,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Harvesting Mandrake crops have a 3% chance to apply Rot mutation to a random fruit in your garden!",
+        "source": "Skyroot Chest",
+        "hunger": "10K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Mandrake-Pet-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/mandrake-pet-value-grow-a-garden"
       }
     },
     "Green Bean": {
@@ -649,6 +1068,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Bean for the Bean God: Occasionally sacrifices a random Beanstalk fruit in your garden to instantly grow a random plant in the player's garden with a fruit size bonus.",
+        "source": "Admin Abuse War",
+        "hunger": "23.8K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Green-Bean-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/green-bean-value-grow-a-garden"
       }
     },
     "Griffin": {
@@ -663,6 +1091,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Every 15 minutes, flaunts its wings and releases a Cyclone. Pets struck have cooldown advances by 60 seconds and fruits struck have a 10% chance to get the Cyclonic mutation!",
+        "source": "Skyroot Chest",
+        "hunger": "65K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Griffin-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/griffin-value-grow-a-garden"
       }
     },
     "Elk": {
@@ -677,6 +1114,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "2% chance berry fruit stays after collecting! Rarer plants have a rarer chance to replant.",
+        "source": "Skyroot Chest",
+        "hunger": "65K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Elk-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/elk-value-grow-a-garden"
       }
     },
     "Gnome": {
@@ -691,6 +1137,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Gnome Collector: Has a chance to mutate a random fruit with the Gnomed mutation. Gains additional chance for every Gnome cosmetic in the player’s garden.",
+        "source": "Goliath's Goods",
+        "hunger": "25K",
+        "dateAdded": "August 23rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Gnome-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/gnome-value-grow-a-garden"
       }
     },
     "Ascended Pet": {
@@ -705,6 +1160,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mutation",
+        "trait": "Every ~300 - 360 minutes (5-6 hours), gives a random fruit the Dawnbound mutation!",
+        "source": "Pet Mutation Machine",
+        "hunger": "Unknown",
+        "dateAdded": "July 12, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Ascended-Pet-Value-Grow-a-Garden-1.png",
+        "link": "https://www.game.guide/ascended-pet-value-grow-a-garden"
       }
     },
     "Dairy Cow": {
@@ -719,6 +1183,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "All plants within 10 studs grow 1.3x faster! When selling this pet: Has a small chance to get a Beanstalk seed!",
+        "source": "Sprout Egg",
+        "hunger": "9K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Dairy-Cow-Grow-a-Garden.png",
+        "link": "https://www.game.guide/dairy-cow-value-grow-a-garden"
       }
     },
     "Seedling": {
@@ -733,6 +1206,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent",
+        "source": "Rare Summer Egg",
+        "hunger": "17K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Seedling-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/seedling-value-in-grow-a-garden-whats-it-worth"
       }
     },
     "Jackalope": {
@@ -747,6 +1229,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Every 100 seconds, thumps its feet and has a ~15% chance to mutate a nearby fruit, applying the Sandy mutation!",
+        "source": "Sprout Egg",
+        "hunger": "22K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Jackalope-Grow-a-Garden.png",
+        "link": "https://www.game.guide/jackalope-value-grow-a-garden"
       }
     },
     "Golem": {
@@ -761,6 +1252,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
+        "source": "Sprout Egg",
+        "hunger": "32K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golem-value-grow-a-garden"
       }
     },
     "Golden Goose": {
@@ -775,6 +1275,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Every 788-300s, lays a Golden Egg plant that starts with the Fortune mutation. It can be harvested and mutates like other plants. Selling it may apply Fortune mutation to a fruit in the player's garden!",
+        "source": "Sprout Egg",
+        "hunger": "48K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golden-Goose-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golden-goose-value-grow-a-garden"
       }
     },
     "Spriggan": {
@@ -789,6 +1298,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Overgrowth: Occasionally spreads its roots and all nearby fruits in 30 studs have a 15-16% chance to get the Bloom mutation!",
+        "source": "Goliath's Goods",
+        "hunger": "45K",
+        "dateAdded": "August 16, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Spriggan-Grow-a-Garden.png",
+        "link": "https://www.game.guide/spriggan-value-in-grow-a-garden-whats-it-worth"
       }
     },
     "Junkbot": {
@@ -803,6 +1321,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "OIL OR BOIL: Occasionally has a chance to oil nearby fruit applying the Oil mutation",
+        "source": "Albert Admin Abuse",
+        "hunger": "10.1K",
+        "dateAdded": "August 9, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Junkbot-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/junkbot-value-grow-a-garden"
       }
     },
     "Gorilla Chef": {
@@ -817,6 +1344,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "King Cook: As long as players have a Cooking Pot or Cooking Cauldron in player garden: The Gorilla cooks in it and grants 5-10% to duplicate food on cook!",
+        "source": "Rat Connoisseur",
+        "hunger": "55K",
+        "dateAdded": "August 9th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/gorilla-chef-value-grow-a-garden.png",
+        "link": "https://www.game.guide/gorilla-chef-value-grow-a-garden"
       }
     },
     "Sunny-Side Chicken": {
@@ -831,6 +1367,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Better Eggcelerator: Increases egg hatch speed by &gt;20%!",
+        "source": "Taste Testing Rat Connoisseur",
+        "hunger": "3.4K",
+        "dateAdded": "August 9th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Sunny-Side-Chicken-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/sunny-side-chicken-value-grow-a-garden"
       }
     },
     "Lobster Thermidor": {
@@ -845,6 +1390,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Molten Boiling Point: Every 300 to 900s (5-15 minutes), 20% or more chance a nearby fruit becomes Molten!Meteoric Boiling Point: Every 500 to 1800s (8.33-30 minutes), 10% or more chance a nearby fruit becomes Meteoric!",
+        "source": "Culinarian Chest, Exotic Culinarian Chest, Rainbow Sack",
+        "hunger": "50.5K",
+        "dateAdded": "August 9, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/lobster-thermidor-value-grow-a-garden.png",
+        "link": "https://www.game.guide/lobster-thermidor-value-grow-a-garden"
       }
     },
     "Hotdog Daschund": {
@@ -859,6 +1413,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Loaded Dog: Every 80s to 240s, drops a 8 to 16 stud mustard or ketchup puddle that lasts 30 to 45 seconds.\nPets on mustard get 20% to 40% faster cooldown and pets on ketchup gain 20% to 40% more experience!",
+        "source": "Culinarian Chest, Exotic Culinarian Chest, Rainbow Sack",
+        "hunger": "16K",
+        "dateAdded": "August 9th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/hotdog-daschund-value-grow-a-garden.png",
+        "link": "https://www.game.guide/hotdog-daschund-value-grow-a-garden"
       }
     },
     "Bacon Pig": {
@@ -873,6 +1436,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Bacon Frenzy: Every 5s to 120s, emits an aura for &gt;15s granting &gt;2x chance for new fruit to grow as variants within &gt;15 studs!",
+        "source": "Culinarian Chest, Exotic Culinarian Chest, Rainbow Sack",
+        "hunger": "5K",
+        "dateAdded": "August 2, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/bacon-pig-value-grow-a-garden.png",
+        "link": "https://www.game.guide/bacon-pig-value-grow-a-garden"
       }
     },
     "Mochi Mouse": {
@@ -887,6 +1459,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Mochi Marathon: Grants bonus experience per second gain to all active Food type pets\nWhisker Wisdom: Occasionally gains bonus experience",
+        "source": "Cooking Event Rewards",
+        "hunger": "25K",
+        "dateAdded": "August 2nd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Mochi-Mouse-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/mochi-mouse-value-in-grow-a-garden"
       }
     },
     "French Fry Ferret": {
@@ -901,6 +1482,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Friendly Frier: Every ~57:01m, increases a random pet's level by 1! Ability cannot be mimicked or refreshed.",
+        "source": "Gourmet Egg",
+        "hunger": "37K",
+        "dateAdded": "August 2, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/French-Fry-Ferret-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/french-fry-ferret-value-grow-a-garden"
       }
     },
     "Pancake Mole": {
@@ -915,6 +1505,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Pancake Hunter: Every 10-80s, digs down underground to find treasure. Can dig up gear or sheckles!",
+        "source": "Gourmet Egg",
+        "hunger": "50K",
+        "dateAdded": "August 2nd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Pancake-Mole-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/pancake-mole-value-grow-a-garden"
       }
     },
     "Spaghetti Sloth": {
@@ -929,6 +1528,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Al dente: Every 3:20-14:00m, goes to a nearby fruit and does-a-cooking! Applying Pasta, Sauce or Meatball mutation!",
+        "source": "Gourmet Egg",
+        "hunger": "18K",
+        "dateAdded": "August 2nd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Spaghetti-Sloth-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/spaghetti-sloth-value-grow-a-garden"
       }
     },
     "Sushi Bear": {
@@ -943,6 +1551,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Sushi Express: Every 10-80s, &gt;15% chance a nearby fruit becomes Chilled or Frozen\nSushi Time: Every 100-670s, flings a sushi towards a random pet and feeds it for 1-50% of its hunger",
+        "source": "Gourmet Egg",
+        "hunger": "20K",
+        "dateAdded": "August 2, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Sushi-Bear-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/sushi-bear-value-in-grow-a-garden"
       }
     },
     "Bagel Bunny": {
@@ -957,6 +1574,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Bagels and Carrots: Every 5-45s, eats a carrot for &gt;5x value bonus!",
+        "source": "Gourmet Egg",
+        "hunger": "1.2K",
+        "dateAdded": "August 2nd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Bagel-Bunny-Value-Grow-a-Garden-1.png",
+        "link": "https://www.game.guide/bagel-bunny-value-grow-a-garden"
       }
     },
     "Football": {
@@ -971,6 +1597,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead",
+        "source": "Travis Kelce Celebrity Guest Event",
+        "hunger": "870",
+        "dateAdded": "July 26th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Football-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/football-value-grow-a-garden"
       }
     },
     "Maneki-neko": {
@@ -985,6 +1620,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Fortune Cat: Every 2 minutes, waves and invites good fortune that grants 8% chance to refund fruit back to player’s inventory for 10s! Rarer fruit have rarer chance to refund.",
+        "source": "Kitsune Chest, Exotic Kitsune Chest",
+        "hunger": "1.78K",
+        "dateAdded": "July 26th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Maneki-neko-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/maneki-neko-value-grow-a-garden"
       }
     },
     "Corrupted Kitsune": {
@@ -999,6 +1643,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Prismatic",
+        "trait": "Nine-Tailed Curse:\nEvery 20:56m, launches cursed energy at 9 different fruits. Mutating them Corrupt Chakra with a very rare chance for Corrupt Foxfire Chakra",
+        "source": "Kitsune Chest, Exotic Kitsune Chest, Rainbow Sack",
+        "hunger": "50K",
+        "dateAdded": "July 26, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Corrupted-Kitsune-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/corrupted-kitsune-value-grow-a-garden"
       }
     },
     "Kodama": {
@@ -1013,6 +1666,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Tree Spirit: ~5% Zen type Fruit gets tranquil mutation after collecting!",
+        "source": "Kitsune Chest, Exotic Kitsune Chest, Rainbow Sack",
+        "hunger": "22K",
+        "dateAdded": "July 26, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Kodama-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/kodama-value-grow-a-garden"
       }
     },
     "Corrupted Kodama": {
@@ -1027,6 +1689,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Tree Spirit: 4.22% chance Zen type fruit gets Corrupt mutation after collecting!",
+        "source": "Corrupt Zen Quests",
+        "hunger": "22K",
+        "dateAdded": "July 26,2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Corrupt-Kodama-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/corrupted-kodama-value-grow-a-garden"
       }
     },
     "Raiju": {
@@ -1041,6 +1712,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Lightning Beast: Every ~10:30 minutes, devours a fruit with Shocked mutation for 1.5x sheckle value to summon a chain of lightning to mutate 4.22 fruits with Static! During a thunderstorm: ~20.3% chance for Shocked instead.",
+        "source": "Tranquil Treasures Shop",
+        "hunger": "42K",
+        "dateAdded": "July 26th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Raiju-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/raiju-value-grow-a-garden"
       }
     },
     "Shiba Inu": {
@@ -1055,6 +1735,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Man's Best Tomodachi: Every ~60s, ~15% chance to dig up a random seed from the seed shop with lower chances for higher tiers (eg prismatic)",
+        "source": "Zen Egg",
+        "hunger": "2K",
+        "dateAdded": "July 19th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Shiba-Inu-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/shiba-inu-value-grow-a-garden"
       }
     },
     "Tanuki": {
@@ -1069,6 +1758,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Mischief: Occasionally causes mischief doing random actions in the player's garden.",
+        "source": "Zen Egg",
+        "hunger": "15K",
+        "dateAdded": "July 19, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Tanuki-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/tanuki-value-grow-a-garden"
       }
     },
     "Kappa": {
@@ -1083,6 +1781,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Water Spirit: Occasionally sprays water on all nearby fruits, mutating them to wet, and has a chance to convert Wet mutations already on fruit to Bloodlit.",
+        "source": "Zen Egg",
+        "hunger": "40K",
+        "dateAdded": "July 19th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Kappa-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/kappa-value-in-grow-a-garden"
       }
     },
     "Tanchozuru": {
@@ -1097,6 +1804,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Balance and Harmony: Occasionally channels tranquility and has a chance to mutate nearby fruits into Tranquil.",
+        "source": "Zen Egg",
+        "hunger": "40K",
+        "dateAdded": "July 19th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Tanchozuru-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/tanchozuru-value-grow-a-garden"
       }
     },
     "Nihonzaru": {
@@ -1111,6 +1827,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Bathe Time: As long as you have a Hot Spring in the players garden: bathes in it and boosts all other pet's passives by a small amount.",
+        "source": "Zen Egg",
+        "hunger": "8K",
+        "dateAdded": "July 19th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Nihonzaru-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/nihonzaru-value-grow-a-garden"
       }
     },
     "Koi": {
@@ -1125,6 +1850,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Fish of Fortune: When hatching eggs, there is a *(0.22 * Weight + 3)*% chance to get the egg back. Cannot recover Premium/Exotic Eggs.",
+        "source": "Zen Shop",
+        "hunger": "2.5K",
+        "dateAdded": "July 19th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Koi-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/koi-value-grow-a-garden"
       }
     },
     "Parasaurolophus": {
@@ -1139,6 +1873,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Crowbar Head: Occasionally, goes to the cosmetic crate with the highest time and reduces time to open!",
+        "source": "Primal Egg",
+        "hunger": "40K",
+        "dateAdded": "July 12th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Parasaurolophus-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/parasaurolophus-value-grow-a-garden"
       }
     },
     "Iguanodon": {
@@ -1153,6 +1896,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Dino Herd: Grants bonus experience per second gain to all active Dinosaur-type pets",
+        "source": "Primal Egg",
+        "hunger": "40K",
+        "dateAdded": "July 12th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Iguanodon-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/iguanodon-value-grow-a-garden"
       }
     },
     "Pachycephalosaurus": {
@@ -1167,6 +1919,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Crafty Dome: Grants a 6% chance to duplicate a crafted item.",
+        "source": "Primal Egg",
+        "hunger": "40K",
+        "dateAdded": "July 12, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Pachycephalosaurus-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/pachycephalosaurus-value-grow-a-garden"
       }
     },
     "Dilophosaurus": {
@@ -1181,6 +1942,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Frilled Reptile - Every ~13 minutes opens its frills and spits out venom! The venom produced spreads to ~3 (capped at 5) other random pets, advancing cooldown by 40.82 OR granting 370.42 Xp.",
+        "source": "Primal Egg, Premium Primal Egg",
+        "hunger": "30K",
+        "dateAdded": "July 12th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Dilophosaurus-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/dilophosaurus-value-grow-a-garden"
       }
     },
     "Ankylosaurus": {
@@ -1195,6 +1965,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Armored Defender: When a player steals a fruit from the player, grants a chance that the player stolen from, gets the stolen fruit as well.",
+        "source": "Primal Egg",
+        "hunger": "40K",
+        "dateAdded": "July 12th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Ankylosaurus-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/ankylosaurus-value-grow-a-garden"
       }
     },
     "T-Rex": {
@@ -1209,6 +1988,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Apex Predator: Every ~20m eats a random mutation from some fruit in the player's garden then roars and applies that mutation to ~3 other fruits in the player's garden.",
+        "source": "Dinosaur Egg",
+        "hunger": "60K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/T-Rex-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/t-rex-value-grow-a-garden"
       }
     },
     "Triceratops": {
@@ -1223,6 +2011,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Tri-Horn: Every 3:33m, rams into 3 random plants and advances their growth by 33:33m. Has a 15.18% chance to do it again each time.",
+        "source": "Dinosaur Egg",
+        "hunger": "40K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Triceratops-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/triceratops-value-grow-a-garden"
       }
     },
     "Stegosaurus": {
@@ -1237,6 +2034,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Prehistoric Doubling: Small chance to duplicate harvested fruit\nPrehistoric Harvester: Increased chance to duplicate harvested prehistoric type plant",
+        "source": "Dinosaur Egg",
+        "hunger": "40K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Stegosaurus-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/stegosaurus-value-grow-a-garden"
       }
     },
     "Brontosaurus": {
@@ -1251,6 +2057,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus",
+        "source": "Dinosaur Egg",
+        "hunger": "85K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Brontosaurus-Value-Grow-a-Garde.png",
+        "link": "https://www.game.guide/brontosaurus-value-grow-a-garden"
       }
     },
     "Raptor": {
@@ -1265,6 +2080,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate.\nRaptor Dance: Grants additional 14% - 14.5% increase to player movement speed!",
+        "source": "Dinosaur Egg",
+        "hunger": "40K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Raptor-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/raptor-value-grow-a-garden"
       }
     },
     "Pterodactyl": {
@@ -1279,6 +2103,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Sky Reptile: Occasionally applies Windstruck mutation to ~4 nearby fruits with a chance of &gt;19.06% for Twisted!\nAir Time: Grants additional &gt;14.39% increase to player jump height!",
+        "source": "Dinosaur Egg",
+        "hunger": "40K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Pterodactyl-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/pterodactyl-value-grow-a-garden"
       }
     },
     "Bald Eagle": {
@@ -1293,6 +2126,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Wings of Freedom: Every 7:04m, takes flight and spreads its wings. All eggs advance their hatch time by 70.40s! 70.40% chance for the time to be multiplied by ~2x.",
+        "source": "4th July Event 2025",
+        "hunger": "15K",
+        "dateAdded": "July 4th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Bald-Eagle-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/bald-eagle-value-grow-a-garden"
       }
     },
     "Axolotl": {
@@ -1307,6 +2149,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "6.76% chance Summer type fruit stays after collecting!",
+        "source": "Oasis Egg, Premium Oasis Egg",
+        "hunger": "22K",
+        "dateAdded": "June 28, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/axolotl-value-grow-a-garden.png",
+        "link": "https://www.game.guide/axolotl-value-grow-a-garden"
       }
     },
     "Hyacinth Macaw": {
@@ -1321,6 +2172,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Cloudtouched Bird: ~Every 8:00m, ~15.63% chance to mutate a nearby fruit, applying the Cloudtouched mutation!",
+        "source": "Oasis Egg, Premium Oasis Egg",
+        "hunger": "12K",
+        "dateAdded": "June 28, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/hyacinth-macaw-value-grow-a-garden.png",
+        "link": "https://www.game.guide/hyacinth-macaw-value-grow-a-garden"
       }
     },
     "Sand Snake": {
@@ -1335,6 +2195,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Has a 1.31% - 3% to duplicate an item or seed when purchasing from the gear or seed shop.",
+        "source": "Oasis Egg, Premium Oasis Egg",
+        "hunger": "28K",
+        "dateAdded": "June 28, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/sand-snake-value-grow-a-garden.png",
+        "link": "https://www.game.guide/sand-snake-value-grow-a-garden"
       }
     },
     "Meerkat": {
@@ -1349,6 +2218,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every 7:14m goes to another pet and does a lookout. That pet advanced cooldown by 21.06s! Has a 15.53% chance to do it again after each lookout.",
+        "source": "Oasis Egg, Premium Oasis Egg",
+        "hunger": "22K",
+        "dateAdded": "June 28, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Meerkat-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/meerkat-value-grow-a-garden"
       }
     },
     "Flamingo": {
@@ -1363,6 +2241,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Flamboyance: Occasionally stands on one legs and all nearby plants will grow incredibly fast",
+        "source": "Rare Summer Egg",
+        "hunger": "Unknown",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Flamingo-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/flamingo-value-grow-a-garden"
       }
     },
     "Seagull": {
@@ -1377,6 +2264,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "When the player get a Lucky Harvest: There is a 4 percent chance to get a extra seed!",
+        "source": "Common Summer Egg",
+        "hunger": "3.5K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Seagull-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/seagull-value-grow-a-garden"
       }
     },
     "Crab": {
@@ -1391,6 +2287,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Pinch Pocket: Occasionally goes to another player and pinches them and grants you a small amount of sheckles",
+        "source": "Common Summer Egg",
+        "hunger": "3K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Crab-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/crab-value-grow-a-garden"
       }
     },
     "Sea Turtle": {
@@ -1405,6 +2310,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every ~11minutes, shares its wisdom with a random pet, granting 1k bonus experience!\nEvery 150seconds, splashes water at a nearby fruit and it has some chance to get Wet mutation!",
+        "source": "Rare Summer Egg",
+        "hunger": "22.2K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Sea-Turtle-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/sea-turtle-value-grow-a-garden"
       }
     },
     "Seal": {
@@ -1419,6 +2333,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent",
+        "source": "Rare Summer Egg",
+        "hunger": "17K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Seal-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/seal-value-grow-a-garden"
       }
     },
     "Orangutan": {
@@ -1433,6 +2356,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Helping Hands: When crafting, each material has a chance for it not to be consumed",
+        "source": "Rare Summer Egg",
+        "hunger": "Unknown",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Orangutan-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/orangutan-value-grow-a-garden"
       }
     },
     "Starfish": {
@@ -1447,6 +2379,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "You're a Star: Gains additional XP per second.",
+        "source": "Common Summer Egg",
+        "hunger": "1.5K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Starfish-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/starfish-value-grow-a-garden"
       }
     },
     "Toucan": {
@@ -1461,6 +2402,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Tropical Lover: Grants all tropical plants within ~25 studs a ~1.2x size bonus and a ~1.18x variant chance bonus!",
+        "source": "Rare Summer Egg",
+        "hunger": "Unknown",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Toucan-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/toucan-value-grow-a-garden"
       }
     },
     "Hamster": {
@@ -1475,6 +2425,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every ~3 minutes, runs in a hamster wheel and boosts crafting speed by ~30.35% for ~19s!",
+        "source": "Summer Shop",
+        "hunger": "15K",
+        "dateAdded": "June 28, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Hamster-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/hamster-value-grow-a-garden"
       }
     },
     "Capybara": {
@@ -1489,6 +2448,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Chill Zone: All pets within 15.48 studs won`t lose hunger and will gain 3.48xp every second.",
+        "source": "Paradise Egg",
+        "hunger": "30K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Capybara-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/capybara-value-grow-a-garden"
       }
     },
     "Scarlet Macaw": {
@@ -1503,6 +2471,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Verdant Bird: Every 8:00m, 16% chance to mutate a nearby fruit, applying the Verdant mutation.",
+        "source": "Paradise Egg",
+        "hunger": "12K",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Scarlet-Macaw-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/scarlet-macaw-value-grow-a-garden"
       }
     },
     "Peacock": {
@@ -1517,6 +2494,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Utter Beauty: Occasionally fans its feathers and all nearby pets will advance ability cooldowns",
+        "source": "Paradise Egg",
+        "hunger": "Unknown",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Peacock-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/peacock-value-grow-a-garden"
       }
     },
     "Ostrich": {
@@ -1531,6 +2517,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Eggsperience: Grants pets hatched from eggs an age bonus",
+        "source": "Paradise Egg",
+        "hunger": "Unknown",
+        "dateAdded": "June 21, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Ostrich-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/ostrich-value-grow-a-garden"
       }
     },
     "Cooked Owl": {
@@ -1545,6 +2540,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Let Him Cook - Every 15 minutes, 15.35% chance to cook a nearby fruit. Usually Burnt, but occasionally Cooked!\nKing of the Grill - All active pets gain an additional 0.17 XP/s",
+        "source": "Join the game before the 1.10.0 update",
+        "hunger": "35K",
+        "dateAdded": "June 14, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Cooked-Owl-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/cooked-owl-value-grow-a-garden"
       }
     },
     "Pack Bee": {
@@ -1559,6 +2563,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Increases backpack size by ~25 and pollinates a plant every ~25 minutes",
+        "source": "Crafted by adding an Anti Bee Egg, Sunflower, Purple Dahlia, and 250",
+        "hunger": "25K",
+        "dateAdded": "June 14 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Pack-Bee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/pack-bee-value-grow-a-garden"
       }
     },
     "Moon Cat": {
@@ -1573,6 +2586,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every ~70s, naps for ~20s. New fruit within ~20 studs will be ~1.5x larger. ~6% chance Night type fruits stays after harvest.",
+        "source": " Twilight Shop ",
+        "hunger": "2.4K",
+        "dateAdded": "May 24th 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Moon-Cat-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/moon-cat-value-grow-a-garden"
       }
     },
     "Wasp": {
@@ -1587,6 +2609,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every 30m, the Wasp flies to a nearby fruit and pollinates it, applying the Pollinated mutation.\nEvery 10m, the Wasp stings a random pet and advances its ability cooldown by 60s.",
+        "source": "Anti Bee Egg, Premium Anti Bee Egg",
+        "hunger": "28K",
+        "dateAdded": "June 7th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Wasp-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/wasp-value-in-grow-a-garden"
       }
     },
     "Moth": {
@@ -1601,6 +2632,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Silk song:\nEvery ~13 minutes, restores 100% hunger of a random pet by singing to it",
+        "source": "Anti Bee Egg\nPremium Anti Bee Egg\n149",
+        "hunger": "Unknown",
+        "dateAdded": "June 7th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Moth-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/moth-value-grow-a-garden"
       }
     },
     "Tarantula Hawk": {
@@ -1615,6 +2655,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Wasp Pollinator - Every 25m, the Tarantula Hawk flies to a nearby fruit and pollinates it, applying the Pollinated mutation.\nTarantula Stinger - Every 5m, the Tarantula Hawk stings a random pet and advances its ability cooldown by ~ 80s.",
+        "source": "Anti Bee Egg, Premium Anti Bee Egg",
+        "hunger": "28K",
+        "dateAdded": "June 7th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Tarantula-Hawk-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/tarantula-hawk-value-grow-a-garden"
       }
     },
     "Queen Bee": {
@@ -1629,6 +2678,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Every ~20 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~23 Minutes, the pet with the highest cooldown refreshes its ability! Does not refresh pet mutation abilities.",
+        "source": "Bee Egg",
+        "hunger": "65K",
+        "dateAdded": "May 31, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Queen-Bee-Value-Grow-A-Garden.png",
+        "link": "https://www.game.guide/queen-bee-value-grow-a-garden"
       }
     },
     "Snail": {
@@ -1643,6 +2701,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Extra 5.08% chance harvested plants drop seeds. Rarer plants have a lower chance to drop seeds",
+        "source": "Bug Egg, Exotic Bug Egg",
+        "hunger": "12K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Snail-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/snail-value-grow-a-garden"
       }
     },
     "Red Fox": {
@@ -1657,6 +2724,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Scoundrel: Attempts to steal (duplicate) a seed from another user's plot every ~6 minutes if it successfully steals a seed it will try to steal another one",
+        "source": "Mythical Egg",
+        "hunger": "35K",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Red-Fox-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/red-fox-value-grow-a-garden"
       }
     },
     "Caterpillar": {
@@ -1671,6 +2747,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Leaf lover passive : Leafy Plants grow 1.5x-2.5x faster.",
+        "source": "Bug Egg, Exotic Bug Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Caterpillar-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/caterpillar-value-grow-a-garden"
       }
     },
     "Owl": {
@@ -1685,6 +2770,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Boosts all the active pets will gain around 0.20 XP each second!",
+        "source": "Lunar Glow Event 2025",
+        "hunger": "Unknown",
+        "dateAdded": "May 10, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Owl-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/owl-value-grow-a-garden"
       }
     },
     "Chicken Zombie": {
@@ -1699,6 +2793,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 29m, 20.82% chance a nearby fruit becomes Zombified!Increases egg hatch speed by 10.41%",
+        "source": "Join the game before the 1.06.0 update",
+        "hunger": "35K",
+        "dateAdded": "May 17, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Chicken-Zombie-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chicken-zombie-value-grow-a-garden"
       }
     },
     "Echo Frog": {
@@ -1713,6 +2816,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every &lt;5 minutes, croaks and causes a random nearby plant to advance growth by 24 hours.",
+        "source": "Night Egg, Premium Night Egg",
+        "hunger": "50000 ",
+        "dateAdded": "May, 10th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Echo-Frog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/echo-frog-value-grow-a-garden"
       }
     },
     "Bear Bee": {
@@ -1727,6 +2839,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Wanna-bee:\nEvery 25 minutes applies the HoneyGlazed mutation to a random fruit",
+        "source": "Bee Egg",
+        "hunger": "45K",
+        "dateAdded": "May 31, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Bear-Bee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/bear-bee-grow-a-garden"
       }
     },
     "Silver Monkey": {
@@ -1741,6 +2862,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "8% chance to refund crops.",
+        "source": "Legendary Egg",
+        "hunger": "8K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Silver-Monkey-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/silver-monkey-value-grow-a-garden"
       }
     },
     "Sea Otter": {
@@ -1755,6 +2885,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every ~24.70 seconds, sprays water on a nearby plant!",
+        "source": "Legendary Egg",
+        "hunger": "30K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Sea-Otter-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/sea-otter-value-grow-a-garden"
       }
     },
     "Turtle": {
@@ -1769,6 +2908,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "All sprinklers last ~20% longer.",
+        "source": "Legendary Egg",
+        "hunger": "10K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Turtle-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/turtle-value-grow-a-garden"
       }
     },
     "Mole": {
@@ -1783,6 +2931,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every ~80 seconds, digs down underground to find treasure. Can dig up gear or sheckles.",
+        "source": "Night Egg, Premium Night Egg",
+        "hunger": "50K",
+        "dateAdded": "May 10th 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Mole-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/mole-value-grow-a-garden"
       }
     },
     "Cow": {
@@ -1797,6 +2954,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Causes all plants within 8 studs to grow 1.12x faster.",
+        "source": "Legendary Egg",
+        "hunger": "9.5K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Cow-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/cow-value-grow-a-garden"
       }
     },
     "Polar Bear": {
@@ -1811,6 +2977,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every ~90s, ~10% chance to turn a nearby crop chilled or frozen.",
+        "source": "Legendary Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Polar-Bear-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/polar-bear-value-grow-a-garden"
       }
     },
     "Frog": {
@@ -1825,6 +3000,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every &gt;10 minutes, croaks and a random nearby Plant will advance growth by 24 hours.",
+        "source": "Night Egg, Premium Night Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May, 10th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Frog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/frog-value-grow-a-garden"
       }
     },
     "Blood Kiwi": {
@@ -1839,6 +3023,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Crimson Cradle: Every (60 - Weight)s, decreases hatch time of egg with the highest remaining hatch time by (45 + 0.45 * Weight)s and increases its hatch speed by (20 + 0.2 * Weight)%.",
+        "source": "20,000,000 in Blood Moon Shop",
+        "hunger": "45K",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Blood-Kiwi-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/blood-kiwi-value-grow-a-garden"
       }
     },
     "Panda": {
@@ -1853,6 +3046,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every ~3 minutes, the Panda will eat bamboo off the players plot and sell it for ~1.5x value boost.",
+        "source": "Be present for the first hour of the Animal Update",
+        "hunger": "20K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Panda-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/panda-value-grow-a-garden"
       }
     },
     "Blood Hedgehog": {
@@ -1867,6 +3069,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Sanguine Spike - Makes prickly fruits grow bigger, higher prickly fruit variant chance",
+        "source": "23,000,000 in Blood Moon Shop",
+        "hunger": "30K",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Blood-Hedgehog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/blood-hedgehog-value-grow-a-garden"
       }
     },
     "Petal Bee": {
@@ -1881,6 +3092,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every ~25 minutes, it flies to a nearby fruit and pollinates it, applying Pollinated mutation. ~1% chance Flower type fruit stays after harvest.",
+        "source": "Bee Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 31, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Petal-Bee-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/petal-bee-value-grow-a-garden"
       }
     },
     "Orange Tabby": {
@@ -1895,6 +3115,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every 90 seconds, naps for 15 seconds and causes new fruit within 15 studs to grow 1.5x larger.",
+        "source": "Rare Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Orange-Tabby-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/orange-tabby-value-grow-a-garden"
       }
     },
     "Pig": {
@@ -1909,6 +3138,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.",
+        "source": "Rare Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Pig-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/pig-value-grow-a-garden"
       }
     },
     "Rooster": {
@@ -1923,6 +3161,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Increases egg hatch speed by ~20%.",
+        "source": "Rare Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Rooster-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/rooster-value-grow-a-garden"
       }
     },
     "Spotted Deer": {
@@ -1937,6 +3184,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Gives a 5% chance for berry plants to stay when harvested.",
+        "source": "Rare Egg",
+        "hunger": "2.5K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Spotted-Deer-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/spotted-deer-value-grow-a-garden"
       }
     },
     "Monkey": {
@@ -1951,6 +3207,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "~2.5% to refund fruit back to your inventory. Rarer plants have a lower chance to refund.",
+        "source": "Rare Egg",
+        "hunger": "7.4K",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Monkey-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/monkey-value-grow-a-garden"
       }
     },
     "Hedgehog": {
@@ -1965,6 +3230,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Grants prickly fruit in a 30 studs radius a &lt;1.50x size bonus!",
+        "source": "Night Egg, Premium Night Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May, 10th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Hedgehog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/hedgehog-value-grow-a-garden"
       }
     },
     "Red Giant Ant": {
@@ -1979,6 +3253,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "5% chance harvested crops duplicate! Rarer crops have lower chance to duplicate. 5% extra chance for Fruit type crops to duplicate!",
+        "source": "Mythical Egg",
+        "hunger": "15000 ",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Red-Giant-Ant-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/red-giant-ant-value-grow-a-garden"
       }
     },
     "Giant Ant": {
@@ -1993,6 +3276,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "~10% chance for harvested crops to duplicate. Rarer fruits duplicate less often. ~5% extra chance for Candy type fruit to duplicate!",
+        "source": "Bug Egg, Exotic Bug Egg",
+        "hunger": "18K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Giant-Ant-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-ant-value-grow-a-garden"
       }
     },
     "Squirrel": {
@@ -2007,6 +3299,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Seed Stash: Small chance to not consume a use when using the Reclaimer. Gains additional XP per second.",
+        "source": "Mythical Egg",
+        "hunger": "15K",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Squirrel-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/squirrel-value-grow-a-garden"
       }
     },
     "Praying Mantis": {
@@ -2021,6 +3322,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Zen zone:\nEvery 80s, prays for 10.30s granting a 1.51x variant chance (Rainbow, Gold or Silver) to crops within 10.30 studs.",
+        "source": "Bug Egg, Exotic Bug Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Praying-Mantis-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/praying-mantis-value-grow-a-garden"
       }
     },
     "Brown Mouse": {
@@ -2035,6 +3345,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 12%.",
+        "source": "Mythical Egg",
+        "hunger": "15000 ",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Brown-Mouse-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/brown-mouse-value-grow-a-garden"
       }
     },
     "Grey Mouse": {
@@ -2049,6 +3368,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Whisker Wisdom - Gains 500 bonus experience every 10 minutes. Increases the player's movement speed by 10% (Slightly increases as the player's pet(s) get(s) older).",
+        "source": "Mythical Egg",
+        "hunger": "Unknown",
+        "dateAdded": "May 17th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Grey-Mouse-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/grey-mouse-value-grow-a-garden"
       }
     },
     "Kiwi": {
@@ -2063,6 +3391,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every 60 seconds, decreases hatch time of egg with the highest remaining hatch time by 25 seconds.",
+        "source": "Lunar Glow Event 2025",
+        "hunger": "Unknown",
+        "dateAdded": "May 10th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Kiwi-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/kiwi-value-grow-a-garden"
       }
     },
     "Honey Bee": {
@@ -2077,6 +3414,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every ~20m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.",
+        "source": "Bee Egg",
+        "hunger": "25K",
+        "dateAdded": "May 31, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Honey-Bee-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/honey-bee-value-grow-a-garden"
       }
     },
     "Dog": {
@@ -2091,6 +3437,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Every 60s, 5% chance to dig up a random Seed Shop seed.",
+        "source": "Common Egg",
+        "hunger": "1K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Dog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/dog-value-grow-a-garden"
       }
     },
     "Golden Lab (Age 50)": {
@@ -2105,6 +3460,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Digging friend: ~10% chance to dig up a random Seed Shop seed every 60 seconds.",
+        "source": "Common Egg",
+        "hunger": "1.2K",
+        "dateAdded": "May 3, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Golden-Lab-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golden-lab-value-grow-a-garden"
       }
     },
     "Bunny": {
@@ -2119,6 +3483,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Every 40s, eats a carrot at a 1.5x value bonus.",
+        "source": "Common Egg",
+        "hunger": "1.1K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Bunny-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/bunny-value-grow-a-garden"
       }
     },
     "Black Bunny": {
@@ -2133,6 +3506,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Every ~40 seconds, the Black Bunny searches for a Carrot on the garden and eats it, automatically selling it at a marked up price of ~1.5x value.",
+        "source": "Uncommon Egg",
+        "hunger": "1.3K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Black-Bunny-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/black-bunny-value-grow-a-garden"
       }
     },
     "Bee": {
@@ -2147,6 +3529,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Every ~25m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.",
+        "source": "Bee Egg",
+        "hunger": "25K",
+        "dateAdded": "May 31, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Bee-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/bee-value-grow-a-garden"
       }
     },
     "Chicken": {
@@ -2161,6 +3552,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Increases egg hatch speed by 10%.",
+        "source": "Uncommon Egg",
+        "hunger": "3.4K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Chicken-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chicken-value-grow-a-garden"
       }
     },
     "Deer": {
@@ -2175,6 +3575,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Gives a 3% chance for berry plants to stay when harvested.",
+        "source": "Uncommon Egg",
+        "hunger": "2.5K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Deer-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/deer-value-grow-a-garden"
       }
     },
     "Cat (Age 50)": {
@@ -2189,6 +3598,15 @@
         "isPopular": false,
         "isObtainable": true,
         "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Every ~80 seconds, the Cat will nap for ~10 seconds. New fruit within ~10 studs will be ~1.25x larger.",
+        "source": "Uncommon Egg",
+        "hunger": "1.4K",
+        "dateAdded": "May 3rd, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Cat-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/cat-value-grow-a-garden"
       }
     },
     "Night Owl": {
@@ -2203,6 +3621,15 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "All active pets gain an additional &gt;0.28 XP per second.",
+        "source": "Night Egg, Premium Night Egg",
+        "hunger": "50K",
+        "dateAdded": "May 10th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Night-Owl-Value-Grow-a-Garden-768x768.png",
+        "link": "https://www.game.guide/night-owl-value-grow-a-garden"
       }
     },
     "Blood Owl": {
@@ -2217,10 +3644,19 @@
         "isPopular": false,
         "isObtainable": false,
         "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "All active pets gain (0.08 * Weight + 0.5) XP per second.",
+        "source": "60,000,000 in Blood Moon Shop",
+        "hunger": "50K",
+        "dateAdded": "May 17, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/06/Blood-Owl-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/blood-owl-value-grow-a-garden"
       }
     }
   }
 }
 
-// ✅ SUCCESS: Found 157 pets! Dataset appears complete.
+// ✅ SUCCESS: Found 158 pets! Dataset appears complete.
 // 💎 High-value pets: 56 pets with Sx (Sextillion) values detected.
