@@ -2,23 +2,14 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 158,
-    "generatedOn": "2025-09-20T02:35:45.750Z",
+    "generatedOn": "2025-09-20T20:04:28.919Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
     "obtainable": 76,
     "unobtainable": 82,
     "popular": 8,
-    "regular": 150,
-    "tiers": {
-      "T0": 0,
-      "T1": 0,
-      "T2": 0,
-      "T3": 0,
-      "T4": 0,
-      "T5": 0,
-      "unknown": 0
-    }
+    "regular": 150
   },
   "pets": {
     "Kitsune": {
@@ -221,10 +212,10 @@
       "additionalInfo": {
         "rarity": "Legendary",
         "trait": "Southbound: On the hourly, all Mallards fly South to migrate. The Mallard disappears leaving the player with a random gear! Mallard returns to the players inventory.",
-        "source": "Fall Market Event (Part 2)",
-        "hunger": "0",
+        "source": "Fall Pet Shop",
+        "hunger": "15K",
         "dateAdded": "September 20, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Mallard-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Mallard-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/mallard-value-grow-a-garden"
       }
     },
@@ -244,10 +235,10 @@
       "additionalInfo": {
         "rarity": "Rare",
         "trait": "Woodpecking: Occasionally consumes a woody type fruit and brings it to the crafting table and reduces crafting time.",
-        "source": "Fall Market Event (Part 2)",
-        "hunger": "0",
+        "source": "Fall Pet Shop",
+        "hunger": "5K",
         "dateAdded": "September 20, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Woodpecker-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Woodpecker-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/woodpecker-value-grow-a-garden"
       }
     },
@@ -267,10 +258,10 @@
       "additionalInfo": {
         "rarity": "Uncommon",
         "trait": "Salmon School: Gets bonus experience for every other Salmon in the players garden!",
-        "source": "Fall Market Event (Part 2)",
-        "hunger": "0",
+        "source": "Fall Pet Shop",
+        "hunger": "2.5K",
         "dateAdded": "September 20, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Salmon.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Salmon-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/salmon-value-grow-a-garden"
       }
     },
@@ -290,10 +281,10 @@
       "additionalInfo": {
         "rarity": "Divine",
         "trait": "Adorable Haggler: Occasionally goes to the Gear or Seed Shop and restocks a random stock. Rarer items have rarer chance to stock.",
-        "source": "Fall Market Event (Part 2)",
-        "hunger": "0",
+        "source": "Fall Pet Shop",
+        "hunger": "30K",
         "dateAdded": "September 20, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Red-Panda-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Red-Panda-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/red-panda-value-grow-a-garden"
       }
     },
@@ -1194,6 +1185,29 @@
         "link": "https://www.game.guide/dairy-cow-value-grow-a-garden"
       }
     },
+    "Golem": {
+      "name": "Golem",
+      "value": "🪙1Sx",
+      "tier": "1K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
+        "source": "Sprout Egg",
+        "hunger": "32K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golem-value-grow-a-garden"
+      }
+    },
     "Seedling": {
       "name": "Seedling",
       "value": "🪙150Qi",
@@ -1238,29 +1252,6 @@
         "dateAdded": "August 16th, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/08/Jackalope-Grow-a-Garden.png",
         "link": "https://www.game.guide/jackalope-value-grow-a-garden"
-      }
-    },
-    "Golem": {
-      "name": "Golem",
-      "value": "🪙1Sx",
-      "tier": "1K",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
-        "source": "Sprout Egg",
-        "hunger": "32K",
-        "dateAdded": "August 16th, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
-        "link": "https://www.game.guide/golem-value-grow-a-garden"
       }
     },
     "Golden Goose": {
@@ -3658,5 +3649,4 @@
   }
 }
 
-// ✅ SUCCESS: Found 158 pets! Dataset appears complete.
-// 💎 High-value pets: 56 pets with Sx (Sextillion) values detected.
+// SUCCESS: Found 158 pets! Dataset appears complete.
