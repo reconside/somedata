@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 158,
-    "generatedOn": "2025-09-20T20:04:28.919Z",
+    "generatedOn": "2025-09-21T00:26:34.864Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -152,8 +152,8 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "🪙65Sx",
-      "tier": "65K",
+      "value": "🪙55Sx",
+      "tier": "55K",
       "demand": 7,
       "huge": "N/A",
       "popularity": "Popular",
@@ -198,9 +198,9 @@
     },
     "Mallard": {
       "name": "Mallard",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙15Sx",
+      "tier": "15K",
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -221,9 +221,9 @@
     },
     "Woodpecker": {
       "name": "Woodpecker",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙500Qi",
+      "tier": "500",
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -244,9 +244,9 @@
     },
     "Salmon": {
       "name": "Salmon",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙50Qi",
+      "tier": "50",
+      "demand": 3,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -267,9 +267,9 @@
     },
     "Red Panda": {
       "name": "Red Panda",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙20Sx",
+      "tier": "20K",
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -405,8 +405,8 @@
     },
     "Marmot": {
       "name": "Marmot",
-      "value": "🪙10Sx",
-      "tier": "10K",
+      "value": "🪙200Qi",
+      "tier": "200",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -428,8 +428,8 @@
     },
     "Badger": {
       "name": "Badger",
-      "value": "🪙150Qi",
-      "tier": "150",
+      "value": "🪙50Qi",
+      "tier": "50",
       "demand": 3,
       "huge": "N/A",
       "popularity": "Regular",
@@ -474,9 +474,9 @@
     },
     "Barn Owl": {
       "name": "Barn Owl",
-      "value": "🪙10Sx",
-      "tier": "10K",
-      "demand": 7,
+      "value": "🪙5Sx",
+      "tier": "5K",
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -497,9 +497,9 @@
     },
     "Sugar Glider": {
       "name": "Sugar Glider",
-      "value": "🪙15Sx",
-      "tier": "15K",
-      "demand": 6,
+      "value": "🪙500Qi",
+      "tier": "500",
+      "demand": 4,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -520,8 +520,8 @@
     },
     "Space Squirrel": {
       "name": "Space Squirrel",
-      "value": "🪙20Sx",
-      "tier": "20K",
+      "value": "🪙1Sx",
+      "tier": "1K",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -543,9 +543,9 @@
     },
     "Robin": {
       "name": "Robin",
-      "value": "🪙100Qi",
-      "tier": "100",
-      "demand": 3,
+      "value": "🪙10Qi",
+      "tier": "10",
+      "demand": 1,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -566,9 +566,9 @@
     },
     "Red Squirrel": {
       "name": "Red Squirrel",
-      "value": "🪙100Qi",
-      "tier": "100",
-      "demand": 4,
+      "value": "🪙50Qi",
+      "tier": "50",
+      "demand": 2,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -589,8 +589,8 @@
     },
     "Swan": {
       "name": "Swan",
-      "value": "🪙20Sx",
-      "tier": "20K",
+      "value": "🪙8Sx",
+      "tier": "8K",
       "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
@@ -612,9 +612,9 @@
     },
     "Chipmunk": {
       "name": "Chipmunk",
-      "value": "🪙100Qi",
-      "tier": "100",
-      "demand": 4,
+      "value": "🪙25Qi",
+      "tier": "25",
+      "demand": 1,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -1072,9 +1072,9 @@
     },
     "Griffin": {
       "name": "Griffin",
-      "value": "🪙9Sx",
-      "tier": "9K",
-      "demand": 4,
+      "value": "🪙14Sx",
+      "tier": "14K",
+      "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -1185,29 +1185,6 @@
         "link": "https://www.game.guide/dairy-cow-value-grow-a-garden"
       }
     },
-    "Golem": {
-      "name": "Golem",
-      "value": "🪙1Sx",
-      "tier": "1K",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
-        "source": "Sprout Egg",
-        "hunger": "32K",
-        "dateAdded": "August 16th, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
-        "link": "https://www.game.guide/golem-value-grow-a-garden"
-      }
-    },
     "Seedling": {
       "name": "Seedling",
       "value": "🪙150Qi",
@@ -1252,6 +1229,29 @@
         "dateAdded": "August 16th, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/08/Jackalope-Grow-a-Garden.png",
         "link": "https://www.game.guide/jackalope-value-grow-a-garden"
+      }
+    },
+    "Golem": {
+      "name": "Golem",
+      "value": "🪙1Sx",
+      "tier": "1K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
+        "source": "Sprout Egg",
+        "hunger": "32K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golem-value-grow-a-garden"
       }
     },
     "Golden Goose": {
