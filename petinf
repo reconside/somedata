@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 158,
-    "generatedOn": "2025-09-21T07:18:35.184Z",
+    "generatedOn": "2025-09-23T01:29:03.085Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -1185,6 +1185,29 @@
         "link": "https://www.game.guide/dairy-cow-value-grow-a-garden"
       }
     },
+    "Golem": {
+      "name": "Golem",
+      "value": "🪙1Sx",
+      "tier": "1K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
+        "source": "Sprout Egg",
+        "hunger": "32K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golem-value-grow-a-garden"
+      }
+    },
     "Seedling": {
       "name": "Seedling",
       "value": "🪙150Qi",
@@ -1229,29 +1252,6 @@
         "dateAdded": "August 16th, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/08/Jackalope-Grow-a-Garden.png",
         "link": "https://www.game.guide/jackalope-value-grow-a-garden"
-      }
-    },
-    "Golem": {
-      "name": "Golem",
-      "value": "🪙1Sx",
-      "tier": "1K",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
-        "source": "Sprout Egg",
-        "hunger": "32K",
-        "dateAdded": "August 16th, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
-        "link": "https://www.game.guide/golem-value-grow-a-garden"
       }
     },
     "Golden Goose": {
