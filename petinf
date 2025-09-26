@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 158,
-    "generatedOn": "2025-09-23T23:26:40.633Z",
+    "generatedOn": "2025-09-26T16:57:57.307Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -14,8 +14,8 @@
   "pets": {
     "Kitsune": {
       "name": "Kitsune",
-      "value": "🪙2.15Sp",
-      "tier": "2.15M",
+      "value": "🪙2Sp",
+      "tier": "2M",
       "demand": 10,
       "huge": "N/A",
       "popularity": "Popular",
@@ -60,8 +60,8 @@
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
-      "value": "🪙425Sx",
-      "tier": "425K",
+      "value": "🪙500Sx",
+      "tier": "500K",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Popular",
@@ -106,8 +106,8 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "🪙300Sx",
-      "tier": "300K",
+      "value": "🪙250Sx",
+      "tier": "250K",
       "demand": 9,
       "huge": "N/A",
       "popularity": "Popular",
@@ -129,9 +129,9 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "🪙650Sx",
-      "tier": "650K",
-      "demand": 9,
+      "value": "🪙500Sx",
+      "tier": "500K",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -198,8 +198,8 @@
     },
     "Mallard": {
       "name": "Mallard",
-      "value": "🪙15Sx",
-      "tier": "15K",
+      "value": "🪙1Sx",
+      "tier": "1K",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -267,8 +267,8 @@
     },
     "Red Panda": {
       "name": "Red Panda",
-      "value": "🪙20Sx",
-      "tier": "20K",
+      "value": "🪙7Sx",
+      "tier": "7K",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -290,8 +290,8 @@
     },
     "GIANT Robin": {
       "name": "GIANT Robin",
-      "value": "🪙2.3Sp",
-      "tier": "2.3M",
+      "value": "🪙2.5Sp",
+      "tier": "2.5M",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -313,9 +313,9 @@
     },
     "GIANT Swan": {
       "name": "GIANT Swan",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙65Sp",
+      "tier": "65M",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -336,8 +336,8 @@
     },
     "GIANT Grizzly Bear": {
       "name": "GIANT Grizzly Bear",
-      "value": "🪙20Sp",
-      "tier": "20M",
+      "value": "🪙10Sp",
+      "tier": "10M",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -359,8 +359,8 @@
     },
     "GIANT Badger": {
       "name": "GIANT Badger",
-      "value": "🪙10Sp",
-      "tier": "10M",
+      "value": "🪙5Sp",
+      "tier": "5M",
       "demand": 5,
       "huge": "N/A",
       "popularity": "Regular",
@@ -474,8 +474,8 @@
     },
     "Barn Owl": {
       "name": "Barn Owl",
-      "value": "🪙5Sx",
-      "tier": "5K",
+      "value": "🪙10Sx",
+      "tier": "10K",
       "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
@@ -589,8 +589,8 @@
     },
     "Swan": {
       "name": "Swan",
-      "value": "🪙8Sx",
-      "tier": "8K",
+      "value": "🪙11Sx",
+      "tier": "11K",
       "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
@@ -1185,29 +1185,6 @@
         "link": "https://www.game.guide/dairy-cow-value-grow-a-garden"
       }
     },
-    "Golem": {
-      "name": "Golem",
-      "value": "🪙1Sx",
-      "tier": "1K",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
-        "source": "Sprout Egg",
-        "hunger": "32K",
-        "dateAdded": "August 16th, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
-        "link": "https://www.game.guide/golem-value-grow-a-garden"
-      }
-    },
     "Seedling": {
       "name": "Seedling",
       "value": "🪙150Qi",
@@ -1252,6 +1229,29 @@
         "dateAdded": "August 16th, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/08/Jackalope-Grow-a-Garden.png",
         "link": "https://www.game.guide/jackalope-value-grow-a-garden"
+      }
+    },
+    "Golem": {
+      "name": "Golem",
+      "value": "🪙1Sx",
+      "tier": "1K",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
+        "source": "Sprout Egg",
+        "hunger": "32K",
+        "dateAdded": "August 16th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/08/Golem-Grow-a-Garden.png",
+        "link": "https://www.game.guide/golem-value-grow-a-garden"
       }
     },
     "Golden Goose": {
@@ -1969,8 +1969,8 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "🪙80Sx",
-      "tier": "80K",
+      "value": "🪙85Sx",
+      "tier": "85K",
       "demand": 7,
       "huge": "N/A",
       "popularity": "Regular",
@@ -2036,29 +2036,6 @@
         "link": "https://www.game.guide/stegosaurus-value-grow-a-garden"
       }
     },
-    "Brontosaurus": {
-      "name": "Brontosaurus",
-      "value": "🪙80Sx",
-      "tier": "80K",
-      "demand": 6,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus",
-        "source": "Dinosaur Egg",
-        "hunger": "85K",
-        "dateAdded": "July 5th, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/07/Brontosaurus-Value-Grow-a-Garde.png",
-        "link": "https://www.game.guide/brontosaurus-value-grow-a-garden"
-      }
-    },
     "Raptor": {
       "name": "Raptor",
       "value": "🪙25Qi",
@@ -2080,6 +2057,29 @@
         "dateAdded": "July 5th, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/07/Raptor-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/raptor-value-grow-a-garden"
+      }
+    },
+    "Brontosaurus": {
+      "name": "Brontosaurus",
+      "value": "🪙80Sx",
+      "tier": "80K",
+      "demand": 6,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus",
+        "source": "Dinosaur Egg",
+        "hunger": "85K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Brontosaurus-Value-Grow-a-Garde.png",
+        "link": "https://www.game.guide/brontosaurus-value-grow-a-garden"
       }
     },
     "Pterodactyl": {
