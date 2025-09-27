@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 158,
-    "generatedOn": "2025-09-26T16:57:57.307Z",
+    "totalPets": 170,
+    "generatedOn": "2025-09-27T13:39:09.895Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 76,
+    "obtainable": 88,
     "unobtainable": 82,
     "popular": 8,
-    "regular": 150
+    "regular": 162
   },
   "pets": {
     "Kitsune": {
@@ -194,6 +194,282 @@
         "dateAdded": "May 10, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/06/Raccoon-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/raccoon-value-grow-a-garden"
+      }
+    },
+    "Blue Jay": {
+      "name": "Blue Jay",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Berry Friend: All Berry type plants grow 1.5-4x faster",
+        "source": "Season Pass",
+        "hunger": "1.5K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Blue-Jay-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/blue-jay-value-grow-a-garden"
+      }
+    },
+    "Mizuchi": {
+      "name": "Mizuchi",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Water Diety: When selling fruits with Azure mutation, there is chance a random mutation from that fruit will be applied to a fruit in your garden! & Azure Surge: Occasionally roars on a random nearby fruit, with a small chance of applying Azure mutation!",
+        "source": "Season Pass",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Mizuchi-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/mizuchi-value-grow-a-garden"
+      }
+    },
+    "Rainbow Blue Jay": {
+      "name": "Rainbow Blue Jay",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Rainbow Berry Friend: All Berry type plants grow 2.5-6x faster",
+        "source": "Season Pass",
+        "hunger": "1.5K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Blue-Jay-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/rainbow-blue-jay-value-grow-a-garden"
+      }
+    },
+    "Iguana": {
+      "name": "Iguana",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Sun Basking: Every 80-30s, goes to a random fruit with Frozen mutation and melts it back to Chilled or Wet. Ignores favorited fruit.",
+        "source": "Jungle Egg",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Iguana-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/iguana-value-grow-a-garden"
+      }
+    },
+    "GIANT Firefly": {
+      "name": "GIANT Firefly",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "GIANT Lightning Bug: Every 225-75s, 20.25-40% chance a nearby fruit becomes Shocked!",
+        "source": "Season Pass",
+        "hunger": "25K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Firefly-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/giant-firefly-value-grow-a-garden"
+      }
+    },
+    "Silver Dragonfly": {
+      "name": "Silver Dragonfly",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Silver Transmutation: Every ???, turns one random fruit silver!",
+        "source": "Season Pass",
+        "hunger": "50K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Silver-Dragonfly-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/silver-dragonfly-value-grow-a-garden"
+      }
+    },
+    "Fortune Squirrel": {
+      "name": "Fortune Squirrel",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "CHA-CHING: Every ???, has ???% chance to apply the Jackpot (or Fortune) mutation!",
+        "source": "Season Pass",
+        "hunger": "30K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Fortune-Squirrel-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/fortune-squirrel-value-grow-a-garden"
+      }
+    },
+    "Tiger": {
+      "name": "Tiger",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Tiger Call: Every 13:00-3:20m, the Tiger roars, calls all pets in your garden to move toward it. 5000-10000 total XP is shared across each pet (max 800 XP per pet). King of the Jungle: Every 8:08-3:20m, roars and 3 random mutations from your garden will be replaced with another random mutation. Ignores favorited fruit.",
+        "source": "Jungle Egg",
+        "hunger": "1K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Tiger-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/tiger-value-grow-a-garden"
+      }
+    },
+    "Chimpanzee": {
+      "name": "Chimpanzee",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
+        "source": "Jungle Egg",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
+      }
+    },
+    "Hummingbird": {
+      "name": "Hummingbird",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Seed Disperser: Every 60-15s, converts a random single-harvest plant into its seed equivalent. Ignores favorited plants",
+        "source": "Jungle Egg",
+        "hunger": "8K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Hummingbird-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/hummingbird-value-grow-a-garden"
+      }
+    },
+    "Tree Frog": {
+      "name": "Tree Frog",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Mini Croak: Every 3:08-0:30 minutes, advances the growth of a random plant by 15 minutes.",
+        "source": "Jungle Egg",
+        "hunger": "16K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Tree-Frog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/tree-frog-value-grow-a-garden"
+      }
+    },
+    "Firefly": {
+      "name": "Firefly",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Lightning Bug: Every 545-110s, 10.25-20% chance a nearby fruit becomes Shocked!",
+        "source": "Season Pass",
+        "hunger": "25K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Firefly-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/firefly-value-grow-a-garden"
       }
     },
     "Mallard": {
@@ -2036,29 +2312,6 @@
         "link": "https://www.game.guide/stegosaurus-value-grow-a-garden"
       }
     },
-    "Raptor": {
-      "name": "Raptor",
-      "value": "🪙25Qi",
-      "tier": "18",
-      "demand": 3,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": false,
-        "isUnobtainable": true
-      },
-      "additionalInfo": {
-        "rarity": "Legendary",
-        "trait": "Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate.\nRaptor Dance: Grants additional 14% - 14.5% increase to player movement speed!",
-        "source": "Dinosaur Egg",
-        "hunger": "40K",
-        "dateAdded": "July 5th, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/07/Raptor-Value-Grow-a-Garden.png",
-        "link": "https://www.game.guide/raptor-value-grow-a-garden"
-      }
-    },
     "Brontosaurus": {
       "name": "Brontosaurus",
       "value": "🪙80Sx",
@@ -2080,6 +2333,29 @@
         "dateAdded": "July 5th, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/07/Brontosaurus-Value-Grow-a-Garde.png",
         "link": "https://www.game.guide/brontosaurus-value-grow-a-garden"
+      }
+    },
+    "Raptor": {
+      "name": "Raptor",
+      "value": "🪙25Qi",
+      "tier": "18",
+      "demand": 3,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": false,
+        "isUnobtainable": true
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate.\nRaptor Dance: Grants additional 14% - 14.5% increase to player movement speed!",
+        "source": "Dinosaur Egg",
+        "hunger": "40K",
+        "dateAdded": "July 5th, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/07/Raptor-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/raptor-value-grow-a-garden"
       }
     },
     "Pterodactyl": {
@@ -3649,4 +3925,4 @@
   }
 }
 
-// SUCCESS: Found 158 pets! Dataset appears complete.
+// SUCCESS: Found 170 pets! Dataset appears complete.
