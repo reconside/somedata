@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 170,
-    "generatedOn": "2025-09-27T13:39:09.895Z",
+    "totalPets": 169,
+    "generatedOn": "2025-09-28T18:35:04.224Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 88,
+    "obtainable": 87,
     "unobtainable": 82,
     "popular": 8,
-    "regular": 162
+    "regular": 161
   },
   "pets": {
     "Kitsune": {
@@ -221,9 +221,9 @@
     },
     "Mizuchi": {
       "name": "Mizuchi",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙700Sx",
+      "tier": "700K",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -244,9 +244,9 @@
     },
     "Rainbow Blue Jay": {
       "name": "Rainbow Blue Jay",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙550Sx",
+      "tier": "550K",
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -313,9 +313,9 @@
     },
     "Silver Dragonfly": {
       "name": "Silver Dragonfly",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙700Sx",
+      "tier": "700K",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -334,34 +334,11 @@
         "link": "https://www.game.guide/silver-dragonfly-value-grow-a-garden"
       }
     },
-    "Fortune Squirrel": {
-      "name": "Fortune Squirrel",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Rare",
-        "trait": "CHA-CHING: Every ???, has ???% chance to apply the Jackpot (or Fortune) mutation!",
-        "source": "Season Pass",
-        "hunger": "30K",
-        "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Fortune-Squirrel-Value-Grow-a-Garden.png",
-        "link": "https://www.game.guide/fortune-squirrel-value-grow-a-garden"
-      }
-    },
     "Tiger": {
       "name": "Tiger",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙200Sx",
+      "tier": "200K",
+      "demand": 8,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -378,29 +355,6 @@
         "dateAdded": "September 27, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Tiger-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/tiger-value-grow-a-garden"
-      }
-    },
-    "Chimpanzee": {
-      "name": "Chimpanzee",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
-        "source": "Jungle Egg",
-        "hunger": "40K",
-        "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
-        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
       }
     },
     "Hummingbird": {
@@ -424,6 +378,29 @@
         "dateAdded": "September 27, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Hummingbird-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/hummingbird-value-grow-a-garden"
+      }
+    },
+    "Chimpanzee": {
+      "name": "Chimpanzee",
+      "value": "🪙40Sx",
+      "tier": "40K",
+      "demand": 0,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
+        "source": "Jungle Egg",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
       }
     },
     "Tree Frog": {
@@ -451,9 +428,9 @@
     },
     "Firefly": {
       "name": "Firefly",
-      "value": "🪙0",
-      "tier": "0",
-      "demand": 0,
+      "value": "🪙400Sx",
+      "tier": "400K",
+      "demand": 6,
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -725,29 +702,6 @@
         "link": "https://www.game.guide/badger-value-grow-a-garden"
       }
     },
-    "Grizzly Bear": {
-      "name": "Grizzly Bear",
-      "value": "🪙500Qi",
-      "tier": "500",
-      "demand": 5,
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Legendary",
-        "trait": "Fall Express: Every 240-30s, 10-30% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 8-16% increased player size!",
-        "source": "Fall Egg (10%)",
-        "hunger": "55K",
-        "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
-        "link": "https://www.game.guide/grizzly-bear-value-grow-a-garden"
-      }
-    },
     "Barn Owl": {
       "name": "Barn Owl",
       "value": "🪙10Sx",
@@ -769,6 +723,29 @@
         "dateAdded": "September 13, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
         "link": "https://www.game.guide/barn-owl-value-grow-a-garden"
+      }
+    },
+    "Grizzly Bear": {
+      "name": "Grizzly Bear",
+      "value": "🪙500Qi",
+      "tier": "500",
+      "demand": 5,
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Fall Express: Every 240-30s, 10-30% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 8-16% increased player size!",
+        "source": "Fall Egg (10%)",
+        "hunger": "55K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/grizzly-bear-value-grow-a-garden"
       }
     },
     "Sugar Glider": {
@@ -3925,4 +3902,4 @@
   }
 }
 
-// SUCCESS: Found 170 pets! Dataset appears complete.
+// SUCCESS: Found 169 pets! Dataset appears complete.
