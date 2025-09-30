@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 170,
-    "generatedOn": "2025-09-28T21:50:56.878Z",
+    "generatedOn": "2025-09-30T20:04:34.497Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -396,30 +396,6 @@
         "link": "https://www.game.guide/tiger-value-grow-a-garden"
       }
     },
-    "Chimpanzee": {
-      "name": "Chimpanzee",
-      "value": "🪙29Sx",
-      "tier": "0",
-      "demand": 0,
-      "stability": "Dropping",
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
-        "source": "Jungle Egg",
-        "hunger": "40K",
-        "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
-        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
-      }
-    },
     "Hummingbird": {
       "name": "Hummingbird",
       "value": "🪙500Qi",
@@ -442,6 +418,30 @@
         "dateAdded": "September 27, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Hummingbird-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/hummingbird-value-grow-a-garden"
+      }
+    },
+    "Chimpanzee": {
+      "name": "Chimpanzee",
+      "value": "🪙29Sx",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Dropping",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
+        "source": "Jungle Egg",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
       }
     },
     "Tree Frog": {
