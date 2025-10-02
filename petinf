@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 170,
-    "generatedOn": "2025-09-30T20:04:34.497Z",
+    "generatedOn": "2025-10-02T01:09:34.748Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -254,7 +254,7 @@
     },
     "Mizuchi": {
       "name": "Mizuchi",
-      "value": "🪙140Sx",
+      "value": "🪙95Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -350,7 +350,7 @@
     },
     "Silver Dragonfly": {
       "name": "Silver Dragonfly",
-      "value": "🪙140Sx",
+      "value": "🪙95Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -374,7 +374,7 @@
     },
     "Tiger": {
       "name": "Tiger",
-      "value": "🪙140Sx",
+      "value": "🪙60Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -422,9 +422,9 @@
     },
     "Chimpanzee": {
       "name": "Chimpanzee",
-      "value": "🪙29Sx",
+      "value": "🪙20Sx",
       "tier": "0",
-      "demand": 0,
+      "demand": 5,
       "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
@@ -470,9 +470,9 @@
     },
     "Firefly": {
       "name": "Firefly",
-      "value": "🪙140Sx",
+      "value": "🪙95Sx",
       "tier": "0",
-      "demand": 6,
+      "demand": 8,
       "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
@@ -756,30 +756,6 @@
         "link": "https://www.game.guide/badger-value-grow-a-garden"
       }
     },
-    "Grizzly Bear": {
-      "name": "Grizzly Bear",
-      "value": "🪙500Qi",
-      "tier": "0",
-      "demand": 5,
-      "stability": "Stable",
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Legendary",
-        "trait": "Fall Express: Every 240-30s, 10-30% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 8-16% increased player size!",
-        "source": "Fall Egg (10%)",
-        "hunger": "55K",
-        "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
-        "link": "https://www.game.guide/grizzly-bear-value-grow-a-garden"
-      }
-    },
     "Barn Owl": {
       "name": "Barn Owl",
       "value": "🪙10Sx",
@@ -802,6 +778,30 @@
         "dateAdded": "September 13, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
         "link": "https://www.game.guide/barn-owl-value-grow-a-garden"
+      }
+    },
+    "Grizzly Bear": {
+      "name": "Grizzly Bear",
+      "value": "🪙500Qi",
+      "tier": "0",
+      "demand": 5,
+      "stability": "Stable",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Fall Express: Every 240-30s, 10-30% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 8-16% increased player size!",
+        "source": "Fall Egg (10%)",
+        "hunger": "55K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/grizzly-bear-value-grow-a-garden"
       }
     },
     "Sugar Glider": {
