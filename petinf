@@ -1,20 +1,20 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 170,
-    "generatedOn": "2025-10-02T01:09:34.748Z",
+    "totalPets": 176,
+    "generatedOn": "2025-10-07T16:18:15.169Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 79,
+    "obtainable": 85,
     "unobtainable": 91,
     "popular": 8,
-    "regular": 162
+    "regular": 168
   },
   "pets": {
     "Kitsune": {
       "name": "Kitsune",
-      "value": "🪙2Sp",
+      "value": "🪙1.5Sp",
       "tier": "0",
       "demand": 10,
       "stability": "Dropping",
@@ -38,10 +38,10 @@
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
-      "value": "🪙250Sx",
+      "value": "🪙170Sx",
       "tier": "0",
       "demand": 7,
-      "stability": "Stable",
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Unobtainable",
@@ -62,10 +62,10 @@
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
-      "value": "🪙500Sx",
+      "value": "🪙300Sx",
       "tier": "0",
       "demand": 6,
-      "stability": "Rising",
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Unobtainable",
@@ -86,10 +86,10 @@
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
-      "value": "🪙100Sx",
+      "value": "🪙65Sx",
       "tier": "0",
       "demand": 7,
-      "stability": "Stable",
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -110,10 +110,10 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "🪙250Sx",
+      "value": "🪙170Sx",
       "tier": "0",
       "demand": 9,
-      "stability": "Stable",
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Obtainable",
@@ -134,7 +134,7 @@
     },
     "Disco Bee": {
       "name": "Disco Bee",
-      "value": "🪙500Sx",
+      "value": "🪙350Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -158,7 +158,7 @@
     },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "🪙55Sx",
+      "value": "🪙40Sx",
       "tier": "0",
       "demand": 7,
       "stability": "Dropping",
@@ -182,10 +182,10 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "🪙1Sp",
+      "value": "🪙850Sx",
       "tier": "0",
       "demand": 10,
-      "stability": "Stable",
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Popular",
       "availability": "Unobtainable",
@@ -202,6 +202,150 @@
         "dateAdded": "May 10, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/06/Raccoon-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/raccoon-value-grow-a-garden"
+      }
+    },
+    "Fortune Squirrel": {
+      "name": "Fortune Squirrel",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "CHA-CHING: Every ???, has ???% chance to apply the Jackpot (or Fortune) mutation!",
+        "source": "Chubby Chipmunk Event",
+        "hunger": "30K",
+        "dateAdded": "October 4, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Fortune-Squirrel-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/fortune-squirrel-value-grow-a-garden"
+      }
+    },
+    "Hyrax": {
+      "name": "Hyrax",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Occasionally eats a random fruit in your garden and spits out a Fissure Berry seed!",
+        "source": "Chubby Chipmunk Event",
+        "hunger": "2,000",
+        "dateAdded": "October 4, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Hyrax-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/hyrax-value-grow-a-garden"
+      }
+    },
+    "Farmer Chipmunk": {
+      "name": "Farmer Chipmunk",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Every Nut type plants grow 1.5x faster",
+        "source": "Chubby Chipmunk Event",
+        "hunger": "15K",
+        "dateAdded": "October 4, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Farmer-Chipmunk-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/farmer-chipmunk-value-grow-a-garden"
+      }
+    },
+    "Chubby Chipmunk": {
+      "name": "Chubby Chipmunk",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Every 4.5 minutes, eats a fruit in your garden and gains 0.009 KG weight! (Ignores favorited or single-harvest fruits). When fed, has a 15% chance to gain 0.01 KG weight! Each mutation on the fed fruit grants an additional 3.2% chance to gain 0.01 KG! ",
+        "source": "Chubby Chipmunk Event",
+        "hunger": "50K",
+        "dateAdded": "October 4, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chipmunk.png",
+        "link": "https://www.game.guide/chubby-chipmunk-value-grow-a-garden"
+      }
+    },
+    "Idol Chipmunk": {
+      "name": "Idol Chipmunk",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Every 11 minutes, performs a song for 8 seconds and all other pets in your garden restore 1.5% hunger per second!",
+        "source": "Chubby Chipmunk Event",
+        "hunger": "30K",
+        "dateAdded": "October 4, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Idol-Chipmunk-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/idol-chipmunk-value-grow-a-garden"
+      }
+    },
+    "Chinchilla": {
+      "name": "Chinchilla",
+      "value": "🪙17Sx",
+      "tier": "0",
+      "demand": 8,
+      "stability": "Dropping",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Every 30 minutes, goes to another pet, rolls around in dust and makes that pet perform its ability 3 times in a row!",
+        "source": "Chubby Chipmunk Event",
+        "hunger": "50K",
+        "dateAdded": "October 4, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Chinchilla-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chinchilla-value-grow-a-garden"
       }
     },
     "GIANT Silver Dragonfly": {
@@ -254,7 +398,7 @@
     },
     "Mizuchi": {
       "name": "Mizuchi",
-      "value": "🪙95Sx",
+      "value": "🪙12Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -350,7 +494,7 @@
     },
     "Silver Dragonfly": {
       "name": "Silver Dragonfly",
-      "value": "🪙95Sx",
+      "value": "🪙12Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -374,7 +518,7 @@
     },
     "Tiger": {
       "name": "Tiger",
-      "value": "🪙60Sx",
+      "value": "🪙20Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -394,6 +538,30 @@
         "dateAdded": "September 27, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Tiger-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/tiger-value-grow-a-garden"
+      }
+    },
+    "Chimpanzee": {
+      "name": "Chimpanzee",
+      "value": "🪙15Sx",
+      "tier": "0",
+      "demand": 5,
+      "stability": "Dropping",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
+        "source": "Jungle Egg",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
       }
     },
     "Hummingbird": {
@@ -418,30 +586,6 @@
         "dateAdded": "September 27, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Hummingbird-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/hummingbird-value-grow-a-garden"
-      }
-    },
-    "Chimpanzee": {
-      "name": "Chimpanzee",
-      "value": "🪙20Sx",
-      "tier": "0",
-      "demand": 5,
-      "stability": "Dropping",
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
-        "source": "Jungle Egg",
-        "hunger": "40K",
-        "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
-        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
       }
     },
     "Tree Frog": {
@@ -470,7 +614,7 @@
     },
     "Firefly": {
       "name": "Firefly",
-      "value": "🪙95Sx",
+      "value": "🪙12Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Dropping",
@@ -756,30 +900,6 @@
         "link": "https://www.game.guide/badger-value-grow-a-garden"
       }
     },
-    "Barn Owl": {
-      "name": "Barn Owl",
-      "value": "🪙10Sx",
-      "tier": "0",
-      "demand": 6,
-      "stability": "Stable",
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Wise Shopper: Pets bought directly from shops have a bonus 0.1 - (0.18-0.4) KG to their base weight! (Max 3 KG). Prince of Fall: All active Fall type pets gain an additional 0.6-2 XP/s!",
-        "source": "Fall Egg (1.5%)",
-        "hunger": "50K",
-        "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
-        "link": "https://www.game.guide/barn-owl-value-grow-a-garden"
-      }
-    },
     "Grizzly Bear": {
       "name": "Grizzly Bear",
       "value": "🪙500Qi",
@@ -802,6 +922,30 @@
         "dateAdded": "September 13, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
         "link": "https://www.game.guide/grizzly-bear-value-grow-a-garden"
+      }
+    },
+    "Barn Owl": {
+      "name": "Barn Owl",
+      "value": "🪙10Sx",
+      "tier": "0",
+      "demand": 6,
+      "stability": "Stable",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Wise Shopper: Pets bought directly from shops have a bonus 0.1 - (0.18-0.4) KG to their base weight! (Max 3 KG). Prince of Fall: All active Fall type pets gain an additional 0.6-2 XP/s!",
+        "source": "Fall Egg (1.5%)",
+        "hunger": "50K",
+        "dateAdded": "September 13, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
+        "link": "https://www.game.guide/barn-owl-value-grow-a-garden"
       }
     },
     "Sugar Glider": {
@@ -902,7 +1046,7 @@
     },
     "Swan": {
       "name": "Swan",
-      "value": "🪙11Sx",
+      "value": "🪙6Sx",
       "tier": "0",
       "demand": 8,
       "stability": "Stable",
@@ -1646,7 +1790,7 @@
     },
     "Junkbot": {
       "name": "Junkbot",
-      "value": "🪙12Sx",
+      "value": "🪙10Sx",
       "tier": "0",
       "demand": 2,
       "stability": "Stable",
@@ -1718,7 +1862,7 @@
     },
     "Lobster Thermidor": {
       "name": "Lobster Thermidor",
-      "value": "🪙35Sx",
+      "value": "🪙50Sx",
       "tier": "0",
       "demand": 7,
       "stability": "Stable",
@@ -1814,10 +1958,10 @@
     },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
-      "value": "🪙40Sx",
+      "value": "🪙70Sx",
       "tier": "0",
       "demand": 7,
-      "stability": "Stable",
+      "stability": "Rising",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -1982,7 +2126,7 @@
     },
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
-      "value": "🪙45Sx",
+      "value": "🪙40Sx",
       "tier": "0",
       "demand": 7,
       "stability": "Stable",
@@ -2342,10 +2486,10 @@
     },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "🪙85Sx",
+      "value": "🪙70Sx",
       "tier": "0",
       "demand": 7,
-      "stability": "Stable",
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -2414,7 +2558,7 @@
     },
     "Brontosaurus": {
       "name": "Brontosaurus",
-      "value": "🪙80Sx",
+      "value": "🪙120Sx",
       "tier": "0",
       "demand": 6,
       "stability": "Rising",
@@ -3062,7 +3206,7 @@
     },
     "Queen Bee": {
       "name": "Queen Bee",
-      "value": "🪙70Sx",
+      "value": "🪙60Sx",
       "tier": "0",
       "demand": 7,
       "stability": "Stable",
@@ -3182,7 +3326,7 @@
     },
     "Chicken Zombie": {
       "name": "Chicken Zombie",
-      "value": "🪙20Sx",
+      "value": "🪙17Sx",
       "tier": "0",
       "demand": 5,
       "stability": "Stable",
@@ -3449,7 +3593,7 @@
       "value": "🪙100Sx",
       "tier": "0",
       "demand": 2,
-      "stability": "Stable",
+      "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -4095,4 +4239,4 @@
   }
 }
 
-// SUCCESS: Found 170 pets! Dataset appears complete.
+// SUCCESS: Found 176 pets! Dataset appears complete.
