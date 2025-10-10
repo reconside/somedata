@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 176,
-    "generatedOn": "2025-10-07T16:18:15.169Z",
+    "generatedOn": "2025-10-10T18:45:54.564Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -206,7 +206,7 @@
     },
     "Fortune Squirrel": {
       "name": "Fortune Squirrel",
-      "value": "🪙0",
+      "value": "🪙40Sx",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -254,9 +254,9 @@
     },
     "Farmer Chipmunk": {
       "name": "Farmer Chipmunk",
-      "value": "🪙0",
+      "value": "🪙10Qi",
       "tier": "0",
-      "demand": 0,
+      "demand": 1,
       "stability": "Unknown",
       "huge": "N/A",
       "popularity": "Regular",
@@ -302,9 +302,9 @@
     },
     "Idol Chipmunk": {
       "name": "Idol Chipmunk",
-      "value": "🪙0",
+      "value": "🪙10Qi",
       "tier": "0",
-      "demand": 0,
+      "demand": 1,
       "stability": "Unknown",
       "huge": "N/A",
       "popularity": "Regular",
@@ -326,9 +326,9 @@
     },
     "Chinchilla": {
       "name": "Chinchilla",
-      "value": "🪙17Sx",
+      "value": "🪙8Sx",
       "tier": "0",
-      "demand": 8,
+      "demand": 6,
       "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
