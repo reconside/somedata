@@ -1,15 +1,15 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 176,
-    "generatedOn": "2025-10-10T18:45:54.564Z",
+    "totalPets": 185,
+    "generatedOn": "2025-10-11T13:12:29.653Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 85,
+    "obtainable": 94,
     "unobtainable": 91,
     "popular": 8,
-    "regular": 168
+    "regular": 177
   },
   "pets": {
     "Kitsune": {
@@ -202,6 +202,222 @@
         "dateAdded": "May 10, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/06/Raccoon-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/raccoon-value-grow-a-garden"
+      }
+    },
+    "Reaper": {
+      "name": "Reaper",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Divine",
+        "trait": "Reap What You Sow: Every 22:00-12:00m, sacrifices 4 fruit in your garden to apply a medium Passive boost or medium XP Boost to a random pet in your garden!",
+        "source": "Ghoul Garden Event (140 Candy Corn)",
+        "hunger": "67K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Reaper-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/reaper-value-grow-a-garden"
+      }
+    },
+    "Wolf": {
+      "name": "Wolf",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Wolf Howl: Every 4:04-2:00m, howls: Fruits in 20-40 studs have a 15-30% get Moonlit mutation and turns you into a Werewolf for 35-70s! Grannting bonus 40.4-80% movement speed & 80.4-160%jump height!",
+        "source": "Ghoul Garden Event (80 Candy Corn)",
+        "hunger": "55K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Wolf-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/wolf-value-grow-a-garden"
+      }
+    },
+    "Black Cat": {
+      "name": "Black Cat",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Witch's Nap: Every 4:04-2:00m, goes to a Witch's Cauldron cosmetic and naps near it for 14.5-28s. New fruit within 10-20 studs will be 1-2x larger",
+        "source": "Spooky Egg (8.5%)",
+        "hunger": "40K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Black-Cat-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/black-cat-value-grow-a-garden"
+      }
+    },
+    "Headless Horseman": {
+      "name": "Headless Horseman",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Prismatic",
+        "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
+        "source": "Spooky Egg (0.5%)",
+        "hunger": "77.8K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Headless-Horseman-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/headless-horseman-value-grow-a-garden"
+      }
+    },
+    "Ghost Bear": {
+      "name": "Ghost Bear",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Boo!: BOO! Every 18:31-2:00m, goes to a nearby fruit and scares it! Applies the Spooky mutation!",
+        "source": "Ghoul Garden Event (70 Candy Corn)",
+        "hunger": "30K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Ghost-Bear-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/ghost-bear-value-grow-a-garden"
+      }
+    },
+    "Pumpkin Rat": {
+      "name": "Pumpkin Rat",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Common",
+        "trait": "Pumpkin Carver: Every 7:02m-1:00m, converts a pumpkin into a random Jack-O-Lantern cosmetic! Collect all 5 variants!",
+        "source": "Event Pet Shop (40 Candy Corn)",
+        "hunger": "6K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Pumpkin-Rat-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/pumpkin-rat-value-grow-a-garden"
+      }
+    },
+    "Spider": {
+      "name": "Spider",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second & plants grow an additional 15-30s every second!",
+        "source": "Spooky Egg (18%)",
+        "hunger": "35K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Spider-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/spider-value-grow-a-garden"
+      }
+    },
+    "Bone Dog": {
+      "name": "Bone Dog",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Gravedigger: Every 80s-5s, &gt;15% chance to dig up a random seed!",
+        "source": "Spooky Egg (28%)",
+        "hunger": "15K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Bone-Dog-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/bone-dog-value-grow-a-garden"
+      }
+    },
+    "Bat": {
+      "name": "Bat",
+      "value": "🪙0",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Spooky Bat: Grants Spooky plants in 32-60 studs a 0.6-1.5x variant chance bonus!",
+        "source": "Spooky Egg (45%)",
+        "hunger": "5K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/Bat-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/bat-value-grow-a-garden"
       }
     },
     "Fortune Squirrel": {
@@ -4239,4 +4455,4 @@
   }
 }
 
-// SUCCESS: Found 176 pets! Dataset appears complete.
+// SUCCESS: Found 185 pets! Dataset appears complete.
