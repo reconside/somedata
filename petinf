@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 185,
-    "generatedOn": "2025-10-11T13:12:29.653Z",
+    "generatedOn": "2025-10-11T21:09:01.330Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -206,10 +206,10 @@
     },
     "Reaper": {
       "name": "Reaper",
-      "value": "🪙0",
+      "value": "🪙10Sx",
       "tier": "0",
-      "demand": 0,
-      "stability": "Unknown",
+      "demand": 6,
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -230,7 +230,7 @@
     },
     "Wolf": {
       "name": "Wolf",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -254,7 +254,7 @@
     },
     "Black Cat": {
       "name": "Black Cat",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -278,7 +278,7 @@
     },
     "Headless Horseman": {
       "name": "Headless Horseman",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -302,7 +302,7 @@
     },
     "Ghost Bear": {
       "name": "Ghost Bear",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -326,7 +326,7 @@
     },
     "Pumpkin Rat": {
       "name": "Pumpkin Rat",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -350,7 +350,7 @@
     },
     "Spider": {
       "name": "Spider",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -374,7 +374,7 @@
     },
     "Bone Dog": {
       "name": "Bone Dog",
-      "value": "🪙0",
+      "value": "🪙TBD",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -398,10 +398,10 @@
     },
     "Bat": {
       "name": "Bat",
-      "value": "🪙0",
+      "value": "🪙10Qi",
       "tier": "0",
-      "demand": 0,
-      "stability": "Unknown",
+      "demand": 3,
+      "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -424,8 +424,8 @@
       "name": "Fortune Squirrel",
       "value": "🪙40Sx",
       "tier": "0",
-      "demand": 0,
-      "stability": "Unknown",
+      "demand": 6,
+      "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -446,10 +446,10 @@
     },
     "Hyrax": {
       "name": "Hyrax",
-      "value": "🪙0",
+      "value": "🪙20Sx",
       "tier": "0",
-      "demand": 0,
-      "stability": "Unknown",
+      "demand": 6,
+      "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -494,7 +494,7 @@
     },
     "Chubby Chipmunk": {
       "name": "Chubby Chipmunk",
-      "value": "🪙0",
+      "value": "🪙Untradable",
       "tier": "0",
       "demand": 0,
       "stability": "Unknown",
@@ -542,7 +542,7 @@
     },
     "Chinchilla": {
       "name": "Chinchilla",
-      "value": "🪙8Sx",
+      "value": "🪙13Sx",
       "tier": "0",
       "demand": 6,
       "stability": "Dropping",
@@ -756,30 +756,6 @@
         "link": "https://www.game.guide/tiger-value-grow-a-garden"
       }
     },
-    "Chimpanzee": {
-      "name": "Chimpanzee",
-      "value": "🪙15Sx",
-      "tier": "0",
-      "demand": 5,
-      "stability": "Dropping",
-      "huge": "N/A",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "badges": {
-        "isPopular": false,
-        "isObtainable": true,
-        "isUnobtainable": false
-      },
-      "additionalInfo": {
-        "rarity": "Mythical",
-        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
-        "source": "Jungle Egg",
-        "hunger": "40K",
-        "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
-        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
-      }
-    },
     "Hummingbird": {
       "name": "Hummingbird",
       "value": "🪙500Qi",
@@ -802,6 +778,30 @@
         "dateAdded": "September 27, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/09/Hummingbird-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/hummingbird-value-grow-a-garden"
+      }
+    },
+    "Chimpanzee": {
+      "name": "Chimpanzee",
+      "value": "🪙15Sx",
+      "tier": "0",
+      "demand": 5,
+      "stability": "Dropping",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
+        "source": "Jungle Egg",
+        "hunger": "40K",
+        "dateAdded": "September 27, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/Chimpanzee-Value-Grow-a-Garden.png",
+        "link": "https://www.game.guide/chimpanzee-value-grow-a-garden"
       }
     },
     "Tree Frog": {
