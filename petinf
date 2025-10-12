@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 185,
-    "generatedOn": "2025-10-11T21:09:01.330Z",
+    "generatedOn": "2025-10-12T17:36:27.061Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
@@ -208,7 +208,7 @@
       "name": "Reaper",
       "value": "🪙10Sx",
       "tier": "0",
-      "demand": 6,
+      "demand": 5,
       "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
@@ -278,10 +278,10 @@
     },
     "Headless Horseman": {
       "name": "Headless Horseman",
-      "value": "🪙TBD",
+      "value": "🪙800Sx",
       "tier": "0",
-      "demand": 0,
-      "stability": "Unknown",
+      "demand": 10,
+      "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
@@ -326,10 +326,10 @@
     },
     "Pumpkin Rat": {
       "name": "Pumpkin Rat",
-      "value": "🪙TBD",
+      "value": "🪙10Qi",
       "tier": "0",
-      "demand": 0,
-      "stability": "Unknown",
+      "demand": 3,
+      "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
       "availability": "Obtainable",
