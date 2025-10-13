@@ -1,20 +1,20 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 185,
-    "generatedOn": "2025-10-12T17:36:27.061Z",
+    "totalPets": 190,
+    "generatedOn": "2025-10-13T22:26:45.898Z",
     "source": "https://www.game.guide/grow-a-garden-value-list"
   },
   "summary": {
-    "obtainable": 94,
+    "obtainable": 99,
     "unobtainable": 91,
     "popular": 8,
-    "regular": 177
+    "regular": 182
   },
   "pets": {
     "Kitsune": {
       "name": "Kitsune",
-      "value": "🪙1.5Sp",
+      "value": "🪙1.35Sp",
       "tier": "0",
       "demand": 10,
       "stability": "Dropping",
@@ -182,7 +182,7 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "🪙850Sx",
+      "value": "🪙800Sx",
       "tier": "0",
       "demand": 10,
       "stability": "Dropping",
@@ -202,6 +202,126 @@
         "dateAdded": "May 10, 2025",
         "image": "https://www.game.guide/wp-content/uploads/2025/06/Raccoon-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/raccoon-value-grow-a-garden"
+      }
+    },
+    "Ghostly Black Cat": {
+      "name": "Ghostly Black Cat",
+      "value": "🪙TBD",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Mythical",
+        "trait": "Witch's Nap: Every 4:04-2:00m, goes to a Witch's Cauldron cosmetic and naps near it for 14.5-28s. New fruit within 10-20 studs will be 1-2x larger",
+        "source": "Spooky Egg (8.5%)",
+        "hunger": "40K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/ghostly-black-cat-value-grow-a-garden.png",
+        "link": "https://www.game.guide/ghostly-black-cat-value-grow-a-garden"
+      }
+    },
+    "Ghostly Bat": {
+      "name": "Ghostly Bat",
+      "value": "🪙TBD",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Uncommon",
+        "trait": "Spooky Bat: Grants Spooky plants in 32-60 studs a 0.6-1.5x variant chance bonus!",
+        "source": "Spooky Egg (45%)",
+        "hunger": "5K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/ghostly-bat-value-grow-a-garden.png",
+        "link": "https://www.game.guide/ghostly-bat-value-grow-a-garden"
+      }
+    },
+    "Ghostly Spider": {
+      "name": "Ghostly Spider",
+      "value": "🪙TBD",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Legendary",
+        "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second & plants grow an additional 15-30s every second!",
+        "source": "Spooky Egg (18%)",
+        "hunger": "35K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/ghostly-spider-value-grow-a-garden.png",
+        "link": "https://www.game.guide/ghostly-spider-value-grow-a-garden"
+      }
+    },
+    "Ghostly Bone Dog": {
+      "name": "Ghostly Bone Dog",
+      "value": "🪙TBD",
+      "tier": "0",
+      "demand": 0,
+      "stability": "Unknown",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Rare",
+        "trait": "Gravedigger: Every 80s-5s, &gt;15% chance to dig up a random seed!",
+        "source": "Spooky Egg (28%)",
+        "hunger": "15K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/ghostly-bone-dog-value-grow-a-garden.png",
+        "link": "https://www.game.guide/ghostly-bone-dog-value-grow-a-garden"
+      }
+    },
+    "Ghostly Headless Horseman": {
+      "name": "Ghostly Headless Horseman",
+      "value": "🪙30Sp",
+      "tier": "0",
+      "demand": 10,
+      "stability": "Unstable",
+      "huge": "N/A",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "badges": {
+        "isPopular": false,
+        "isObtainable": true,
+        "isUnobtainable": false
+      },
+      "additionalInfo": {
+        "rarity": "Prismatic",
+        "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
+        "source": "Spooky Egg (0.5%)",
+        "hunger": "77.8K",
+        "dateAdded": "October 11, 2025",
+        "image": "https://www.game.guide/wp-content/uploads/2025/10/ghostly-headless-horseman-value-grow-a-garden.png",
+        "link": "https://www.game.guide/ghostly-headless-horseman-value-in-grow-a-garden"
       }
     },
     "Reaper": {
@@ -278,9 +398,9 @@
     },
     "Headless Horseman": {
       "name": "Headless Horseman",
-      "value": "🪙800Sx",
+      "value": "🪙250Sx",
       "tier": "0",
-      "demand": 10,
+      "demand": 9,
       "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
@@ -584,7 +704,7 @@
         "source": "Season Pass",
         "hunger": "50K",
         "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Silver-Dragonfly-Value-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/giant-silver-dragonfly-value-grow-a-garden.png",
         "link": "https://www.game.guide/giant-silver-dragonfly-value-grow-a-garden"
       }
     },
@@ -638,7 +758,7 @@
     },
     "Rainbow Blue Jay": {
       "name": "Rainbow Blue Jay",
-      "value": "🪙550Sx",
+      "value": "🪙150Sx",
       "tier": "0",
       "demand": 6,
       "stability": "Dropping",
@@ -686,9 +806,9 @@
     },
     "GIANT Firefly": {
       "name": "GIANT Firefly",
-      "value": "🪙700Sx",
+      "value": "🪙170Sx",
       "tier": "0",
-      "demand": 8,
+      "demand": 7,
       "stability": "Dropping",
       "huge": "N/A",
       "popularity": "Regular",
@@ -704,7 +824,7 @@
         "source": "Season Pass",
         "hunger": "25K",
         "dateAdded": "September 27, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Firefly-Value-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/giant-firefly-value-grow-a-garden.png",
         "link": "https://www.game.guide/giant-firefly-value-grow-a-garden"
       }
     },
@@ -950,9 +1070,9 @@
     },
     "GIANT Robin": {
       "name": "GIANT Robin",
-      "value": "🪙2.5Sp",
+      "value": "🪙950Sx",
       "tier": "0",
-      "demand": 5,
+      "demand": 4,
       "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
@@ -968,13 +1088,13 @@
         "source": "GIANT Premium Fall Egg (55%)",
         "hunger": "1.5K",
         "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Robin-Value-in-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/giant-robin-value-grow-a-garden.png",
         "link": "https://www.game.guide/giant-robin-value-grow-a-garden"
       }
     },
     "GIANT Swan": {
       "name": "GIANT Swan",
-      "value": "🪙65Sp",
+      "value": "🪙15Sp",
       "tier": "0",
       "demand": 8,
       "stability": "Unstable",
@@ -992,13 +1112,13 @@
         "source": "GIANT Premium Fall Egg (1%)",
         "hunger": "56K",
         "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Swan-Value-in-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/giant-swan-value-grow-a-garden.png",
         "link": "https://www.game.guide/giant-swan-value-grow-a-garden"
       }
     },
     "GIANT Grizzly Bear": {
       "name": "GIANT Grizzly Bear",
-      "value": "🪙10Sp",
+      "value": "🪙3Sp",
       "tier": "0",
       "demand": 5,
       "stability": "Unstable",
@@ -1016,15 +1136,15 @@
         "source": "GIANT Premium Fall Egg (10%)",
         "hunger": "55K",
         "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Grizzly-Bear-Value-in-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/GIANT-Grizzly-Bear-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/giant-grizzly-bear-value-grow-a-garden"
       }
     },
     "GIANT Badger": {
       "name": "GIANT Badger",
-      "value": "🪙5Sp",
+      "value": "🪙1.5Sp",
       "tier": "0",
-      "demand": 5,
+      "demand": 4,
       "stability": "Unstable",
       "huge": "N/A",
       "popularity": "Regular",
@@ -1040,7 +1160,7 @@
         "source": "GIANT Premium Fall Egg (32.5%)",
         "hunger": "15K",
         "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Badger-Value-in-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/giant-badger-value-grow-a-garden.png",
         "link": "https://www.game.guide/giant-badger-value-grow-a-garden"
       }
     },
@@ -1064,7 +1184,7 @@
         "source": "GIANT Premium Fall Egg (1.5%)",
         "hunger": "50K",
         "dateAdded": "September 13, 2025",
-        "image": "https://www.game.guide/wp-content/uploads/2025/09/Barn-Owl-Value-in-Grow-a-Garden.png",
+        "image": "https://www.game.guide/wp-content/uploads/2025/09/GIANT-Barn-Owl-Value-Grow-a-Garden.png",
         "link": "https://www.game.guide/giant-barn-owl-value-grow-a-garden"
       }
     },
@@ -2534,9 +2654,9 @@
     },
     "Nihonzaru": {
       "name": "Nihonzaru",
-      "value": "🪙150Qi",
+      "value": "🪙10Qi",
       "tier": "0",
-      "demand": 8,
+      "demand": 1,
       "stability": "Stable",
       "huge": "N/A",
       "popularity": "Regular",
@@ -4455,4 +4575,4 @@
   }
 }
 
-// SUCCESS: Found 185 pets! Dataset appears complete.
+// SUCCESS: Found 190 pets! Dataset appears complete.
