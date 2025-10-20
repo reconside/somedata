@@ -1,54 +1,67 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 190,
-    "generatedOn": "2025-10-19T13:11:15.288Z"
+    "totalPets": 196,
+    "generatedOn": "2025-10-20T19:42:32.631Z"
   },
   "summary": {
-    "obtainable": 102,
+    "obtainable": 108,
     "unobtainable": 88,
-    "popular": 8,
-    "regular": 182
+    "popular": 0,
+    "regular": 196
   },
   "pets": {
+    "Ghostly Headless Horseman": {
+      "name": "Ghostly Headless Horseman",
+      "value": "20Sp",
+      "numericValue": 1.9999999999999998e+25,
+      "demand": 10,
+      "stability": "Dropping",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Prismatic",
+      "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
+      "source": "Spooky Egg (0.5%)",
+      "hunger": "77.8K"
+    },
+    "Headless Horseman": {
+      "name": "Headless Horseman",
+      "value": "65Sx",
+      "numericValue": 6.5e+28,
+      "demand": 9,
+      "stability": "Dropping",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Prismatic",
+      "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
+      "source": "Spooky Egg (0.5%)",
+      "hunger": "77.8K"
+    },
     "Kitsune": {
       "name": "Kitsune",
-      "value": "1.5Sp",
-      "numericValue": 1.5e+24,
+      "value": "1.4Sp",
+      "numericValue": 1.3999999999999998e+24,
       "demand": 9,
       "stability": "Unstable",
-      "popularity": "Popular",
+      "popularity": "Regular",
       "availability": "Unobtainable",
       "rarity": "Prismatic",
       "trait": "Nine-Tailed Myth: Every ~22 Minutes, goes to another player's fruit, mutates it with Chakra and steals (duplicate) and gives it to the player! Very Rare chance to mutate with Foxfire Chakra instead.",
       "source": "Zen Egg",
       "hunger": "50K"
     },
-    "Spinosaurus": {
-      "name": "Spinosaurus",
-      "value": "170Sx",
-      "numericValue": 1.7e+29,
-      "demand": 7,
-      "stability": "Unstable",
-      "popularity": "Popular",
-      "availability": "Unobtainable",
-      "rarity": "Divine",
-      "trait": "Food Chain: Every ~20 minutes, devours a random mutation from 3 fruits in owners garden each, then roar, spreading those mutations to a fruit in owners garden! Prioritizes applying mutation to favorited fruit.",
-      "source": "Primal Egg",
-      "hunger": "25K"
-    },
-    "Fennec Fox": {
-      "name": "Fennec Fox",
-      "value": "300Sx",
-      "numericValue": 3e+29,
+    "Brontosaurus": {
+      "name": "Brontosaurus",
+      "value": "100Sx",
+      "numericValue": 1.0000000000000001e+29,
       "demand": 6,
       "stability": "Unstable",
-      "popularity": "Popular",
+      "popularity": "Regular",
       "availability": "Unobtainable",
-      "rarity": "Divine",
-      "trait": "Mutation Snatch: Occasionally goes to another player's random fruit and has the chance to copy a random mutation and apply it to a random fruit the pet owner owns!",
-      "source": "Oasis Egg, Premium Oasis Egg",
-      "hunger": "35K"
+      "rarity": "Mythical",
+      "trait": "Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus",
+      "source": "Dinosaur Egg",
+      "hunger": "85K"
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
@@ -56,7 +69,7 @@
       "numericValue": 6.5e+28,
       "demand": 7,
       "stability": "Dropping",
-      "popularity": "Popular",
+      "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Divine",
       "trait": "Mimicry: Every 20m mimics and copies an ability from another pet and performs its ability!",
@@ -65,37 +78,24 @@
     },
     "Butterfly": {
       "name": "Butterfly",
-      "value": "170Sx",
-      "numericValue": 1.7e+29,
-      "demand": 9,
+      "value": "140Sx",
+      "numericValue": 1.4e+29,
+      "demand": 7,
       "stability": "Dropping",
-      "popularity": "Popular",
+      "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Mythical",
       "trait": "Rainbow Flutter:\nEvery ~30m, flies to a nearby fruit with 5+ mutations, removes 5 mutations from it and turns it rainbow! Ignores favorited fruit.",
       "source": "Anti Bee Egg\nPremium Anti Bee Egg\n149",
       "hunger": "26K"
     },
-    "Disco Bee": {
-      "name": "Disco Bee",
-      "value": "350Sx",
-      "numericValue": 3.5e+29,
-      "demand": 8,
-      "stability": "Unstable",
-      "popularity": "Popular",
-      "availability": "Obtainable",
-      "rarity": "Divine",
-      "trait": "Every ~10m, has a ~20% chance a nearby fruit becomes Disco",
-      "source": "Anti Bee Egg\nPremium Anti Bee Egg",
-      "hunger": "25K"
-    },
     "Dragonfly": {
       "name": "Dragonfly",
-      "value": "40Sx",
-      "numericValue": 4e+28,
-      "demand": 7,
+      "value": "15Sx",
+      "numericValue": 1.5e+28,
+      "demand": 8,
       "stability": "Dropping",
-      "popularity": "Popular",
+      "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Divine",
       "trait": "Transmutation: Every ~5 minutes, one random crop will turn gold.",
@@ -104,23 +104,114 @@
     },
     "Raccoon": {
       "name": "Raccoon",
-      "value": "750Sx",
-      "numericValue": 7.5e+29,
+      "value": "650Sx",
+      "numericValue": 6.5e+29,
       "demand": 9,
       "stability": "Unstable",
-      "popularity": "Popular",
+      "popularity": "Regular",
       "availability": "Unobtainable",
       "rarity": "Divine",
       "trait": "Rascal: Every ~15 minutes, goes to another player's plot and steals (duplicate) a random crop and gives it to the player!",
       "source": "Night Egg, Premium Night Egg",
       "hunger": "45K"
     },
+    "Crow": {
+      "name": "Crow",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Common",
+      "trait": "Spooky Crow: Spooky type plants within 32-60 studs have 1.4-3x increased growth speed!",
+      "source": "Halloween Event Digging Rewards",
+      "hunger": "1.5K"
+    },
+    "Lich": {
+      "name": "Lich",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Divine",
+      "trait": "TBD",
+      "source": "Halloween Event (Part 2)",
+      "hunger": "1K"
+    },
+    "Ghostly Dark Spriggan": {
+      "name": "Ghostly Dark Spriggan",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Mythical",
+      "trait": "Ghostly Overgrowth: Every 11:05-5:00m, spreads its roots and all fruit within 45-90 studs have a 30-60% to get the Blight or a rare chance for Necrotic mutation instead!",
+      "source": "Halloween Event (Part 2)",
+      "hunger": "45K"
+    },
+    "Goblin": {
+      "name": "Goblin",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Rare",
+      "trait": "Looter: Every 5:00-2:00m, goes to another random player and carries them and brings them to you! Player can jump to be released!",
+      "source": "Halloween Event Digging Rewards",
+      "hunger": "38K"
+    },
+    "Hex Serpent": {
+      "name": "Hex Serpent",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Divine",
+      "trait": "Hex Magic: You must plant 5 single-harvest plants in a Hex Circle cosmetic and every 12:00-4:00m: The Hex Serpent will perform a ritual, consuming the plants, granting random rewards! The rarer plants and better variants grants better effects!",
+      "source": "Halloween Event Digging Rewards",
+      "hunger": "66.7K"
+    },
+    "Goat": {
+      "name": "Goat",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Uncommon",
+      "trait": "Ram: Every 7:02-3:31m, goes to a random player and rams them, knocking and launching them away!",
+      "source": "Halloween Event (Part 2)",
+      "hunger": "60K"
+    },
+    "Dark Spriggan": {
+      "name": "Dark Spriggan",
+      "value": "TBD",
+      "numericValue": 0,
+      "demand": 0,
+      "stability": "TBD",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Mythical",
+      "trait": "Dark Overgrowth: Every 22:10-10:00m, spreads its roots and all fruit within 30-60 studs have a 15-30% to get the Blight mutation!",
+      "source": "Halloween Event (Part 2)",
+      "hunger": "45K"
+    },
     "Ghostly Black Cat": {
       "name": "Ghostly Black Cat",
-      "value": "7Sp",
-      "numericValue": 7e+24,
+      "value": "6Sp",
+      "numericValue": 6e+24,
       "demand": 8,
-      "stability": "Unstable",
+      "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Mythical",
@@ -130,10 +221,10 @@
     },
     "Ghostly Bat": {
       "name": "Ghostly Bat",
-      "value": "2.85Sp",
-      "numericValue": 2.85e+24,
+      "value": "2Sp",
+      "numericValue": 2e+24,
       "demand": 6,
-      "stability": "Unstable",
+      "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Uncommon",
@@ -143,10 +234,10 @@
     },
     "Ghostly Bone Dog": {
       "name": "Ghostly Bone Dog",
-      "value": "5Sp",
-      "numericValue": 4.999999999999999e+24,
-      "demand": 8,
-      "stability": "Unstable",
+      "value": "3Sp",
+      "numericValue": 3e+24,
+      "demand": 7,
+      "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Rare",
@@ -156,34 +247,21 @@
     },
     "Ghostly Spider": {
       "name": "Ghostly Spider",
-      "value": "20Sp",
-      "numericValue": 1.9999999999999998e+25,
+      "value": "13Sp",
+      "numericValue": 1.3e+25,
       "demand": 9,
-      "stability": "Unstable",
+      "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Legendary",
-      "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second & plants grow an additional 15-30s every second!",
+      "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second &amp; plants grow an additional 15-30s every second!",
       "source": "Spooky Egg (18%)",
       "hunger": "35K"
     },
-    "Ghostly Headless Horseman": {
-      "name": "Ghostly Headless Horseman",
-      "value": "30Sp",
-      "numericValue": 3e+25,
-      "demand": 10,
-      "stability": "Unstable",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "rarity": "Prismatic",
-      "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
-      "source": "Spooky Egg (0.5%)",
-      "hunger": "77.8K"
-    },
     "Reaper": {
       "name": "Reaper",
-      "value": "10Sx",
-      "numericValue": 1e+28,
+      "value": "4Sx",
+      "numericValue": 4e+27,
       "demand": 5,
       "stability": "Dropping",
       "popularity": "Regular",
@@ -202,7 +280,7 @@
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Legendary",
-      "trait": "Wolf Howl: Every 4:04-2:00m, howls: Fruits in 20-40 studs have a 15-30% get Moonlit mutation and turns you into a Werewolf for 35-70s! Grannting bonus 40.4-80% movement speed & 80.4-160%jump height!",
+      "trait": "Wolf Howl: Every 4:04-2:00m, howls: Fruits in 20-40 studs have a 15-30% get Moonlit mutation and turns you into a Werewolf for 35-70s! Grannting bonus 40.4-80% movement speed &amp; 80.4-160%jump height!",
       "source": "Ghoul Garden Event (80 Candy Corn)",
       "hunger": "55K"
     },
@@ -218,19 +296,6 @@
       "trait": "Witch's Nap: Every 4:04-2:00m, goes to a Witch's Cauldron cosmetic and naps near it for 14.5-28s. New fruit within 10-20 studs will be 1-2x larger",
       "source": "Spooky Egg (8.5%)",
       "hunger": "40K"
-    },
-    "Headless Horseman": {
-      "name": "Headless Horseman",
-      "value": "95Sx",
-      "numericValue": 9.5e+28,
-      "demand": 9,
-      "stability": "Dropping",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "rarity": "Prismatic",
-      "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
-      "source": "Spooky Egg (0.5%)",
-      "hunger": "77.8K"
     },
     "Ghost Bear": {
       "name": "Ghost Bear",
@@ -267,7 +332,7 @@
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Legendary",
-      "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second & plants grow an additional 15-30s every second!",
+      "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second &amp; plants grow an additional 15-30s every second!",
       "source": "Spooky Egg (18%)",
       "hunger": "35K"
     },
@@ -336,19 +401,6 @@
       "source": "Chubby Chipmunk Event",
       "hunger": "15K"
     },
-    "Chubby Chipmunk": {
-      "name": "Chubby Chipmunk",
-      "value": "Untradable",
-      "numericValue": 0,
-      "demand": 0,
-      "stability": "Unknown",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "rarity": "Rare",
-      "trait": "Every 4.5 minutes, eats a fruit in your garden and gains 0.009 KG weight! (Ignores favorited or single-harvest fruits). When fed, has a 15% chance to gain 0.01 KG weight! Each mutation on the fed fruit grants an additional 3.2% chance to gain 0.01 KG! ",
-      "source": "Chubby Chipmunk Event",
-      "hunger": "50K"
-    },
     "Idol Chipmunk": {
       "name": "Idol Chipmunk",
       "value": "10Qi",
@@ -410,7 +462,7 @@
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Divine",
-      "trait": "Water Diety: When selling fruits with Azure mutation, there is chance a random mutation from that fruit will be applied to a fruit in your garden! & Azure Surge: Occasionally roars on a random nearby fruit, with a small chance of applying Azure mutation!",
+      "trait": "Water Diety: When selling fruits with Azure mutation, there is chance a random mutation from that fruit will be applied to a fruit in your garden! &amp; Azure Surge: Occasionally roars on a random nearby fruit, with a small chance of applying Azure mutation!",
       "source": "Season Pass",
       "hunger": "40K"
     },
@@ -442,10 +494,10 @@
     },
     "GIANT Firefly": {
       "name": "GIANT Firefly",
-      "value": "170Sx",
-      "numericValue": 1.7e+29,
-      "demand": 7,
-      "stability": "Unstable",
+      "value": "160Sx",
+      "numericValue": 1.6e+29,
+      "demand": 5,
+      "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Mythical",
@@ -479,19 +531,6 @@
       "source": "Jungle Egg",
       "hunger": "1K"
     },
-    "Hummingbird": {
-      "name": "Hummingbird",
-      "value": "500Qi",
-      "numericValue": 500,
-      "demand": 0,
-      "stability": "Dropping",
-      "popularity": "Regular",
-      "availability": "Obtainable",
-      "rarity": "Rare",
-      "trait": "Seed Disperser: Every 60-15s, converts a random single-harvest plant into its seed equivalent. Ignores favorited plants",
-      "source": "Jungle Egg",
-      "hunger": "8K"
-    },
     "Chimpanzee": {
       "name": "Chimpanzee",
       "value": "15Sx",
@@ -504,6 +543,19 @@
       "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
       "source": "Jungle Egg",
       "hunger": "40K"
+    },
+    "Hummingbird": {
+      "name": "Hummingbird",
+      "value": "500Qi",
+      "numericValue": 500,
+      "demand": 0,
+      "stability": "Dropping",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Rare",
+      "trait": "Seed Disperser: Every 60-15s, converts a random single-harvest plant into its seed equivalent. Ignores favorited plants",
+      "source": "Jungle Egg",
+      "hunger": "8K"
     },
     "Tree Frog": {
       "name": "Tree Frog",
@@ -598,10 +650,10 @@
     },
     "GIANT Swan": {
       "name": "GIANT Swan",
-      "value": "15Sp",
-      "numericValue": 1.5e+25,
+      "value": "8Sp",
+      "numericValue": 8e+24,
       "demand": 8,
-      "stability": "Unstable",
+      "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Obtainable",
       "rarity": "Divine",
@@ -826,7 +878,7 @@
       "popularity": "Regular",
       "availability": "Unobtainable",
       "rarity": "Divine",
-      "trait": "Frilled Reptile: Occasionally opens its frills and spits out venom! The venom spreads to other random pets, advancing cooldown OR granting bonus xp. Icarus: Occasionally, devours a random mutation from random fruits in your garden each, roars and applies it to 1 other random fruit in your garden! Bird of Rebirth: Pets taken from the mutation machine have a bonus to their age & Icarus: Goes to random fruits to apply flaming mutation, fruits passed along the way have a chance to get the Flaming mutation.",
+      "trait": "Frilled Reptile: Occasionally opens its frills and spits out venom! The venom spreads to other random pets, advancing cooldown OR granting bonus xp. Icarus: Occasionally, devours a random mutation from random fruits in your garden each, roars and applies it to 1 other random fruit in your garden! Bird of Rebirth: Pets taken from the mutation machine have a bonus to their age &amp; Icarus: Goes to random fruits to apply flaming mutation, fruits passed along the way have a chance to get the Flaming mutation.",
       "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
       "hunger": "65K"
     },
@@ -1090,19 +1142,6 @@
       "source": "Sprout Egg",
       "hunger": "9K"
     },
-    "Seedling": {
-      "name": "Seedling",
-      "value": "150Qi",
-      "numericValue": 150,
-      "demand": 6,
-      "stability": "Stable",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "rarity": "Legendary",
-      "trait": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent",
-      "source": "Rare Summer Egg",
-      "hunger": "17K"
-    },
     "Jackalope": {
       "name": "Jackalope",
       "value": "15Qi",
@@ -1128,6 +1167,19 @@
       "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
       "source": "Sprout Egg",
       "hunger": "32K"
+    },
+    "Seedling": {
+      "name": "Seedling",
+      "value": "150Qi",
+      "numericValue": 150,
+      "demand": 6,
+      "stability": "Stable",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "rarity": "Legendary",
+      "trait": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent",
+      "source": "Rare Summer Egg",
+      "hunger": "17K"
     },
     "Golden Goose": {
       "name": "Golden Goose",
@@ -1532,11 +1584,24 @@
       "source": "Primal Egg",
       "hunger": "40K"
     },
+    "Spinosaurus": {
+      "name": "Spinosaurus",
+      "value": "120Sx",
+      "numericValue": 1.2e+29,
+      "demand": 7,
+      "stability": "Unstable",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "rarity": "Divine",
+      "trait": "Food Chain: Every ~20 minutes, devours a random mutation from 3 fruits in owners garden each, then roar, spreading those mutations to a fruit in owners garden! Prioritizes applying mutation to favorited fruit.",
+      "source": "Primal Egg",
+      "hunger": "25K"
+    },
     "T-Rex": {
       "name": "T-Rex",
-      "value": "70Sx",
-      "numericValue": 7e+28,
-      "demand": 7,
+      "value": "30Sx",
+      "numericValue": 3e+28,
+      "demand": 6,
       "stability": "Dropping",
       "popularity": "Regular",
       "availability": "Unobtainable",
@@ -1570,19 +1635,6 @@
       "trait": "Prehistoric Doubling: Small chance to duplicate harvested fruit\nPrehistoric Harvester: Increased chance to duplicate harvested prehistoric type plant",
       "source": "Dinosaur Egg",
       "hunger": "40K"
-    },
-    "Brontosaurus": {
-      "name": "Brontosaurus",
-      "value": "120Sx",
-      "numericValue": 1.2e+29,
-      "demand": 6,
-      "stability": "Rising",
-      "popularity": "Regular",
-      "availability": "Unobtainable",
-      "rarity": "Mythical",
-      "trait": "Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus",
-      "source": "Dinosaur Egg",
-      "hunger": "85K"
     },
     "Raptor": {
       "name": "Raptor",
@@ -1661,6 +1713,19 @@
       "trait": "Has a 1.31% - 3% to duplicate an item or seed when purchasing from the gear or seed shop.",
       "source": "Oasis Egg, Premium Oasis Egg",
       "hunger": "28K"
+    },
+    "Fennec Fox": {
+      "name": "Fennec Fox",
+      "value": "300Sx",
+      "numericValue": 3e+29,
+      "demand": 6,
+      "stability": "Unstable",
+      "popularity": "Regular",
+      "availability": "Unobtainable",
+      "rarity": "Divine",
+      "trait": "Mutation Snatch: Occasionally goes to another player's random fruit and has the chance to copy a random mutation and apply it to a random fruit the pet owner owns!",
+      "source": "Oasis Egg, Premium Oasis Egg",
+      "hunger": "35K"
     },
     "Meerkat": {
       "name": "Meerkat",
@@ -1896,6 +1961,19 @@
       "source": "Anti Bee Egg, Premium Anti Bee Egg",
       "hunger": "28K"
     },
+    "Disco Bee": {
+      "name": "Disco Bee",
+      "value": "300Sx",
+      "numericValue": 3e+29,
+      "demand": 6,
+      "stability": "Dropping",
+      "popularity": "Regular",
+      "availability": "Obtainable",
+      "rarity": "Divine",
+      "trait": "Every ~10m, has a ~20% chance a nearby fruit becomes Disco",
+      "source": "Anti Bee Egg\nPremium Anti Bee Egg",
+      "hunger": "25K"
+    },
     "Moth": {
       "name": "Moth",
       "value": "1Sx",
@@ -1924,8 +2002,8 @@
     },
     "Queen Bee": {
       "name": "Queen Bee",
-      "value": "60Sx",
-      "numericValue": 6e+28,
+      "value": "55Sx",
+      "numericValue": 5.5e+28,
       "demand": 7,
       "stability": "Stable",
       "popularity": "Regular",
@@ -2011,7 +2089,7 @@
       "rarity": "Mythical",
       "trait": "Every &lt;5 minutes, croaks and causes a random nearby plant to advance growth by 24 hours.",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "50000 "
+      "hunger": "50K"
     },
     "Bear Bee": {
       "name": "Bear Bee",
@@ -2258,7 +2336,7 @@
       "rarity": "Mythical",
       "trait": "5% chance harvested crops duplicate! Rarer crops have lower chance to duplicate. 5% extra chance for Fruit type crops to duplicate!",
       "source": "Mythical Egg",
-      "hunger": "15000 "
+      "hunger": "15K"
     },
     "Giant Ant": {
       "name": "Giant Ant",
@@ -2310,7 +2388,7 @@
       "rarity": "Mythical",
       "trait": "Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 12%.",
       "source": "Mythical Egg",
-      "hunger": "15000 "
+      "hunger": "15K"
     },
     "Grey Mouse": {
       "name": "Grey Mouse",
