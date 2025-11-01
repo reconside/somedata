@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Grow a Garden Pet Values",
     "totalPets": 223,
-    "generatedOn": "2025-11-01T15:56:48.260Z"
+    "generatedOn": "2025-11-01T20:58:39.887Z"
   },
   "summary": {
     "obtainable": 105,
@@ -22,7 +22,8 @@
       "rarity": "Prismatic",
       "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
       "source": "Spooky Egg (0.5%)",
-      "hunger": "77.8K"
+      "hunger": "77.8K",
+      "dateAdded": "October 11, 2025"
     },
     "Headless Horseman": {
       "name": "Headless Horseman",
@@ -35,7 +36,8 @@
       "rarity": "Prismatic",
       "trait": "Every 40:44m-16:40m, haunts a random level 50.5-30  pet without a mutation, resetting it to level 1 and bestowing one of four chaotic mutations: Dreadbound, Soulflame, or Spectral - with a rare 6-12% chance for Nightmare!",
       "source": "Spooky Egg (0.5%)",
-      "hunger": "77.8K"
+      "hunger": "77.8K",
+      "dateAdded": "October 11, 2025"
     },
     "Kitsune": {
       "name": "Kitsune",
@@ -48,7 +50,8 @@
       "rarity": "Prismatic",
       "trait": "Nine-Tailed Myth: Every ~22 Minutes, goes to another player's fruit, mutates it with Chakra and steals (duplicate) and gives it to the player! Very Rare chance to mutate with Foxfire Chakra instead.",
       "source": "Zen Egg",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "July 19, 2025"
     },
     "Brontosaurus": {
       "name": "Brontosaurus",
@@ -61,7 +64,8 @@
       "rarity": "Mythical",
       "trait": "Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus",
       "source": "Dinosaur Egg",
-      "hunger": "85K"
+      "hunger": "85K",
+      "dateAdded": "July 5th, 2025"
     },
     "Mimic Octopus": {
       "name": "Mimic Octopus",
@@ -74,7 +78,8 @@
       "rarity": "Divine",
       "trait": "Mimicry: Every 20m mimics and copies an ability from another pet and performs its ability!",
       "source": "Paradise Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 21, 2025"
     },
     "Butterfly": {
       "name": "Butterfly",
@@ -87,7 +92,8 @@
       "rarity": "Mythical",
       "trait": "Rainbow Flutter:\nEvery ~30m, flies to a nearby fruit with 5+ mutations, removes 5 mutations from it and turns it rainbow! Ignores favorited fruit.",
       "source": "Anti Bee Egg\nPremium Anti Bee Egg\n149",
-      "hunger": "26K"
+      "hunger": "26K",
+      "dateAdded": "June 7th, 2025"
     },
     "Dragonfly": {
       "name": "Dragonfly",
@@ -100,7 +106,8 @@
       "rarity": "Divine",
       "trait": "Transmutation: Every ~5 minutes, one random crop will turn gold.",
       "source": "Bug Egg, Exotic Bug Egg",
-      "hunger": "1K"
+      "hunger": "1K",
+      "dateAdded": "May 3, 2025"
     },
     "Raccoon": {
       "name": "Raccoon",
@@ -113,7 +120,8 @@
       "rarity": "Divine",
       "trait": "Rascal: Every ~15 minutes, goes to another player's plot and steals (duplicate) a random crop and gives it to the player!",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "45K"
+      "hunger": "45K",
+      "dateAdded": "May 10, 2025"
     },
     "Rainbow Oxpecker": {
       "name": "Rainbow Oxpecker",
@@ -126,7 +134,8 @@
       "rarity": "Common",
       "trait": "Rainbow Safari Support: When Safari type pets finish their abilities, they start their cooldown with 24-50 seconds less!",
       "source": "Safari Harvest Event",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "November 1, 2025"
     },
     "GIANT Mantis Shrimp": {
       "name": "GIANT Mantis Shrimp",
@@ -139,7 +148,8 @@
       "rarity": "Mythical",
       "trait": "GIANT Shrimpunch!!!: Every 7:24-3:42m, punches different things in your garden for different effects!",
       "source": "Season 2 Pass",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "November 1, 2025"
     },
     "GIANT Armadillo": {
       "name": "GIANT Armadillo",
@@ -152,7 +162,8 @@
       "rarity": "Rare",
       "trait": "TBD",
       "source": "Season 2 Pass",
-      "hunger": "20K"
+      "hunger": "20K",
+      "dateAdded": "November 1, 2025"
     },
     "Rainbow Hydra": {
       "name": "Rainbow Hydra",
@@ -165,7 +176,8 @@
       "rarity": "Divine",
       "trait": "Rainbow Three-Headed: Every 25:00-13:20m, ages itself up by 1, hatches an egg and applies Terran mutation. Cannot be mimicked or refreshed! Rainbow Earth Diety: When selling fruits with Terran mutation: There is a 12-24% chance a random mutation from that fruit will be applied to a fruit in your garden!",
       "source": "Season 2 Pass",
-      "hunger": "333K"
+      "hunger": "333K",
+      "dateAdded": "November 1, 2025"
     },
     "Rainbow Stag Beetle": {
       "name": "Rainbow Stag Beetle",
@@ -178,7 +190,8 @@
       "rarity": "Legendary",
       "trait": "Rainbow Beetle Duel: Every 4:20-0:40m, initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win!",
       "source": "Season 2 Pass",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "November 1, 2025"
     },
     "Rainbow Elephant": {
       "name": "Rainbow Elephant",
@@ -191,7 +204,8 @@
       "rarity": "Divine",
       "trait": "Rainbow Jumbo Blessing: Every 15:00-7:30m, blesses an age 40.25-30 pet, resetting its age back to 1, increasing its base weight by 0.1 KG if its base weight is less than 3-6 KG! Cannot bless other Elephants. Cannot be mimicked or refreshed.",
       "source": "Safari Harvest Event",
-      "hunger": "111K"
+      "hunger": "111K",
+      "dateAdded": "November 1, 2025"
     },
     "Rainbow Zebra": {
       "name": "Rainbow Zebra",
@@ -204,7 +218,8 @@
       "rarity": "Rare",
       "trait": "Rainbow Zebra Stampede: Every 30m on the clock, All Zebras stampede back and forth from the Seed Shop to Gear Shop or vice-versa, and grants you a random Safari related reward! Has 20-40% chance to trigger again on each stampede!",
       "source": "Safari Harvest Event",
-      "hunger": "33K"
+      "hunger": "33K",
+      "dateAdded": "November 1, 2025"
     },
     "Rainbow Giraffe": {
       "name": "Rainbow Giraffe",
@@ -217,7 +232,8 @@
       "rarity": "Legendary",
       "trait": "Rainbow Great Grazer: Every 7:24-3:42m, eats fruit that are atleast 10 studs high for 2-4x sell value. The plant the fruit came from advances growth by 83:10-153:20m! Also applies Arid mutation to all other fruits on that plant.",
       "source": "Safari Harvest Event",
-      "hunger": "44K"
+      "hunger": "44K",
+      "dateAdded": "November 1, 2025"
     },
     "Rainbow Rhino": {
       "name": "Rainbow Rhino",
@@ -230,7 +246,8 @@
       "rarity": "Mythical",
       "trait": "Rainbow Rhino Ram: Every 11:06-5:33m, charges into a random egg or random fruit in your garden: Rammed eggs have hatch time halved, rammed fruits get Mirage mutation!",
       "source": "Safari Harvest Event",
-      "hunger": "66K"
+      "hunger": "66K",
+      "dateAdded": "November 1, 2025"
     },
     "Oxpecker": {
       "name": "Oxpecker",
@@ -243,7 +260,8 @@
       "rarity": "Common",
       "trait": "Safari Support: When Safari type pets finish their abilities, they start their cooldown with 14-30 seconds less!",
       "source": "Safari Harvest Event",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "November 1, 2025"
     },
     "Stag Beetle": {
       "name": "Stag Beetle",
@@ -256,7 +274,8 @@
       "rarity": "Legendary",
       "trait": "Beetle Duel: Every 6:00-1:20m, initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win!",
       "source": "Safari Harvest Event",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "November 1, 2025"
     },
     "Hydra": {
       "name": "Hydra",
@@ -269,7 +288,8 @@
       "rarity": "Divine",
       "trait": "Three-Headed: Every 41:40-20:50m, ages itself up by 1, hatches an egg and applies Terran mutation. Cannot be mimicked or refreshed! Earth Diety: When selling fruits with Terran mutation: There is a 6-12% chance a random mutation from that fruit will be applied to a fruit in your garden!",
       "source": "Season 2 Pass",
-      "hunger": "333K"
+      "hunger": "333K",
+      "dateAdded": "November 1, 2025"
     },
     "Mantis Shrimp": {
       "name": "Mantis Shrimp",
@@ -282,7 +302,8 @@
       "rarity": "Mythical",
       "trait": "Shrimpunch!!!: Every 14:48-5:33m, punches different things in your garden for different effects!",
       "source": "Safari Harvest Event",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "November 1, 2025"
     },
     "Zebra": {
       "name": "Zebra",
@@ -295,7 +316,8 @@
       "rarity": "Rare",
       "trait": "Zebra Stampede: Every 30m on the clock, All Zebras stampede back and forth from the Seed Shop to Gear Shop or vice-versa, and grants you a random Safari related reward! Has 10-20% chance to trigger again on each stampede!",
       "source": "Safari Harvest Event",
-      "hunger": "33K"
+      "hunger": "33K",
+      "dateAdded": "November 1, 2025"
     },
     "Giraffe": {
       "name": "Giraffe",
@@ -308,7 +330,8 @@
       "rarity": "Legendary",
       "trait": "Great Grazer: Every 14:48-5:33m, eats fruit that are atleast 10 studs high for 1.45-3x sell value. The plant the fruit came from advances growth by 66:30-120:00m! Also applies Arid mutation to all other fruits on that plant.",
       "source": "Safari Harvest Event",
-      "hunger": "44K"
+      "hunger": "44K",
+      "dateAdded": "November 1, 2025"
     },
     "Rhino": {
       "name": "Rhino",
@@ -321,7 +344,8 @@
       "rarity": "Mythical",
       "trait": "Rhino Ram: Every 14:48-7:24m, charges into a random egg or random fruit in your garden: Rammed eggs have hatch time halved, rammed fruits get Mirage mutation!",
       "source": "Safari Harvest Event",
-      "hunger": "66K"
+      "hunger": "66K",
+      "dateAdded": "November 1, 2025"
     },
     "Armadillo": {
       "name": "Armadillo",
@@ -334,7 +358,8 @@
       "rarity": "Rare",
       "trait": "Armadillo Roll: Every 8:00-4:00m, rolls into a ball and transforms you into a armadillo ball for 30-60s!",
       "source": "Safari Harvest Event",
-      "hunger": "20K"
+      "hunger": "20K",
+      "dateAdded": "November 1, 2025"
     },
     "Elephant": {
       "name": "Elephant",
@@ -347,7 +372,8 @@
       "rarity": "Divine",
       "trait": "Jumbo Blessing: Every 23:08-6:40m, blesses an age 50.25-40 pet, resetting its age back to 1, increasing its base weight by 0.1 KG if its base weight is less than 2-4 KG! Cannot bless other Elephants. Cannot be mimicked or refreshed.",
       "source": "Safari Harvest Event",
-      "hunger": "111K"
+      "hunger": "111K",
+      "dateAdded": "November 1, 2025"
     },
     "Lich": {
       "name": "Lich",
@@ -360,7 +386,8 @@
       "rarity": "Divine",
       "trait": "Spooky Lich: Spooky type plants within 32-60 studs have increased 0.6-1.5x variant chance, 1.4-3x growth speed and 0.42-1x size bonus! Dread Lord: All active Halloween type pets gain an additional 1.4-4 XP/s!",
       "source": "Lich Crystal",
-      "hunger": "1K"
+      "hunger": "1K",
+      "dateAdded": "October 25, 2025"
     },
     "Scarab": {
       "name": "Scarab",
@@ -373,7 +400,8 @@
       "rarity": "Uncommon",
       "trait": "Spooky Scarab: Spooky type plants within 32-60 studs have 0.32-0.64x increased growth size!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "2K"
+      "hunger": "2K",
+      "dateAdded": "October 25, 2025"
     },
     "Ghostly Scarab": {
       "name": "Ghostly Scarab",
@@ -386,7 +414,8 @@
       "rarity": "Uncommon",
       "trait": "Spooky Scarab: Spooky type plants within 32-60 studs have 0.32-0.64x increased growth size!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "2K"
+      "hunger": "2K",
+      "dateAdded": "October 25, 2025"
     },
     "Tomb Marmot": {
       "name": "Tomb Marmot",
@@ -399,7 +428,8 @@
       "rarity": "Legendary",
       "trait": "Tomb Raid: Every 5:20-1:50m, digs down and hides in a random Tombstone. Going to the tombstone awards a random Graveyard cosmetic!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "38K"
+      "hunger": "38K",
+      "dateAdded": "October 25, 2025"
     },
     "Glass Cat": {
       "name": "Glass Cat",
@@ -412,7 +442,8 @@
       "rarity": "Rare",
       "trait": "Cat Nap: Every 80-5s, naps for 10-20s. New fruit within 10-20 studs will be 1.25-4x larger! Gloss Animal: Every 264-60s, polishes a nearby fruit and it has a &gt;15% chance to become Glossy!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "1.4K"
+      "hunger": "1.4K",
+      "dateAdded": "October 25, 2025"
     },
     "Woody": {
       "name": "Woody",
@@ -425,7 +456,8 @@
       "rarity": "Legendary",
       "trait": "Vampire Doggy: Every 10:00-2:20m, goes to nearby fruit and dances, applying Leeched mutation!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "October 25, 2025"
     },
     "Glass Dog": {
       "name": "Glass Dog",
@@ -438,7 +470,8 @@
       "rarity": "Rare",
       "trait": "Digging Buddy: Every 60-5s, &gt;5% chance to dig up a random seed! Gloss Animal: Every 264-60s, polishes a nearby fruit and it has a &gt;15% chance to become Glossy!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "1K"
+      "hunger": "1K",
+      "dateAdded": "October 25, 2025"
     },
     "Mummy": {
       "name": "Mummy",
@@ -451,7 +484,8 @@
       "rarity": "Divine",
       "trait": "King's Sarcophagus: Pets you get from chest have a bonus 0.1 - 0.28-0.5 KG to their base weight! (Max 3.5 KG).",
       "source": "Halloween Event (Part 3)",
-      "hunger": "88K"
+      "hunger": "88K",
+      "dateAdded": "October 25, 2025"
     },
     "Ghostly Tomb Marmot": {
       "name": "Ghostly Tomb Marmot",
@@ -464,7 +498,8 @@
       "rarity": "Legendary",
       "trait": "Ghostly Tomb Raid: Every 2:40-1:20m, digs down and hides in a random Tombstone. Going to the tombstone awards a random Graveyard cosmetic!",
       "source": "Halloween Event (Part 3)",
-      "hunger": "38K"
+      "hunger": "38K",
+      "dateAdded": "October 25, 2025"
     },
     "Ghostly Mummy": {
       "name": "Ghostly Mummy",
@@ -477,7 +512,8 @@
       "rarity": "Divine",
       "trait": "Ghostly King's Sarcophagus: Pets you get from chest have a bonus 0.1 - 0.38-0.6 KG to their base weight! (Max 3.5 KG).",
       "source": "Halloween Event (Part 3)",
-      "hunger": "88K"
+      "hunger": "88K",
+      "dateAdded": "October 25, 2025"
     },
     "Crow": {
       "name": "Crow",
@@ -490,7 +526,8 @@
       "rarity": "Common",
       "trait": "Spooky Crow: Spooky type plants within 32-60 studs have 1.4-3x increased growth speed!",
       "source": "Halloween Event Digging Rewards",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "October 18, 2025"
     },
     "Ghostly Dark Spriggan": {
       "name": "Ghostly Dark Spriggan",
@@ -503,7 +540,8 @@
       "rarity": "Mythical",
       "trait": "Ghostly Overgrowth: Every 11:05-5:00m, spreads its roots and all fruit within 45-90 studs have a 30-60% to get the Blight or a rare chance for Necrotic mutation instead!",
       "source": "Halloween Event (Part 2)",
-      "hunger": "45K"
+      "hunger": "45K",
+      "dateAdded": "October 18, 2025"
     },
     "Goblin": {
       "name": "Goblin",
@@ -516,7 +554,8 @@
       "rarity": "Rare",
       "trait": "Looter: Every 5:00-2:00m, goes to another random player and carries them and brings them to you! Player can jump to be released!",
       "source": "Halloween Event Digging Rewards",
-      "hunger": "38K"
+      "hunger": "38K",
+      "dateAdded": "October 18, 2025"
     },
     "Hex Serpent": {
       "name": "Hex Serpent",
@@ -529,7 +568,8 @@
       "rarity": "Divine",
       "trait": "Hex Magic: You must plant 5 single-harvest plants in a Hex Circle cosmetic and every 12:00-4:00m: The Hex Serpent will perform a ritual, consuming the plants, granting random rewards! The rarer plants and better variants grants better effects!",
       "source": "Halloween Event Digging Rewards",
-      "hunger": "66.7K"
+      "hunger": "66.7K",
+      "dateAdded": "October 18, 2025"
     },
     "Goat": {
       "name": "Goat",
@@ -542,7 +582,8 @@
       "rarity": "Uncommon",
       "trait": "Ram: Every 7:02-3:31m, goes to a random player and rams them, knocking and launching them away!",
       "source": "Halloween Event (Part 2)",
-      "hunger": "60K"
+      "hunger": "60K",
+      "dateAdded": "October 18, 2025"
     },
     "Dark Spriggan": {
       "name": "Dark Spriggan",
@@ -555,7 +596,8 @@
       "rarity": "Mythical",
       "trait": "Dark Overgrowth: Every 22:10-10:00m, spreads its roots and all fruit within 30-60 studs have a 15-30% to get the Blight mutation!",
       "source": "Halloween Event (Part 2)",
-      "hunger": "45K"
+      "hunger": "45K",
+      "dateAdded": "October 18, 2025"
     },
     "Ghostly Black Cat": {
       "name": "Ghostly Black Cat",
@@ -568,7 +610,8 @@
       "rarity": "Mythical",
       "trait": "Witch's Nap: Every 4:04-2:00m, goes to a Witch's Cauldron cosmetic and naps near it for 14.5-28s. New fruit within 10-20 studs will be 1-2x larger",
       "source": "Spooky Egg (8.5%)",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "October 11, 2025"
     },
     "Ghostly Bat": {
       "name": "Ghostly Bat",
@@ -581,7 +624,8 @@
       "rarity": "Uncommon",
       "trait": "Spooky Bat: Grants Spooky plants in 32-60 studs a 0.6-1.5x variant chance bonus!",
       "source": "Spooky Egg (45%)",
-      "hunger": "5K"
+      "hunger": "5K",
+      "dateAdded": "October 11, 2025"
     },
     "Ghostly Spider": {
       "name": "Ghostly Spider",
@@ -594,7 +638,8 @@
       "rarity": "Legendary",
       "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second &amp; plants grow an additional 15-30s every second!",
       "source": "Spooky Egg (18%)",
-      "hunger": "35K"
+      "hunger": "35K",
+      "dateAdded": "October 11, 2025"
     },
     "Ghostly Bone Dog": {
       "name": "Ghostly Bone Dog",
@@ -607,7 +652,8 @@
       "rarity": "Rare",
       "trait": "Gravedigger: Every 80s-5s, &gt;15% chance to dig up a random seed!",
       "source": "Spooky Egg (28%)",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "October 11, 2025"
     },
     "Reaper": {
       "name": "Reaper",
@@ -620,7 +666,8 @@
       "rarity": "Divine",
       "trait": "Reap What You Sow: Every 22:00-12:00m, sacrifices 4 fruit in your garden to apply a medium Passive boost or medium XP Boost to a random pet in your garden!",
       "source": "Ghoul Garden Event (140 Candy Corn)",
-      "hunger": "67K"
+      "hunger": "67K",
+      "dateAdded": "October 11, 2025"
     },
     "Wolf": {
       "name": "Wolf",
@@ -633,7 +680,8 @@
       "rarity": "Legendary",
       "trait": "Wolf Howl: Every 4:04-2:00m, howls: Fruits in 20-40 studs have a 15-30% get Moonlit mutation and turns you into a Werewolf for 35-70s! Grannting bonus 40.4-80% movement speed &amp; 80.4-160%jump height!",
       "source": "Ghoul Garden Event (80 Candy Corn)",
-      "hunger": "55K"
+      "hunger": "55K",
+      "dateAdded": "October 11, 2025"
     },
     "Black Cat": {
       "name": "Black Cat",
@@ -646,7 +694,8 @@
       "rarity": "Mythical",
       "trait": "Witch's Nap: Every 4:04-2:00m, goes to a Witch's Cauldron cosmetic and naps near it for 14.5-28s. New fruit within 10-20 studs will be 1-2x larger",
       "source": "Spooky Egg (8.5%)",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "October 11, 2025"
     },
     "Ghost Bear": {
       "name": "Ghost Bear",
@@ -659,7 +708,8 @@
       "rarity": "Rare",
       "trait": "Boo!: BOO! Every 18:31-2:00m, goes to a nearby fruit and scares it! Applies the Spooky mutation!",
       "source": "Ghoul Garden Event (70 Candy Corn)",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "October 11, 2025"
     },
     "Pumpkin Rat": {
       "name": "Pumpkin Rat",
@@ -672,7 +722,8 @@
       "rarity": "Common",
       "trait": "Pumpkin Carver: Every 7:02m-1:00m, converts a pumpkin into a random Jack-O-Lantern cosmetic! Collect all 5 variants!",
       "source": "Event Pet Shop (40 Candy Corn)",
-      "hunger": "6K"
+      "hunger": "6K",
+      "dateAdded": "October 11, 2025"
     },
     "Spider": {
       "name": "Spider",
@@ -685,7 +736,8 @@
       "rarity": "Legendary",
       "trait": "Web Weave: Every 8:08-3:20m, weaves a 18-36 stud web that lasts for 10-20s. Pets on the web advance cooldown an extra 1-1.5s every second &amp; plants grow an additional 15-30s every second!",
       "source": "Spooky Egg (18%)",
-      "hunger": "35K"
+      "hunger": "35K",
+      "dateAdded": "October 11, 2025"
     },
     "Bone Dog": {
       "name": "Bone Dog",
@@ -698,7 +750,8 @@
       "rarity": "Rare",
       "trait": "Gravedigger: Every 80s-5s, &gt;15% chance to dig up a random seed!",
       "source": "Spooky Egg (28%)",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "October 11, 2025"
     },
     "Bat": {
       "name": "Bat",
@@ -711,7 +764,8 @@
       "rarity": "Uncommon",
       "trait": "Spooky Bat: Grants Spooky plants in 32-60 studs a 0.6-1.5x variant chance bonus!",
       "source": "Spooky Egg (45%)",
-      "hunger": "5K"
+      "hunger": "5K",
+      "dateAdded": "October 11, 2025"
     },
     "Fortune Squirrel": {
       "name": "Fortune Squirrel",
@@ -724,7 +778,8 @@
       "rarity": "Rare",
       "trait": "CHA-CHING: Every ???, has ???% chance to apply the Jackpot (or Fortune) mutation!",
       "source": "Chubby Chipmunk Event",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "October 4, 2025"
     },
     "Hyrax": {
       "name": "Hyrax",
@@ -737,7 +792,8 @@
       "rarity": "Uncommon",
       "trait": "Occasionally eats a random fruit in your garden and spits out a Fissure Berry seed!",
       "source": "Chubby Chipmunk Event",
-      "hunger": "2,000"
+      "hunger": "2,000",
+      "dateAdded": "October 4, 2025"
     },
     "Farmer Chipmunk": {
       "name": "Farmer Chipmunk",
@@ -750,7 +806,8 @@
       "rarity": "Common",
       "trait": "Every Nut type plants grow 1.5x faster",
       "source": "Chubby Chipmunk Event",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "October 4, 2025"
     },
     "Idol Chipmunk": {
       "name": "Idol Chipmunk",
@@ -763,7 +820,8 @@
       "rarity": "Legendary",
       "trait": "Every 11 minutes, performs a song for 8 seconds and all other pets in your garden restore 1.5% hunger per second!",
       "source": "Chubby Chipmunk Event",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "October 4, 2025"
     },
     "Chinchilla": {
       "name": "Chinchilla",
@@ -776,7 +834,8 @@
       "rarity": "Divine",
       "trait": "Every 30 minutes, goes to another pet, rolls around in dust and makes that pet perform its ability 3 times in a row!",
       "source": "Chubby Chipmunk Event",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "October 4, 2025"
     },
     "GIANT Silver Dragonfly": {
       "name": "GIANT Silver Dragonfly",
@@ -789,7 +848,8 @@
       "rarity": "Legendary",
       "trait": "Silver Transmutation: Every ???, turns one random fruit silver!",
       "source": "Season Pass",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "September 27, 2025"
     },
     "Blue Jay": {
       "name": "Blue Jay",
@@ -802,7 +862,8 @@
       "rarity": "Uncommon",
       "trait": "Berry Friend: All Berry type plants grow 1.5-4x faster",
       "source": "Season Pass",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "September 27, 2025"
     },
     "Mizuchi": {
       "name": "Mizuchi",
@@ -815,7 +876,8 @@
       "rarity": "Divine",
       "trait": "Water Diety: When selling fruits with Azure mutation, there is chance a random mutation from that fruit will be applied to a fruit in your garden! &amp; Azure Surge: Occasionally roars on a random nearby fruit, with a small chance of applying Azure mutation!",
       "source": "Season Pass",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "September 27, 2025"
     },
     "Rainbow Blue Jay": {
       "name": "Rainbow Blue Jay",
@@ -828,7 +890,8 @@
       "rarity": "Uncommon",
       "trait": "Rainbow Berry Friend: All Berry type plants grow 2.5-6x faster",
       "source": "Season Pass",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "September 27, 2025"
     },
     "Iguana": {
       "name": "Iguana",
@@ -841,7 +904,8 @@
       "rarity": "Legendary",
       "trait": "Sun Basking: Every 80-30s, goes to a random fruit with Frozen mutation and melts it back to Chilled or Wet. Ignores favorited fruit.",
       "source": "Jungle Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "September 27, 2025"
     },
     "GIANT Firefly": {
       "name": "GIANT Firefly",
@@ -854,7 +918,8 @@
       "rarity": "Mythical",
       "trait": "GIANT Lightning Bug: Every 225-75s, 20.25-40% chance a nearby fruit becomes Shocked!",
       "source": "Season Pass",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "September 27, 2025"
     },
     "Silver Dragonfly": {
       "name": "Silver Dragonfly",
@@ -867,7 +932,8 @@
       "rarity": "Legendary",
       "trait": "Silver Transmutation: Every ???, turns one random fruit silver!",
       "source": "Season Pass",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "September 27, 2025"
     },
     "Tiger": {
       "name": "Tiger",
@@ -880,7 +946,8 @@
       "rarity": "Divine",
       "trait": "Tiger Call: Every 13:00-3:20m, the Tiger roars, calls all pets in your garden to move toward it. 5000-10000 total XP is shared across each pet (max 800 XP per pet). King of the Jungle: Every 8:08-3:20m, roars and 3 random mutations from your garden will be replaced with another random mutation. Ignores favorited fruit.",
       "source": "Jungle Egg",
-      "hunger": "1K"
+      "hunger": "1K",
+      "dateAdded": "September 27, 2025"
     },
     "Hummingbird": {
       "name": "Hummingbird",
@@ -893,7 +960,8 @@
       "rarity": "Rare",
       "trait": "Seed Disperser: Every 60-15s, converts a random single-harvest plant into its seed equivalent. Ignores favorited plants",
       "source": "Jungle Egg",
-      "hunger": "8K"
+      "hunger": "8K",
+      "dateAdded": "September 27, 2025"
     },
     "Chimpanzee": {
       "name": "Chimpanzee",
@@ -906,7 +974,8 @@
       "rarity": "Mythical",
       "trait": "Primate Profit: Every 3:08-0:30m, grabs a random fruit from your garden and goes to the sell stall and sells it for you. There is a &gt;2% chance the fruit does not get collected.",
       "source": "Jungle Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "September 27, 2025"
     },
     "Tree Frog": {
       "name": "Tree Frog",
@@ -919,7 +988,8 @@
       "rarity": "Rare",
       "trait": "Mini Croak: Every 3:08-0:30 minutes, advances the growth of a random plant by 15 minutes.",
       "source": "Jungle Egg",
-      "hunger": "16K"
+      "hunger": "16K",
+      "dateAdded": "September 27, 2025"
     },
     "Firefly": {
       "name": "Firefly",
@@ -932,7 +1002,8 @@
       "rarity": "Mythical",
       "trait": "Lightning Bug: Every 545-110s, 10.25-20% chance a nearby fruit becomes Shocked!",
       "source": "Season Pass",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "September 27, 2025"
     },
     "Mallard": {
       "name": "Mallard",
@@ -945,7 +1016,8 @@
       "rarity": "Legendary",
       "trait": "Southbound: On the hourly, all Mallards fly South to migrate. The Mallard disappears leaving the player with a random gear! Mallard returns to the players inventory.",
       "source": "Fall Pet Shop",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "September 20, 2025"
     },
     "Woodpecker": {
       "name": "Woodpecker",
@@ -958,7 +1030,8 @@
       "rarity": "Rare",
       "trait": "Woodpecking: Occasionally consumes a woody type fruit and brings it to the crafting table and reduces crafting time.",
       "source": "Fall Pet Shop",
-      "hunger": "5K"
+      "hunger": "5K",
+      "dateAdded": "September 20, 2025"
     },
     "Salmon": {
       "name": "Salmon",
@@ -971,7 +1044,8 @@
       "rarity": "Uncommon",
       "trait": "Salmon School: Gets bonus experience for every other Salmon in the players garden!",
       "source": "Fall Pet Shop",
-      "hunger": "2.5K"
+      "hunger": "2.5K",
+      "dateAdded": "September 20, 2025"
     },
     "Red Panda": {
       "name": "Red Panda",
@@ -984,7 +1058,8 @@
       "rarity": "Divine",
       "trait": "Adorable Haggler: Occasionally goes to the Gear or Seed Shop and restocks a random stock. Rarer items have rarer chance to stock.",
       "source": "Fall Pet Shop",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "September 20, 2025"
     },
     "GIANT Robin": {
       "name": "GIANT Robin",
@@ -997,7 +1072,8 @@
       "rarity": "Common",
       "trait": "Tiny Bird: Grants 20-40% decreased player size!",
       "source": "GIANT Premium Fall Egg (55%)",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "September 13, 2025"
     },
     "GIANT Swan": {
       "name": "GIANT Swan",
@@ -1010,7 +1086,8 @@
       "rarity": "Divine",
       "trait": "Swan Song: Every 790-300s, goes to another player's pet and befriends it and performs its ability! Every 150-65s, graces a fruit with Graceful (77x) mutation!",
       "source": "GIANT Premium Fall Egg (1%)",
-      "hunger": "56K"
+      "hunger": "56K",
+      "dateAdded": "September 13, 2025"
     },
     "GIANT Grizzly Bear": {
       "name": "GIANT Grizzly Bear",
@@ -1023,7 +1100,8 @@
       "rarity": "Legendary",
       "trait": "Fall Express: Every 140-30s, 20-45% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 16-32% increased player size!",
       "source": "GIANT Premium Fall Egg (10%)",
-      "hunger": "55K"
+      "hunger": "55K",
+      "dateAdded": "September 13, 2025"
     },
     "GIANT Badger": {
       "name": "GIANT Badger",
@@ -1036,7 +1114,8 @@
       "rarity": "Rare",
       "trait": "Earthquake Excavator: Every 312-80s, digs around for 10-20s, displacing the ground. Nearby fruits within 20-40 studs have a 10-20% chance every second to get Cracked mutation!",
       "source": "GIANT Premium Fall Egg (32.5%)",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "September 13, 2025"
     },
     "GIANT Barn Owl": {
       "name": "GIANT Barn Owl",
@@ -1049,7 +1128,8 @@
       "rarity": "Mythical",
       "trait": "Wise Shopper: Pets bought directly from shops have a bonus 0.1 - (0.36-0.8) KG to their base weight! (Max 3 KG). Prince of Fall: All active Fall type pets gain an additional 1.2-4 XP/s!",
       "source": "GIANT Premium Fall Egg (1.5%)",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "September 13, 2025"
     },
     "Marmot": {
       "name": "Marmot",
@@ -1062,7 +1142,8 @@
       "rarity": "Legendary",
       "trait": "Whack-A-Marmot: Every 540-120s, burrows down in the ground and hides in a random mound! Finding the Marmot will grant a Fall related reward! Has a 15-30% to burrow again!",
       "source": "Fall Pet Shop",
-      "hunger": "38K"
+      "hunger": "38K",
+      "dateAdded": "September 13, 2025"
     },
     "Badger": {
       "name": "Badger",
@@ -1075,7 +1156,8 @@
       "rarity": "Rare",
       "trait": "Earthquake Excavator: Every 312-80s, digs around for 10-20s, displacing the ground. Nearby fruits within 20-40 studs have a 10-20% chance every second to get Cracked mutation!",
       "source": "Fall Egg (32.5%)",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "September 13, 2025"
     },
     "Grizzly Bear": {
       "name": "Grizzly Bear",
@@ -1088,7 +1170,8 @@
       "rarity": "Legendary",
       "trait": "Fall Express: Every 240-30s, 10-30% chance a nearby fruit gets the Fall (4x) mutation! Mighty Bear: Grants 8-16% increased player size!",
       "source": "Fall Egg (10%)",
-      "hunger": "55K"
+      "hunger": "55K",
+      "dateAdded": "September 13, 2025"
     },
     "Barn Owl": {
       "name": "Barn Owl",
@@ -1101,7 +1184,8 @@
       "rarity": "Mythical",
       "trait": "Wise Shopper: Pets bought directly from shops have a bonus 0.1 - (0.18-0.4) KG to their base weight! (Max 3 KG). Prince of Fall: All active Fall type pets gain an additional 0.6-2 XP/s!",
       "source": "Fall Egg (1.5%)",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "September 13, 2025"
     },
     "Sugar Glider": {
       "name": "Sugar Glider",
@@ -1114,7 +1198,8 @@
       "rarity": "Mythical",
       "trait": "Sugar Gliding: Every 720-1200s, glides from 3 different fruits. Copies 1 mutation from each fruit and applies it to the next.",
       "source": "Fall Pet Shop",
-      "hunger": "16K"
+      "hunger": "16K",
+      "dateAdded": "September 13, 2025"
     },
     "Space Squirrel": {
       "name": "Space Squirrel",
@@ -1127,7 +1212,8 @@
       "rarity": "Divine",
       "trait": "A Space Odd-Nut-sy: Every 1080-540s, has 15-25% chance to apply the Voidtouched mutation!",
       "source": "Fall Pet Shop",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "September 13, 2025"
     },
     "Robin": {
       "name": "Robin",
@@ -1140,7 +1226,8 @@
       "rarity": "Common",
       "trait": "Tiny Bird: Grants 10-20% decreased player size!",
       "source": "Fall Egg (54%)",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "September 13, 2025"
     },
     "Red Squirrel": {
       "name": "Red Squirrel",
@@ -1153,7 +1240,8 @@
       "rarity": "Mythical",
       "trait": "When Fall type pets finish their abilities, they start their cooldown with 14-30 seconds less!",
       "source": "Fall Pet Shop",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "September 13, 2025"
     },
     "Swan": {
       "name": "Swan",
@@ -1166,7 +1254,8 @@
       "rarity": "Divine",
       "trait": "Swan Song: Every 1500-750s, goes to another player's pet and befriends it and performs its ability! Every 360-120s, graces a fruit with Graceful (77x) mutation!",
       "source": "Fall Egg (1%)",
-      "hunger": "56K"
+      "hunger": "56K",
+      "dateAdded": "September 13, 2025"
     },
     "Chipmunk": {
       "name": "Chipmunk",
@@ -1179,7 +1268,8 @@
       "rarity": "Mythical",
       "trait": "Harvest Stash: 6-12% Chance to not consume a use when using a Harvest Tool!",
       "source": "Fall Pet Shop",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "September 13, 2025"
     },
     "Wisp": {
       "name": "Wisp",
@@ -1192,7 +1282,8 @@
       "rarity": "Legendary",
       "trait": "Will-o’-the-Wisp: As long as the player has a Wisp Well in their garden: Pets gain 0.75 extra experience per second.",
       "source": "Fairy Fares Event Shop",
-      "hunger": "1K"
+      "hunger": "1K",
+      "dateAdded": "September 6, 2025"
     },
     "Drake": {
       "name": "Drake",
@@ -1205,7 +1296,8 @@
       "rarity": "Legendary",
       "trait": "Flambe: Goes to a Cooking Kit and breathes fire on it, helping the cooking process and boosting cooking speed by ~11%.",
       "source": "Fairy Fares Event Shop",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "September 6, 2025"
     },
     "Luminous Sprite": {
       "name": "Luminous Sprite",
@@ -1218,7 +1310,8 @@
       "rarity": "Divine",
       "trait": "Illuminate: Occasionally flies to a random fruit and applies the Luminous mutation.",
       "source": "Fairy Fares Event Shop",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "September 6, 2025"
     },
     "Phoenix": {
       "name": "Phoenix",
@@ -1231,7 +1324,8 @@
       "rarity": "Divine",
       "trait": "Frilled Reptile: Occasionally opens its frills and spits out venom! The venom spreads to other random pets, advancing cooldown OR granting bonus xp. Icarus: Occasionally, devours a random mutation from random fruits in your garden each, roars and applies it to 1 other random fruit in your garden! Bird of Rebirth: Pets taken from the mutation machine have a bonus to their age &amp; Icarus: Goes to random fruits to apply flaming mutation, fruits passed along the way have a chance to get the Flaming mutation.",
       "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
-      "hunger": "65K"
+      "hunger": "65K",
+      "dateAdded": "September 6, 2025"
     },
     "Shroomie": {
       "name": "Shroomie",
@@ -1244,7 +1338,8 @@
       "rarity": "Legendary",
       "trait": "Mushroom Madness: All nearby plants within ~15 studs will have increased 0.004x size bonus for every Fungus type plant in the player's garden! (Max 300).",
       "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
-      "hunger": "20K"
+      "hunger": "20K",
+      "dateAdded": "September 6, 2025"
     },
     "Cardinal": {
       "name": "Cardinal",
@@ -1257,7 +1352,8 @@
       "rarity": "Common",
       "trait": "Magical Friend: \nAll Magical type plants grow ~1.6x faster.",
       "source": "Enchanted Chest, Exotic Enchanted Chest, Rainbow Sack ",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "September 6, 2025"
     },
     "Cockatrice": {
       "name": "Cockatrice",
@@ -1270,7 +1366,8 @@
       "rarity": "Divine",
       "trait": "Silver Screech: Every 16min, screeches and all fruits within 20.44 studs have a 20% chance to turn Silver; 1% chance to turn Gold! Venom Spit: Every 10min, spits at 5 different fruit/eggs/pets. Fruits get Toxic mutation, eggs advance by 80.96 seconds, pets gain 804.80XP.",
       "source": "Enchanted Egg",
-      "hunger": "66K"
+      "hunger": "66K",
+      "dateAdded": "August 30, 2025"
     },
     "Imp": {
       "name": "Imp",
@@ -1283,7 +1380,8 @@
       "rarity": "Legendary",
       "trait": "Every 6:66m, the Imp will playfully invite you to chase it. Catching the Imp will grant a random reward! The Imp has a 15-30% to play again on successful chase!",
       "source": "Enchanted Egg",
-      "hunger": "20K"
+      "hunger": "20K",
+      "dateAdded": "August 30, 2025"
     },
     "Ladybug": {
       "name": "Ladybug",
@@ -1296,7 +1394,8 @@
       "rarity": "Common",
       "trait": "All flower type plants grow ~1.6x faster!",
       "source": "Enchanted Egg",
-      "hunger": "12K"
+      "hunger": "12K",
+      "dateAdded": "August 30, 2025"
     },
     "Pixie": {
       "name": "Pixie",
@@ -1309,7 +1408,8 @@
       "rarity": "Rare",
       "trait": "Every 222-100s, spreads pixie dust for 15-30s. All plants within 15-30 studs will advance growth an extra 30 seconds every second! Also makes nearby players levitate!",
       "source": "Enchanted Egg",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "August 30, 2025"
     },
     "Glimmering Sprite": {
       "name": "Glimmering Sprite",
@@ -1322,7 +1422,8 @@
       "rarity": "Mythical",
       "trait": "Every 12 minutes, flies to a nearby fruit and enchants it, applying the Glimmering mutation!",
       "source": "Enchanted Egg",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "August 30, 2025"
     },
     "Radiant Pet": {
       "name": "Radiant Pet",
@@ -1335,7 +1436,8 @@
       "rarity": "Mutation",
       "trait": "Every ~20 - 30 minutes, it emits sunshine at a random nearby plant and advances its growth by 24 hours!",
       "source": "Pet Mutation Machine",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "July 12, 2025"
     },
     "Shocked Pet": {
       "name": "Shocked Pet",
@@ -1348,7 +1450,8 @@
       "rarity": "Mutation",
       "trait": "During a Thunderstorm: Every ~45 - 60 seconds, has a ~25 - 30% chance to attract lightning, shocking nearby fruits!",
       "source": "Pet Mutation Machine",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "July 12, 2025"
     },
     "Rainbow Pet": {
       "name": "Rainbow Pet",
@@ -1361,7 +1464,8 @@
       "rarity": "Mutation",
       "trait": "Provides a +20% increase to the pet's passive! The boost is an additive buff that applies equally to all pets of the same kind.",
       "source": "Pet Mutation Machine",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "July 12, 2025"
     },
     "Lemon Lion": {
       "name": "Lemon Lion",
@@ -1374,7 +1478,8 @@
       "rarity": "Mythical",
       "trait": "Brain-Roar: Roars and mutates a random fruit with Brainrot mutation. Citrus Roar: Occasionally grants bonus experience to a random pet",
       "source": "Admin Abuse War",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Apple Gazelle": {
       "name": "Apple Gazelle",
@@ -1387,7 +1492,8 @@
       "rarity": "Mythical",
       "trait": "Apple Harvester: Fruits that have apple in the name have a 4-7% chance to duplicate when collected; Sugar Warp: Harvesting Sugar Apple crops have a 2-4% to apply Warped mutation to a random fruit in your garden!",
       "source": "Admin Abuse War",
-      "hunger": "2.5K"
+      "hunger": "2.5K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Peach Wasp": {
       "name": "Peach Wasp",
@@ -1400,7 +1506,8 @@
       "rarity": "Mythical",
       "trait": "Peach Pollinator: Every 1500-200s, flies to a nearby fruit and Plasmafies it, applying Plasma mutation! Peach Stinger: Every 602-300s, stings a random pet and advances its ability cooldown by 60-120s!",
       "source": "Admin Abuse War",
-      "hunger": "2.5K"
+      "hunger": "2.5K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Mandrake": {
       "name": "Mandrake",
@@ -1413,7 +1520,8 @@
       "rarity": "Legendary",
       "trait": "Harvesting Mandrake crops have a 3% chance to apply Rot mutation to a random fruit in your garden!",
       "source": "Skyroot Chest",
-      "hunger": "10K"
+      "hunger": "10K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Green Bean": {
       "name": "Green Bean",
@@ -1426,7 +1534,8 @@
       "rarity": "Divine",
       "trait": "Bean for the Bean God: Occasionally sacrifices a random Beanstalk fruit in your garden to instantly grow a random plant in the player's garden with a fruit size bonus.",
       "source": "Admin Abuse War",
-      "hunger": "23.8K"
+      "hunger": "23.8K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Griffin": {
       "name": "Griffin",
@@ -1439,7 +1548,8 @@
       "rarity": "Divine",
       "trait": "Every 15 minutes, flaunts its wings and releases a Cyclone. Pets struck have cooldown advances by 60 seconds and fruits struck have a 10% chance to get the Cyclonic mutation!",
       "source": "Skyroot Chest",
-      "hunger": "65K"
+      "hunger": "65K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Elk": {
       "name": "Elk",
@@ -1452,7 +1562,8 @@
       "rarity": "Uncommon",
       "trait": "2% chance berry fruit stays after collecting! Rarer plants have a rarer chance to replant.",
       "source": "Skyroot Chest",
-      "hunger": "65K"
+      "hunger": "65K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Gnome": {
       "name": "Gnome",
@@ -1465,7 +1576,8 @@
       "rarity": "Legendary",
       "trait": "Gnome Collector: Has a chance to mutate a random fruit with the Gnomed mutation. Gains additional chance for every Gnome cosmetic in the player’s garden.",
       "source": "Goliath's Goods",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "August 23rd, 2025"
     },
     "Ascended Pet": {
       "name": "Ascended Pet",
@@ -1478,7 +1590,8 @@
       "rarity": "Mutation",
       "trait": "Every ~300 - 360 minutes (5-6 hours), gives a random fruit the Dawnbound mutation!",
       "source": "Pet Mutation Machine",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "July 12, 2025"
     },
     "Dairy Cow": {
       "name": "Dairy Cow",
@@ -1491,7 +1604,8 @@
       "rarity": "Common",
       "trait": "All plants within 10 studs grow 1.3x faster! When selling this pet: Has a small chance to get a Beanstalk seed!",
       "source": "Sprout Egg",
-      "hunger": "9K"
+      "hunger": "9K",
+      "dateAdded": "August 16th, 2025"
     },
     "Seedling": {
       "name": "Seedling",
@@ -1504,7 +1618,8 @@
       "rarity": "Legendary",
       "trait": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent",
       "source": "Rare Summer Egg",
-      "hunger": "17K"
+      "hunger": "17K",
+      "dateAdded": "June 21, 2025"
     },
     "Jackalope": {
       "name": "Jackalope",
@@ -1517,7 +1632,8 @@
       "rarity": "Uncommon",
       "trait": "Every 100 seconds, thumps its feet and has a ~15% chance to mutate a nearby fruit, applying the Sandy mutation!",
       "source": "Sprout Egg",
-      "hunger": "22K"
+      "hunger": "22K",
+      "dateAdded": "August 16th, 2025"
     },
     "Golem": {
       "name": "Golem",
@@ -1530,7 +1646,8 @@
       "rarity": "Mythical",
       "trait": "Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!",
       "source": "Sprout Egg",
-      "hunger": "32K"
+      "hunger": "32K",
+      "dateAdded": "August 16th, 2025"
     },
     "Golden Goose": {
       "name": "Golden Goose",
@@ -1543,7 +1660,8 @@
       "rarity": "Divine",
       "trait": "Every 788-300s, lays a Golden Egg plant that starts with the Fortune mutation. It can be harvested and mutates like other plants. Selling it may apply Fortune mutation to a fruit in the player's garden!",
       "source": "Sprout Egg",
-      "hunger": "48K"
+      "hunger": "48K",
+      "dateAdded": "August 16th, 2025"
     },
     "Spriggan": {
       "name": "Spriggan",
@@ -1556,7 +1674,8 @@
       "rarity": "Mythical",
       "trait": "Overgrowth: Occasionally spreads its roots and all nearby fruits in 30 studs have a 15-16% chance to get the Bloom mutation!",
       "source": "Goliath's Goods",
-      "hunger": "45K"
+      "hunger": "45K",
+      "dateAdded": "August 16, 2025"
     },
     "Junkbot": {
       "name": "Junkbot",
@@ -1569,7 +1688,8 @@
       "rarity": "Mythical",
       "trait": "OIL OR BOIL: Occasionally has a chance to oil nearby fruit applying the Oil mutation",
       "source": "Albert Admin Abuse",
-      "hunger": "10.1K"
+      "hunger": "10.1K",
+      "dateAdded": "August 9, 2025"
     },
     "Gorilla Chef": {
       "name": "Gorilla Chef",
@@ -1582,7 +1702,8 @@
       "rarity": "Legendary",
       "trait": "King Cook: As long as players have a Cooking Pot or Cooking Cauldron in player garden: The Gorilla cooks in it and grants 5-10% to duplicate food on cook!",
       "source": "Rat Connoisseur",
-      "hunger": "55K"
+      "hunger": "55K",
+      "dateAdded": "August 9th, 2025"
     },
     "Sunny-Side Chicken": {
       "name": "Sunny-Side Chicken",
@@ -1595,7 +1716,8 @@
       "rarity": "Uncommon",
       "trait": "Better Eggcelerator: Increases egg hatch speed by &gt;20%!",
       "source": "Taste Testing Rat Connoisseur",
-      "hunger": "3.4K"
+      "hunger": "3.4K",
+      "dateAdded": "August 9th, 2025"
     },
     "Lobster Thermidor": {
       "name": "Lobster Thermidor",
@@ -1608,7 +1730,8 @@
       "rarity": "Divine",
       "trait": "Molten Boiling Point: Every 300 to 900s (5-15 minutes), 20% or more chance a nearby fruit becomes Molten!Meteoric Boiling Point: Every 500 to 1800s (8.33-30 minutes), 10% or more chance a nearby fruit becomes Meteoric!",
       "source": "Culinarian Chest, Exotic Culinarian Chest, Rainbow Sack",
-      "hunger": "50.5K"
+      "hunger": "50.5K",
+      "dateAdded": "August 9, 2025"
     },
     "Hotdog Daschund": {
       "name": "Hotdog Daschund",
@@ -1621,7 +1744,8 @@
       "rarity": "Legendary",
       "trait": "Loaded Dog: Every 80s to 240s, drops a 8 to 16 stud mustard or ketchup puddle that lasts 30 to 45 seconds.\nPets on mustard get 20% to 40% faster cooldown and pets on ketchup gain 20% to 40% more experience!",
       "source": "Culinarian Chest, Exotic Culinarian Chest, Rainbow Sack",
-      "hunger": "16K"
+      "hunger": "16K",
+      "dateAdded": "August 9th, 2025"
     },
     "Bacon Pig": {
       "name": "Bacon Pig",
@@ -1634,7 +1758,8 @@
       "rarity": "Uncommon",
       "trait": "Bacon Frenzy: Every 5s to 120s, emits an aura for &gt;15s granting &gt;2x chance for new fruit to grow as variants within &gt;15 studs!",
       "source": "Culinarian Chest, Exotic Culinarian Chest, Rainbow Sack",
-      "hunger": "5K"
+      "hunger": "5K",
+      "dateAdded": "August 2, 2025"
     },
     "Mochi Mouse": {
       "name": "Mochi Mouse",
@@ -1647,7 +1772,8 @@
       "rarity": "Mythical",
       "trait": "Mochi Marathon: Grants bonus experience per second gain to all active Food type pets\nWhisker Wisdom: Occasionally gains bonus experience",
       "source": "Cooking Event Rewards",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "August 2nd, 2025"
     },
     "French Fry Ferret": {
       "name": "French Fry Ferret",
@@ -1660,7 +1786,8 @@
       "rarity": "Divine",
       "trait": "Friendly Frier: Every ~57:01m, increases a random pet's level by 1! Ability cannot be mimicked or refreshed.",
       "source": "Gourmet Egg",
-      "hunger": "37K"
+      "hunger": "37K",
+      "dateAdded": "August 2, 2025"
     },
     "Pancake Mole": {
       "name": "Pancake Mole",
@@ -1673,7 +1800,8 @@
       "rarity": "Rare",
       "trait": "Pancake Hunter: Every 10-80s, digs down underground to find treasure. Can dig up gear or sheckles!",
       "source": "Gourmet Egg",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "August 2nd, 2025"
     },
     "Spaghetti Sloth": {
       "name": "Spaghetti Sloth",
@@ -1686,7 +1814,8 @@
       "rarity": "Mythical",
       "trait": "Al dente: Every 3:20-14:00m, goes to a nearby fruit and does-a-cooking! Applying Pasta, Sauce or Meatball mutation!",
       "source": "Gourmet Egg",
-      "hunger": "18K"
+      "hunger": "18K",
+      "dateAdded": "August 2nd, 2025"
     },
     "Sushi Bear": {
       "name": "Sushi Bear",
@@ -1699,7 +1828,8 @@
       "rarity": "Legendary",
       "trait": "Sushi Express: Every 10-80s, &gt;15% chance a nearby fruit becomes Chilled or Frozen\nSushi Time: Every 100-670s, flings a sushi towards a random pet and feeds it for 1-50% of its hunger",
       "source": "Gourmet Egg",
-      "hunger": "20K"
+      "hunger": "20K",
+      "dateAdded": "August 2, 2025"
     },
     "Bagel Bunny": {
       "name": "Bagel Bunny",
@@ -1712,7 +1842,8 @@
       "rarity": "Common",
       "trait": "Bagels and Carrots: Every 5-45s, eats a carrot for &gt;5x value bonus!",
       "source": "Gourmet Egg",
-      "hunger": "1.2K"
+      "hunger": "1.2K",
+      "dateAdded": "August 2nd, 2025"
     },
     "Football": {
       "name": "Football",
@@ -1725,7 +1856,8 @@
       "rarity": "Legendary",
       "trait": "Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead",
       "source": "Travis Kelce Celebrity Guest Event",
-      "hunger": "870"
+      "hunger": "870",
+      "dateAdded": "July 26th, 2025"
     },
     "Maneki-neko": {
       "name": "Maneki-neko",
@@ -1738,7 +1870,8 @@
       "rarity": "Uncommon",
       "trait": "Fortune Cat: Every 2 minutes, waves and invites good fortune that grants 8% chance to refund fruit back to player’s inventory for 10s! Rarer fruit have rarer chance to refund.",
       "source": "Kitsune Chest, Exotic Kitsune Chest",
-      "hunger": "1.78K"
+      "hunger": "1.78K",
+      "dateAdded": "July 26th, 2025"
     },
     "Corrupted Kitsune": {
       "name": "Corrupted Kitsune",
@@ -1751,7 +1884,8 @@
       "rarity": "Prismatic",
       "trait": "Nine-Tailed Curse:\nEvery 20:56m, launches cursed energy at 9 different fruits. Mutating them Corrupt Chakra with a very rare chance for Corrupt Foxfire Chakra",
       "source": "Kitsune Chest, Exotic Kitsune Chest, Rainbow Sack",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "July 26, 2025"
     },
     "Kodama": {
       "name": "Kodama",
@@ -1764,7 +1898,8 @@
       "rarity": "Legendary",
       "trait": "Tree Spirit: ~5% Zen type Fruit gets tranquil mutation after collecting!",
       "source": "Kitsune Chest, Exotic Kitsune Chest, Rainbow Sack",
-      "hunger": "22K"
+      "hunger": "22K",
+      "dateAdded": "July 26, 2025"
     },
     "Corrupted Kodama": {
       "name": "Corrupted Kodama",
@@ -1777,7 +1912,8 @@
       "rarity": "Legendary",
       "trait": "Tree Spirit: 4.22% chance Zen type fruit gets Corrupt mutation after collecting!",
       "source": "Corrupt Zen Quests",
-      "hunger": "22K"
+      "hunger": "22K",
+      "dateAdded": "July 26,2025"
     },
     "Raiju": {
       "name": "Raiju",
@@ -1790,7 +1926,8 @@
       "rarity": "Divine",
       "trait": "Lightning Beast: Every ~10:30 minutes, devours a fruit with Shocked mutation for 1.5x sheckle value to summon a chain of lightning to mutate 4.22 fruits with Static! During a thunderstorm: ~20.3% chance for Shocked instead.",
       "source": "Tranquil Treasures Shop",
-      "hunger": "42K"
+      "hunger": "42K",
+      "dateAdded": "July 26th, 2025"
     },
     "Shiba Inu": {
       "name": "Shiba Inu",
@@ -1803,7 +1940,8 @@
       "rarity": "Uncommon",
       "trait": "Man's Best Tomodachi: Every ~60s, ~15% chance to dig up a random seed from the seed shop with lower chances for higher tiers (eg prismatic)",
       "source": "Zen Egg",
-      "hunger": "2K"
+      "hunger": "2K",
+      "dateAdded": "July 19th, 2025"
     },
     "Tanuki": {
       "name": "Tanuki",
@@ -1816,7 +1954,8 @@
       "rarity": "Legendary",
       "trait": "Mischief: Occasionally causes mischief doing random actions in the player's garden.",
       "source": "Zen Egg",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "July 19, 2025"
     },
     "Kappa": {
       "name": "Kappa",
@@ -1829,7 +1968,8 @@
       "rarity": "Mythical",
       "trait": "Water Spirit: Occasionally sprays water on all nearby fruits, mutating them to wet, and has a chance to convert Wet mutations already on fruit to Bloodlit.",
       "source": "Zen Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 19th, 2025"
     },
     "Tanchozuru": {
       "name": "Tanchozuru",
@@ -1842,7 +1982,8 @@
       "rarity": "Legendary",
       "trait": "Balance and Harmony: Occasionally channels tranquility and has a chance to mutate nearby fruits into Tranquil.",
       "source": "Zen Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 19th, 2025"
     },
     "Nihonzaru": {
       "name": "Nihonzaru",
@@ -1855,7 +1996,8 @@
       "rarity": "Rare",
       "trait": "Bathe Time: As long as you have a Hot Spring in the players garden: bathes in it and boosts all other pet's passives by a small amount.",
       "source": "Zen Egg",
-      "hunger": "8K"
+      "hunger": "8K",
+      "dateAdded": "July 19th, 2025"
     },
     "Koi": {
       "name": "Koi",
@@ -1868,7 +2010,8 @@
       "rarity": "Mythical",
       "trait": "Fish of Fortune: When hatching eggs, there is a *(0.22 * Weight + 3)*% chance to get the egg back. Cannot recover Premium/Exotic Eggs.",
       "source": "Zen Shop",
-      "hunger": "2.5K"
+      "hunger": "2.5K",
+      "dateAdded": "July 19th, 2025"
     },
     "Parasaurolophus": {
       "name": "Parasaurolophus",
@@ -1881,7 +2024,8 @@
       "rarity": "Legendary",
       "trait": "Crowbar Head: Occasionally, goes to the cosmetic crate with the highest time and reduces time to open!",
       "source": "Primal Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 12th, 2025"
     },
     "Iguanodon": {
       "name": "Iguanodon",
@@ -1894,7 +2038,8 @@
       "rarity": "Legendary",
       "trait": "Dino Herd: Grants bonus experience per second gain to all active Dinosaur-type pets",
       "source": "Primal Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 12th, 2025"
     },
     "Pachycephalosaurus": {
       "name": "Pachycephalosaurus",
@@ -1907,7 +2052,8 @@
       "rarity": "Legendary",
       "trait": "Crafty Dome: Grants a 6% chance to duplicate a crafted item.",
       "source": "Primal Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 12, 2025"
     },
     "Dilophosaurus": {
       "name": "Dilophosaurus",
@@ -1920,7 +2066,8 @@
       "rarity": "Mythical",
       "trait": "Frilled Reptile - Every ~13 minutes opens its frills and spits out venom! The venom produced spreads to ~3 (capped at 5) other random pets, advancing cooldown by 40.82 OR granting 370.42 Xp.",
       "source": "Primal Egg, Premium Primal Egg",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "July 12th, 2025"
     },
     "Ankylosaurus": {
       "name": "Ankylosaurus",
@@ -1933,7 +2080,8 @@
       "rarity": "Mythical",
       "trait": "Armored Defender: When a player steals a fruit from the player, grants a chance that the player stolen from, gets the stolen fruit as well.",
       "source": "Primal Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 12th, 2025"
     },
     "Spinosaurus": {
       "name": "Spinosaurus",
@@ -1946,7 +2094,8 @@
       "rarity": "Divine",
       "trait": "Food Chain: Every ~20 minutes, devours a random mutation from 3 fruits in owners garden each, then roar, spreading those mutations to a fruit in owners garden! Prioritizes applying mutation to favorited fruit.",
       "source": "Primal Egg",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "July 12th, 2025"
     },
     "T-Rex": {
       "name": "T-Rex",
@@ -1959,7 +2108,8 @@
       "rarity": "Divine",
       "trait": "Apex Predator: Every ~20m eats a random mutation from some fruit in the player's garden then roars and applies that mutation to ~3 other fruits in the player's garden.",
       "source": "Dinosaur Egg",
-      "hunger": "60K"
+      "hunger": "60K",
+      "dateAdded": "July 5th, 2025"
     },
     "Triceratops": {
       "name": "Triceratops",
@@ -1972,7 +2122,8 @@
       "rarity": "Legendary",
       "trait": "Tri-Horn: Every 3:33m, rams into 3 random plants and advances their growth by 33:33m. Has a 15.18% chance to do it again each time.",
       "source": "Dinosaur Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 5th, 2025"
     },
     "Stegosaurus": {
       "name": "Stegosaurus",
@@ -1985,7 +2136,8 @@
       "rarity": "Legendary",
       "trait": "Prehistoric Doubling: Small chance to duplicate harvested fruit\nPrehistoric Harvester: Increased chance to duplicate harvested prehistoric type plant",
       "source": "Dinosaur Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 5th, 2025"
     },
     "Raptor": {
       "name": "Raptor",
@@ -1998,7 +2150,8 @@
       "rarity": "Legendary",
       "trait": "Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate.\nRaptor Dance: Grants additional 14% - 14.5% increase to player movement speed!",
       "source": "Dinosaur Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 5th, 2025"
     },
     "Pterodactyl": {
       "name": "Pterodactyl",
@@ -2011,7 +2164,8 @@
       "rarity": "Legendary",
       "trait": "Sky Reptile: Occasionally applies Windstruck mutation to ~4 nearby fruits with a chance of &gt;19.06% for Twisted!\nAir Time: Grants additional &gt;14.39% increase to player jump height!",
       "source": "Dinosaur Egg",
-      "hunger": "40K"
+      "hunger": "40K",
+      "dateAdded": "July 5th, 2025"
     },
     "Bald Eagle": {
       "name": "Bald Eagle",
@@ -2024,7 +2178,8 @@
       "rarity": "Legendary",
       "trait": "Wings of Freedom: Every 7:04m, takes flight and spreads its wings. All eggs advance their hatch time by 70.40s! 70.40% chance for the time to be multiplied by ~2x.",
       "source": "4th July Event 2025",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "July 4th, 2025"
     },
     "Axolotl": {
       "name": "Axolotl",
@@ -2037,7 +2192,8 @@
       "rarity": "Mythical",
       "trait": "6.76% chance Summer type fruit stays after collecting!",
       "source": "Oasis Egg, Premium Oasis Egg",
-      "hunger": "22K"
+      "hunger": "22K",
+      "dateAdded": "June 28, 2025"
     },
     "Hyacinth Macaw": {
       "name": "Hyacinth Macaw",
@@ -2050,7 +2206,8 @@
       "rarity": "Mythical",
       "trait": "Cloudtouched Bird: ~Every 8:00m, ~15.63% chance to mutate a nearby fruit, applying the Cloudtouched mutation!",
       "source": "Oasis Egg, Premium Oasis Egg",
-      "hunger": "12K"
+      "hunger": "12K",
+      "dateAdded": "June 28, 2025"
     },
     "Sand Snake": {
       "name": "Sand Snake",
@@ -2063,7 +2220,8 @@
       "rarity": "Legendary",
       "trait": "Has a 1.31% - 3% to duplicate an item or seed when purchasing from the gear or seed shop.",
       "source": "Oasis Egg, Premium Oasis Egg",
-      "hunger": "28K"
+      "hunger": "28K",
+      "dateAdded": "June 28, 2025"
     },
     "Fennec Fox": {
       "name": "Fennec Fox",
@@ -2076,7 +2234,8 @@
       "rarity": "Divine",
       "trait": "Mutation Snatch: Occasionally goes to another player's random fruit and has the chance to copy a random mutation and apply it to a random fruit the pet owner owns!",
       "source": "Oasis Egg, Premium Oasis Egg",
-      "hunger": "35K"
+      "hunger": "35K",
+      "dateAdded": "June 28, 2025"
     },
     "Meerkat": {
       "name": "Meerkat",
@@ -2089,7 +2248,8 @@
       "rarity": "Legendary",
       "trait": "Every 7:14m goes to another pet and does a lookout. That pet advanced cooldown by 21.06s! Has a 15.53% chance to do it again after each lookout.",
       "source": "Oasis Egg, Premium Oasis Egg",
-      "hunger": "22K"
+      "hunger": "22K",
+      "dateAdded": "June 28, 2025"
     },
     "Flamingo": {
       "name": "Flamingo",
@@ -2102,7 +2262,8 @@
       "rarity": "Rare",
       "trait": "Flamboyance: Occasionally stands on one legs and all nearby plants will grow incredibly fast",
       "source": "Rare Summer Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 21, 2025"
     },
     "Seagull": {
       "name": "Seagull",
@@ -2115,7 +2276,8 @@
       "rarity": "Common",
       "trait": "When the player get a Lucky Harvest: There is a 4 percent chance to get a extra seed!",
       "source": "Common Summer Egg",
-      "hunger": "3.5K"
+      "hunger": "3.5K",
+      "dateAdded": "June 21, 2025"
     },
     "Crab": {
       "name": "Crab",
@@ -2128,7 +2290,8 @@
       "rarity": "Common",
       "trait": "Pinch Pocket: Occasionally goes to another player and pinches them and grants you a small amount of sheckles",
       "source": "Common Summer Egg",
-      "hunger": "3K"
+      "hunger": "3K",
+      "dateAdded": "June 21, 2025"
     },
     "Sea Turtle": {
       "name": "Sea Turtle",
@@ -2141,7 +2304,8 @@
       "rarity": "Rare",
       "trait": "Every ~11minutes, shares its wisdom with a random pet, granting 1k bonus experience!\nEvery 150seconds, splashes water at a nearby fruit and it has some chance to get Wet mutation!",
       "source": "Rare Summer Egg",
-      "hunger": "22.2K"
+      "hunger": "22.2K",
+      "dateAdded": "June 21, 2025"
     },
     "Seal": {
       "name": "Seal",
@@ -2154,7 +2318,8 @@
       "rarity": "Rare",
       "trait": "Seal the Deal: When selling pets, has a (0.22 * Weight + 2.5)% chance to get the pet back as its egg equivalent",
       "source": "Rare Summer Egg",
-      "hunger": "17K"
+      "hunger": "17K",
+      "dateAdded": "June 21, 2025"
     },
     "Orangutan": {
       "name": "Orangutan",
@@ -2167,7 +2332,8 @@
       "rarity": "Rare",
       "trait": "Helping Hands: When crafting, each material has a chance for it not to be consumed",
       "source": "Rare Summer Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 21, 2025"
     },
     "Starfish": {
       "name": "Starfish",
@@ -2180,7 +2346,8 @@
       "rarity": "Common",
       "trait": "You're a Star: Gains additional XP per second.",
       "source": "Common Summer Egg",
-      "hunger": "1.5K"
+      "hunger": "1.5K",
+      "dateAdded": "June 21, 2025"
     },
     "Toucan": {
       "name": "Toucan",
@@ -2193,7 +2360,8 @@
       "rarity": "Rare",
       "trait": "Tropical Lover: Grants all tropical plants within ~25 studs a ~1.2x size bonus and a ~1.18x variant chance bonus!",
       "source": "Rare Summer Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 21, 2025"
     },
     "Hamster": {
       "name": "Hamster",
@@ -2206,7 +2374,8 @@
       "rarity": "Mythical",
       "trait": "Every ~3 minutes, runs in a hamster wheel and boosts crafting speed by ~30.35% for ~19s!",
       "source": "Summer Shop",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "June 28, 2025"
     },
     "Capybara": {
       "name": "Capybara",
@@ -2219,7 +2388,8 @@
       "rarity": "Legendary",
       "trait": "Chill Zone: All pets within 15.48 studs won`t lose hunger and will gain 3.48xp every second.",
       "source": "Paradise Egg",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "June 21, 2025"
     },
     "Scarlet Macaw": {
       "name": "Scarlet Macaw",
@@ -2232,7 +2402,8 @@
       "rarity": "Legendary",
       "trait": "Verdant Bird: Every 8:00m, 16% chance to mutate a nearby fruit, applying the Verdant mutation.",
       "source": "Paradise Egg",
-      "hunger": "12K"
+      "hunger": "12K",
+      "dateAdded": "June 21, 2025"
     },
     "Peacock": {
       "name": "Peacock",
@@ -2245,7 +2416,8 @@
       "rarity": "Legendary",
       "trait": "Utter Beauty: Occasionally fans its feathers and all nearby pets will advance ability cooldowns",
       "source": "Paradise Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 21, 2025"
     },
     "Ostrich": {
       "name": "Ostrich",
@@ -2258,7 +2430,8 @@
       "rarity": "Legendary",
       "trait": "Eggsperience: Grants pets hatched from eggs an age bonus",
       "source": "Paradise Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 21, 2025"
     },
     "Cooked Owl": {
       "name": "Cooked Owl",
@@ -2271,7 +2444,8 @@
       "rarity": "Mythical",
       "trait": "Let Him Cook - Every 15 minutes, 15.35% chance to cook a nearby fruit. Usually Burnt, but occasionally Cooked!\nKing of the Grill - All active pets gain an additional 0.17 XP/s",
       "source": "Join the game before the 1.10.0 update",
-      "hunger": "35K"
+      "hunger": "35K",
+      "dateAdded": "June 14, 2025"
     },
     "Pack Bee": {
       "name": "Pack Bee",
@@ -2284,7 +2458,8 @@
       "rarity": "Mythical",
       "trait": "Increases backpack size by ~25 and pollinates a plant every ~25 minutes",
       "source": "Crafted by adding an Anti Bee Egg, Sunflower, Purple Dahlia, and 250",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "June 14 2025"
     },
     "Moon Cat": {
       "name": "Moon Cat",
@@ -2297,7 +2472,8 @@
       "rarity": "Legendary",
       "trait": "Every ~70s, naps for ~20s. New fruit within ~20 studs will be ~1.5x larger. ~6% chance Night type fruits stays after harvest.",
       "source": " Twilight Shop ",
-      "hunger": "2.4K"
+      "hunger": "2.4K",
+      "dateAdded": "May 24th 2025"
     },
     "Wasp": {
       "name": "Wasp",
@@ -2310,7 +2486,8 @@
       "rarity": "Legendary",
       "trait": "Every 30m, the Wasp flies to a nearby fruit and pollinates it, applying the Pollinated mutation.\nEvery 10m, the Wasp stings a random pet and advances its ability cooldown by 60s.",
       "source": "Anti Bee Egg, Premium Anti Bee Egg",
-      "hunger": "28K"
+      "hunger": "28K",
+      "dateAdded": "June 7th, 2025"
     },
     "Disco Bee": {
       "name": "Disco Bee",
@@ -2323,7 +2500,8 @@
       "rarity": "Divine",
       "trait": "Every ~10m, has a ~20% chance a nearby fruit becomes Disco",
       "source": "Anti Bee Egg\nPremium Anti Bee Egg",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "June 7, 2025"
     },
     "Moth": {
       "name": "Moth",
@@ -2336,7 +2514,8 @@
       "rarity": "Legendary",
       "trait": "Silk song:\nEvery ~13 minutes, restores 100% hunger of a random pet by singing to it",
       "source": "Anti Bee Egg\nPremium Anti Bee Egg\n149",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "June 7th, 2025"
     },
     "Tarantula Hawk": {
       "name": "Tarantula Hawk",
@@ -2349,7 +2528,8 @@
       "rarity": "Legendary",
       "trait": "Wasp Pollinator - Every 25m, the Tarantula Hawk flies to a nearby fruit and pollinates it, applying the Pollinated mutation.\nTarantula Stinger - Every 5m, the Tarantula Hawk stings a random pet and advances its ability cooldown by ~ 80s.",
       "source": "Anti Bee Egg, Premium Anti Bee Egg",
-      "hunger": "28K"
+      "hunger": "28K",
+      "dateAdded": "June 7th, 2025"
     },
     "Queen Bee": {
       "name": "Queen Bee",
@@ -2362,7 +2542,8 @@
       "rarity": "Divine",
       "trait": "Every ~20 Minutes, a nearby fruit becomes magically pollinated, applying the Pollinated mutation.\nEvery ~23 Minutes, the pet with the highest cooldown refreshes its ability! Does not refresh pet mutation abilities.",
       "source": "Bee Egg",
-      "hunger": "65K"
+      "hunger": "65K",
+      "dateAdded": "May 31, 2025"
     },
     "Snail": {
       "name": "Snail",
@@ -2375,7 +2556,8 @@
       "rarity": "Mythical",
       "trait": "Extra 5.08% chance harvested plants drop seeds. Rarer plants have a lower chance to drop seeds",
       "source": "Bug Egg, Exotic Bug Egg",
-      "hunger": "12K"
+      "hunger": "12K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Red Fox": {
       "name": "Red Fox",
@@ -2388,7 +2570,8 @@
       "rarity": "Mythical",
       "trait": "Scoundrel: Attempts to steal (duplicate) a seed from another user's plot every ~6 minutes if it successfully steals a seed it will try to steal another one",
       "source": "Mythical Egg",
-      "hunger": "35K"
+      "hunger": "35K",
+      "dateAdded": "May 17th, 2025"
     },
     "Caterpillar": {
       "name": "Caterpillar",
@@ -2401,7 +2584,8 @@
       "rarity": "Mythical",
       "trait": "Leaf lover passive : Leafy Plants grow 1.5x-2.5x faster.",
       "source": "Bug Egg, Exotic Bug Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 3, 2025"
     },
     "Owl": {
       "name": "Owl",
@@ -2414,7 +2598,8 @@
       "rarity": "Mythical",
       "trait": "Boosts all the active pets will gain around 0.20 XP each second!",
       "source": "Lunar Glow Event 2025",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 10, 2025"
     },
     "Chicken Zombie": {
       "name": "Chicken Zombie",
@@ -2427,7 +2612,8 @@
       "rarity": "Mythical",
       "trait": "Every 29m, 20.82% chance a nearby fruit becomes Zombified!Increases egg hatch speed by 10.41%",
       "source": "Join the game before the 1.06.0 update",
-      "hunger": "35K"
+      "hunger": "35K",
+      "dateAdded": "May 17, 2025"
     },
     "Echo Frog": {
       "name": "Echo Frog",
@@ -2440,7 +2626,8 @@
       "rarity": "Mythical",
       "trait": "Every &lt;5 minutes, croaks and causes a random nearby plant to advance growth by 24 hours.",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "May, 10th, 2025"
     },
     "Bear Bee": {
       "name": "Bear Bee",
@@ -2453,7 +2640,8 @@
       "rarity": "Mythical",
       "trait": "Wanna-bee:\nEvery 25 minutes applies the HoneyGlazed mutation to a random fruit",
       "source": "Bee Egg",
-      "hunger": "45K"
+      "hunger": "45K",
+      "dateAdded": "May 31, 2025"
     },
     "Silver Monkey": {
       "name": "Silver Monkey",
@@ -2466,7 +2654,8 @@
       "rarity": "Legendary",
       "trait": "8% chance to refund crops.",
       "source": "Legendary Egg",
-      "hunger": "8K"
+      "hunger": "8K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Sea Otter": {
       "name": "Sea Otter",
@@ -2479,7 +2668,8 @@
       "rarity": "Legendary",
       "trait": "Every ~24.70 seconds, sprays water on a nearby plant!",
       "source": "Legendary Egg",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Turtle": {
       "name": "Turtle",
@@ -2492,7 +2682,8 @@
       "rarity": "Legendary",
       "trait": "All sprinklers last ~20% longer.",
       "source": "Legendary Egg",
-      "hunger": "10K"
+      "hunger": "10K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Mole": {
       "name": "Mole",
@@ -2505,7 +2696,8 @@
       "rarity": "Legendary",
       "trait": "Every ~80 seconds, digs down underground to find treasure. Can dig up gear or sheckles.",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "May 10th 2025"
     },
     "Cow": {
       "name": "Cow",
@@ -2518,7 +2710,8 @@
       "rarity": "Legendary",
       "trait": "Causes all plants within 8 studs to grow 1.12x faster.",
       "source": "Legendary Egg",
-      "hunger": "9.5K"
+      "hunger": "9.5K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Polar Bear": {
       "name": "Polar Bear",
@@ -2531,7 +2724,8 @@
       "rarity": "Legendary",
       "trait": "Every ~90s, ~10% chance to turn a nearby crop chilled or frozen.",
       "source": "Legendary Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 3rd, 2025"
     },
     "Frog": {
       "name": "Frog",
@@ -2544,7 +2738,8 @@
       "rarity": "Legendary",
       "trait": "Every &gt;10 minutes, croaks and a random nearby Plant will advance growth by 24 hours.",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May, 10th, 2025"
     },
     "Blood Kiwi": {
       "name": "Blood Kiwi",
@@ -2557,7 +2752,8 @@
       "rarity": "Legendary",
       "trait": "Crimson Cradle: Every (60 - Weight)s, decreases hatch time of egg with the highest remaining hatch time by (45 + 0.45 * Weight)s and increases its hatch speed by (20 + 0.2 * Weight)%.",
       "source": "20,000,000 in Blood Moon Shop",
-      "hunger": "45K"
+      "hunger": "45K",
+      "dateAdded": "May 17th, 2025"
     },
     "Panda": {
       "name": "Panda",
@@ -2570,7 +2766,8 @@
       "rarity": "Legendary",
       "trait": "Every ~3 minutes, the Panda will eat bamboo off the players plot and sell it for ~1.5x value boost.",
       "source": "Be present for the first hour of the Animal Update",
-      "hunger": "20K"
+      "hunger": "20K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Blood Hedgehog": {
       "name": "Blood Hedgehog",
@@ -2583,7 +2780,8 @@
       "rarity": "Legendary",
       "trait": "Sanguine Spike - Makes prickly fruits grow bigger, higher prickly fruit variant chance",
       "source": "23,000,000 in Blood Moon Shop",
-      "hunger": "30K"
+      "hunger": "30K",
+      "dateAdded": "May 17th, 2025"
     },
     "Petal Bee": {
       "name": "Petal Bee",
@@ -2596,7 +2794,8 @@
       "rarity": "Legendary",
       "trait": "Every ~25 minutes, it flies to a nearby fruit and pollinates it, applying Pollinated mutation. ~1% chance Flower type fruit stays after harvest.",
       "source": "Bee Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 31, 2025"
     },
     "Orange Tabby": {
       "name": "Orange Tabby",
@@ -2609,7 +2808,8 @@
       "rarity": "Rare",
       "trait": "Every 90 seconds, naps for 15 seconds and causes new fruit within 15 studs to grow 1.5x larger.",
       "source": "Rare Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 3, 2025"
     },
     "Pig": {
       "name": "Pig",
@@ -2622,7 +2822,8 @@
       "rarity": "Rare",
       "trait": "Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.",
       "source": "Rare Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 3, 2025"
     },
     "Rooster": {
       "name": "Rooster",
@@ -2635,7 +2836,8 @@
       "rarity": "Rare",
       "trait": "Increases egg hatch speed by ~20%.",
       "source": "Rare Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 3, 2025"
     },
     "Spotted Deer": {
       "name": "Spotted Deer",
@@ -2648,7 +2850,8 @@
       "rarity": "Rare",
       "trait": "Gives a 5% chance for berry plants to stay when harvested.",
       "source": "Rare Egg",
-      "hunger": "2.5K"
+      "hunger": "2.5K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Monkey": {
       "name": "Monkey",
@@ -2661,7 +2864,8 @@
       "rarity": "Rare",
       "trait": "~2.5% to refund fruit back to your inventory. Rarer plants have a lower chance to refund.",
       "source": "Rare Egg",
-      "hunger": "7.4K"
+      "hunger": "7.4K",
+      "dateAdded": "May 3, 2025"
     },
     "Hedgehog": {
       "name": "Hedgehog",
@@ -2674,7 +2878,8 @@
       "rarity": "Rare",
       "trait": "Grants prickly fruit in a 30 studs radius a &lt;1.50x size bonus!",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May, 10th, 2025"
     },
     "Red Giant Ant": {
       "name": "Red Giant Ant",
@@ -2687,7 +2892,8 @@
       "rarity": "Mythical",
       "trait": "5% chance harvested crops duplicate! Rarer crops have lower chance to duplicate. 5% extra chance for Fruit type crops to duplicate!",
       "source": "Mythical Egg",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "May 17th, 2025"
     },
     "Giant Ant": {
       "name": "Giant Ant",
@@ -2700,7 +2906,8 @@
       "rarity": "Mythical",
       "trait": "~10% chance for harvested crops to duplicate. Rarer fruits duplicate less often. ~5% extra chance for Candy type fruit to duplicate!",
       "source": "Bug Egg, Exotic Bug Egg",
-      "hunger": "18K"
+      "hunger": "18K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Squirrel": {
       "name": "Squirrel",
@@ -2713,7 +2920,8 @@
       "rarity": "Mythical",
       "trait": "Seed Stash: Small chance to not consume a use when using the Reclaimer. Gains additional XP per second.",
       "source": "Mythical Egg",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "May 17th, 2025"
     },
     "Praying Mantis": {
       "name": "Praying Mantis",
@@ -2726,7 +2934,8 @@
       "rarity": "Mythical",
       "trait": "Zen zone:\nEvery 80s, prays for 10.30s granting a 1.51x variant chance (Rainbow, Gold or Silver) to crops within 10.30 studs.",
       "source": "Bug Egg, Exotic Bug Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 3rd, 2025"
     },
     "Brown Mouse": {
       "name": "Brown Mouse",
@@ -2739,7 +2948,8 @@
       "rarity": "Mythical",
       "trait": "Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 12%.",
       "source": "Mythical Egg",
-      "hunger": "15K"
+      "hunger": "15K",
+      "dateAdded": "May 17th, 2025"
     },
     "Grey Mouse": {
       "name": "Grey Mouse",
@@ -2752,7 +2962,8 @@
       "rarity": "Mythical",
       "trait": "Whisker Wisdom - Gains 500 bonus experience every 10 minutes. Increases the player's movement speed by 10% (Slightly increases as the player's pet(s) get(s) older).",
       "source": "Mythical Egg",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 17th, 2025"
     },
     "Kiwi": {
       "name": "Kiwi",
@@ -2765,7 +2976,8 @@
       "rarity": "Rare",
       "trait": "Every 60 seconds, decreases hatch time of egg with the highest remaining hatch time by 25 seconds.",
       "source": "Lunar Glow Event 2025",
-      "hunger": "Unknown"
+      "hunger": "Unknown",
+      "dateAdded": "May 10th, 2025"
     },
     "Honey Bee": {
       "name": "Honey Bee",
@@ -2778,7 +2990,8 @@
       "rarity": "Rare",
       "trait": "Every ~20m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.",
       "source": "Bee Egg",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "May 31, 2025"
     },
     "Dog": {
       "name": "Dog",
@@ -2791,7 +3004,8 @@
       "rarity": "Common",
       "trait": "Every 60s, 5% chance to dig up a random Seed Shop seed.",
       "source": "Common Egg",
-      "hunger": "1K"
+      "hunger": "1K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Golden Lab (Age 50)": {
       "name": "Golden Lab (Age 50)",
@@ -2804,7 +3018,8 @@
       "rarity": "Common",
       "trait": "Digging friend: ~10% chance to dig up a random Seed Shop seed every 60 seconds.",
       "source": "Common Egg",
-      "hunger": "1.2K"
+      "hunger": "1.2K",
+      "dateAdded": "May 3, 2025"
     },
     "Bunny": {
       "name": "Bunny",
@@ -2817,7 +3032,8 @@
       "rarity": "Common",
       "trait": "Every 40s, eats a carrot at a 1.5x value bonus.",
       "source": "Common Egg",
-      "hunger": "1.1K"
+      "hunger": "1.1K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Black Bunny": {
       "name": "Black Bunny",
@@ -2830,7 +3046,8 @@
       "rarity": "Uncommon",
       "trait": "Every ~40 seconds, the Black Bunny searches for a Carrot on the garden and eats it, automatically selling it at a marked up price of ~1.5x value.",
       "source": "Uncommon Egg",
-      "hunger": "1.3K"
+      "hunger": "1.3K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Bee": {
       "name": "Bee",
@@ -2843,7 +3060,8 @@
       "rarity": "Common",
       "trait": "Every ~25m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.",
       "source": "Bee Egg",
-      "hunger": "25K"
+      "hunger": "25K",
+      "dateAdded": "May 31, 2025"
     },
     "Chicken": {
       "name": "Chicken",
@@ -2856,7 +3074,8 @@
       "rarity": "Uncommon",
       "trait": "Increases egg hatch speed by 10%.",
       "source": "Uncommon Egg",
-      "hunger": "3.4K"
+      "hunger": "3.4K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Deer": {
       "name": "Deer",
@@ -2869,7 +3088,8 @@
       "rarity": "Uncommon",
       "trait": "Gives a 3% chance for berry plants to stay when harvested.",
       "source": "Uncommon Egg",
-      "hunger": "2.5K"
+      "hunger": "2.5K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Cat (Age 50)": {
       "name": "Cat (Age 50)",
@@ -2882,7 +3102,8 @@
       "rarity": "Uncommon",
       "trait": "Every ~80 seconds, the Cat will nap for ~10 seconds. New fruit within ~10 studs will be ~1.25x larger.",
       "source": "Uncommon Egg",
-      "hunger": "1.4K"
+      "hunger": "1.4K",
+      "dateAdded": "May 3rd, 2025"
     },
     "Night Owl": {
       "name": "Night Owl",
@@ -2895,7 +3116,8 @@
       "rarity": "Divine",
       "trait": "All active pets gain an additional &gt;0.28 XP per second.",
       "source": "Night Egg, Premium Night Egg",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "May 10th, 2025"
     },
     "Blood Owl": {
       "name": "Blood Owl",
@@ -2908,7 +3130,8 @@
       "rarity": "Divine",
       "trait": "All active pets gain (0.08 * Weight + 0.5) XP per second.",
       "source": "60,000,000 in Blood Moon Shop",
-      "hunger": "50K"
+      "hunger": "50K",
+      "dateAdded": "May 17, 2025"
     }
   }
 }
