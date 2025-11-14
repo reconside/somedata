@@ -1,14 +1,14 @@
 {
   "metadata": {
     "title": "Grow a Garden Pet Values",
-    "totalPets": 452,
-    "generatedOn": "2025-11-08T15:07:46.870Z"
+    "totalPets": 226,
+    "generatedOn": "2025-11-14T00:32:27.591Z"
   },
   "summary": {
-    "obtainable": 210,
-    "unobtainable": 242,
+    "obtainable": 105,
+    "unobtainable": 121,
     "popular": 0,
-    "regular": 452
+    "regular": 226
   },
   "pets": {
     "Ghostly Headless Horseman": {
@@ -125,10 +125,10 @@
     },
     "Hyena": {
       "name": "Hyena",
-      "value": "TBD",
-      "numericValue": 0,
-      "demand": 0,
-      "stability": "TBD",
+      "value": "20Qi",
+      "numericValue": 20,
+      "demand": 3,
+      "stability": "Stable",
       "popularity": "Regular",
       "availability": "Unobtainable",
       "rarity": "Uncommon",
@@ -195,10 +195,10 @@
     },
     "Gecko": {
       "name": "Gecko",
-      "value": "TBD",
-      "numericValue": 0,
-      "demand": 0,
-      "stability": "TBD",
+      "value": "15Qi",
+      "numericValue": 15,
+      "demand": 3,
+      "stability": "Stable",
       "popularity": "Regular",
       "availability": "Unobtainable",
       "rarity": "Common",
